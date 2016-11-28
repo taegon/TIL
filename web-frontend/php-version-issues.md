@@ -16,6 +16,8 @@ php는 웹환경에서 가장 널리 이용되는 언어 중 하나이나, 진�
 * 일부 함수가 바뀌었다.
 	* `split` -> `preg_split()`, `explode()`, `str_split()`
 	* `mysql` -> `mysqli`
+* 서버 파라미터도 직접 접근이 안된다.
+	* `$PHP_SELF` -> `$_SERVER['PHP_SELF']`
 
 ## 좀 더 정리된 문헌
 * [Migrating from PHP 5.6.x to PHP 7.0.x: 이전 버전과 호환되지 않는 변경점](http://php.net/manual/kr/migration70.incompatible.php)점
