@@ -27,6 +27,9 @@ int main()
 
 또 다른 문제는 절대값을 구하는 abs 역시 함수라는 점에서 문제에서 제한한 조건에 맞지 않는다. 이에 대한 해법은 비트연산으로 가능할 것으로 예상했고, 당연히 있었다. 그러나 여기에 대해서는 별 흥미가 없어서 링크[^abs]만 남긴다.
 
+
 [^twitter_sol]: [http://codepad.org/iIWoZLV7](http://codepad.org/iIWoZLV7)
+
 [^max]: [stackoverflow: Explain this snippet which finds the maximum of two integers without using if-else or any other comparison operator?](http://stackoverflow.com/questions/4772780/explain-this-snippet-which-finds-the-maximum-of-two-integers-without-using-if-el)
+
 [^abs]: [stackoverflow: get absolute value without using abs function nor if statement](http://stackoverflow.com/questions/9772348/get-absolute-value-without-using-abs-function-nor-if-statement)
