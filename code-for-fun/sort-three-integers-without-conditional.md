@@ -3,7 +3,7 @@
 트위터에서 "c언어에서 제어문 및 추가 함수 호출 없이 int 변수 3개 정렬하는 문제"라는 걸 풀어놓은 걸 보고, 다른 방법은 없을까 하고 찾아보았다.
 하루네네(@Harunene)님이 쓴 트위터인데, 글을 작성하는 지금은 글을 찾을 수가 없어서, 풀이해놓은 코드 링크만 남긴다.
 
-## 트위터에서 본 해법[^twitter_sol]
+## 트위터에서 본 해법[1]
 ```c
 #include <stdio.h>
 
@@ -28,7 +28,7 @@ int main()
 또 다른 문제는 절대값을 구하는 abs 역시 함수라는 점에서 문제에서 제한한 조건에 맞지 않는다. 이에 대한 해법은 비트연산으로 가능할 것으로 예상했고, 당연히 있었다. 그러나 여기에 대해서는 별 흥미가 없어서 링크[^abs]만 남긴다.
 
 
-[^twitter_sol]: [http://codepad.org/iIWoZLV7](http://codepad.org/iIWoZLV7)
+[1]: [http://codepad.org/iIWoZLV7](http://codepad.org/iIWoZLV7)
 
 [^max]: [stackoverflow: Explain this snippet which finds the maximum of two integers without using if-else or any other comparison operator?](http://stackoverflow.com/questions/4772780/explain-this-snippet-which-finds-the-maximum-of-two-integers-without-using-if-el)
 
