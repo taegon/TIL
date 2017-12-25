@@ -6,7 +6,7 @@
 
 아래와 같은 형식으로 튜플에 이름을 붙여서 레코드처럼 사용할 수 있다.
 
-```python3
+```python
 import collections
 
 Card = collections.namedtuple('Card', ['rank', 'suit'])
@@ -18,7 +18,7 @@ card = Card('7', 'spades')
 
 책에서 정확한 출력결과를 가져오기 위해서 코드를 사용하면서 doctest를 통과하기 위한 지시자로 이용했다고 하나, 이해가 잘 안된다.
 
-```python3
+```python
 >>> for card in deck:  # doctest: +ELLIPSIS
 ...   print(card)
 ```

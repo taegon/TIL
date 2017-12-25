@@ -14,3 +14,16 @@
 ## namedtuple
 
 namedtuple은 2개의 인자를 갖는데, 첫번째는 클래스명, 두번째는 필드명이 필요하다. 필드명은 공백으로 구분된 하나의 문자열, 혹은 문자열 리스트로 가능하다.
+
+```python
+City._fields # 필드명 튜플을 돌려준다.
+seoul = City._make(seoul_data) # 일반 튜플을 네임드튜플로 생성
+seoul._asdict() # collections.OrderedDict 객체를 돌려준다.
+```
+
+## 슬라이싱
+
+인덱스 0부터 시작하는 이유: [번호를 0부터 매겨야 하는 이유(Why Numbering Should Start at Zero by Edsger W. Dijkstra)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
+
+```seq[start:stop:step]```은 ```seq.__getitem__(slice(start, stop, step))```을 호출한다.
+NumPy는 n차원 텐서를 지원하며, ```x```가 4차원 배열이라고 하면, ```x[i, ...]```은 ```x[i, :, :, :]```와 동일하다.
