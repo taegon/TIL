@@ -46,3 +46,17 @@ bisect는 성적 등급을 결정할 때 유용하다.
 ...     i = bisect.bisect(breakpoints, score)
 ...     return grades[i]
 ```
+
+## array.array
+
+숫자만 있는 리스트는 배열을 이용하는 것이 더 효율적이다. fromfile(f, n)와 tofile(f) 함수가 추가로 제공되기 때문이다.
+
+## 메모리 뷰
+
+씨언어에서 union과 비슷한 개념으로 이해된다. NumPy, SciPy에서 영감을 얻어 개발된 내장 클래스인데, 다음 글을 참조하자.
+
+[언제 메모리 뷰를 사용해야 하는가?](http://bit.ly/1Vm6C8B) by Travis Oliphant
+
+## 추가적으로 읽을거리
+
+NumPy, SciPy, pandas, Blaze, 그리고 collections.deque
