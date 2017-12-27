@@ -27,3 +27,22 @@ seoul._asdict() # collections.OrderedDict 객체를 돌려준다.
 
 ```seq[start:stop:step]```은 ```seq.__getitem__(slice(start, stop, step))```을 호출한다.
 NumPy는 n차원 텐서를 지원하며, ```x```가 4차원 배열이라고 하면, ```x[i, ...]```은 ```x[i, :, :, :]```와 동일하다.
+
+## sort
+
+```python
+fruits.sort() # 리스트 자체를 바꿈
+sorted(fruits) # 새로운 리스트를 돌려줌
+```
+
+- [SortedCollection 비법](http://bit.ly/1Vm6WEa) by Raymond Hettinger
+
+정렬된 시퀀스는 ```bisect(haystack, needle)```로 검색하고, ```bisect.insort(my_list, new_item)```으로 정렬된 리스트를 유지한다.
+
+bisect는 성적 등급을 결정할 때 유용하다.
+
+```python
+>>> def grade(score, breakpoints=[60, 70, 80, 90], grades='FDCBA')
+...     i = bisect.bisect(breakpoints, score)
+...     return grades[i]
+```
