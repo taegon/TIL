@@ -38,3 +38,36 @@ defaultdict는 ```__getitem__()``` 호출에 대한 기본값만을 제공하므
 - collections.ChainMap: 여러 개의 목록 중 하나라도 검색되면 성공. ```pylookup = ChainMap(locals(), globals(), vars(builtins))```
 - collections.Counter: 자세한 설명은 [문서](http://bit.ly/1JHVi2E)를 참조.
 - collections.UserDict: 표준 dict처럼 동작하는 매핑형
+
+## 불변 매핑
+
+MappingProxyType이라는 래퍼 클래스는 mappingproxy 객체를 반환하는데, SQL에서 view같은 역할을 하며, 원 객체의 자료를 그대로 보여주는 반면(업데이트되면, 업데이트된 값으로 보여준다), 직접 수정을 불가능하도록 한다.
+
+Pingo.io에서 Board 클래스는 pins 속성을 공개하는데, 핀번호를 바꿀 수 없도록 하여 실수하지 않고, 내부 기능을 이용할 수 있도록 하고 있다. 다만 개념상 동일하나 mappingproxy를 이용한 것은 아니다.
+
+## 집합
+
+set과 불변형 frozenset이 내장형으로 있다. 빈 집합은 ```set()```으로 표기해야 한다. ```{}```는 딕셔너리 타입이 된다.
+
+집합을 이용하여 교집합 갯수 세는 법은 다음과 같다.
+
+```python
+# 방법1: 둘다 집합일 경우만 가능
+found = len(needles & haystack)
+
+# 방법2: 반복 가능형이면 됨
+found = 0
+for n in needles:
+    if n in haystack:
+        found += 1
+
+# 방법3a: 하나라도 집합이면 방법2보다 빠르다
+found = len(set(needles) & set(haystack))
+
+# 방법3b
+found = len(set(needles).intersection(haystack))
+```
+
+집합을 초기화하는 방식은 ```{1, 2, 3}```이 ```set([1, 2, 3])```보다 더 빠르고 효율적이다.
+
+지능형 집합(set comprehension, setcomp) 또한 가능하다.
