@@ -56,5 +56,12 @@ operator와 functools를 이용하여 함수형 코딩 스타일을 이용할 �
 
 ```reduce()```함수를 이용하여, ```reduce(mul, range(1, n+1))```로 팩토리얼을 구현할 수 있다.
 
-```itemgetter()```와 ```attrgetter()``` 함수를 이용하여 람다함수를 대체할 수 있다.
+```itemgetter()```와 ```attrgetter()``` 함수를 이용하여 람다함수를 대체할 수 있다. ```itemgetter(1)```은 ```lamda fields: fields[1]```과 동일하다.
 
+```methodcaller()```는 런타임에 함수를 생성할 수 있는데, ```functools.partial()```함수와 유사하게 일부 인수를 고정할 수 있다.
+
+## 더 읽을거리
+
+* [파이썬 3의 함수 애너테이션을 어디에 쓰면 좋을까?](http://bit.ly/1FHiOXf)
+* [파이썬 함수 애너테이션은 어떤 장점이 있을까?](http://bit.ly/1FHiN5F)
+* [파이썬에 functools.partial()이 필요한 이유는?](http://bit.ly/1FHiTdh)
