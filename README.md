@@ -12,7 +12,7 @@
 
 ## 작성환경
 
-## Visual Studio Code
+### Visual Studio Code
 
 - [VSCode](https://code.visualstudio.com)
 - 기본적으로 git과 markdown 프리뷰가 설치되어 있으므로, 손쉽게 이용 가능하다.
