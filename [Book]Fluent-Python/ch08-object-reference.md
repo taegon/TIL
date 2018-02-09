@@ -70,3 +70,10 @@ del은 실제 객체를 지우지 않고, 이름만 제거한다. 참조 카운�
 
 * "Core Python" 저자인 웨슬리 천의 [Python 103: 메모리 모델과 모범 사례](http://bit.ly/1GsZvEO), [EuroPython 2011 발표영상](http://bit.ly/1HGCayS)
 * 더그 헬먼의 [금주의 파이썬 모듈](http://pymotw.com): 이 블로그는 "The Python Standard Library by Example"이라는 책이 되었다.
+  * 그의 글 중 '[copy: Duplicate Objects](http://pymotw.com/2/copy)'와 '[weakref: Garbage-Collectable References to Objects](http://pymotw.com/2/weakref)'를 참고하자.
+
+파이썬의 가비지 컬렉션은 선택적이다. 구현체에 따라서 다르게 동작한다.
+
+자바에서는 ```==```이 정체성을 비교하기 때문에, 항상 ```equals()``` 메서드를 염두해야 한다. 하지만 파이썬에서는 ```==```를 제대로 오버라이드해서 정상적으로 값을 비교한다. 정체성을 비교하기 위해서는 ```is``` 키워드를 이용한다.
+
+
