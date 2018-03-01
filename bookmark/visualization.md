@@ -14,6 +14,7 @@
 
 * [DataVisProject](http://datavizproject.com/) :+1:
 * [인포그래픽스.kr](http://info-graphics.kr)
+* [UW Interactive Data Lab](http://idl.cs.washington.edu/)
 
 ## 파이썬 라이브러리
 
