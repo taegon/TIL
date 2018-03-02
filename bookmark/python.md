@@ -6,6 +6,6 @@
 
 ## 노트북
 
-* google의 google docs 연동 online jupyter [colab](https://colab.research.google.com)
+* google docs 연동 online jupyter [colab](https://colab.research.google.com)
 * [Jupyterlab impression](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
 * [Jupyter](https://jupyter.org/install)
