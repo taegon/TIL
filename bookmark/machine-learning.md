@@ -3,6 +3,8 @@
 ## 딥러닝 기본 강좌
 
 * 홍콩과기대 김성훈 교수님의 "[모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)"
+* 구글의 [머신러닝 단기코드](https://developers.google.com/machine-learning/crash-course/)
+* 구글의 [AI 페이지](https://ai.google/education#?modal_active=none)
 
 ## 라이브러리
 
