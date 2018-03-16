@@ -87,3 +87,29 @@ class Sentence:
 ## 표준 라이브러리의 제너레이터 함수
 
 `os.walk()`는 제너레이터 함수이다.
+
+`itertools.compress(it, selector_it)` 함수는 R에서 레코드를 걸러 내는 것처럼, 뒤의 인자를 순회하면서 참일 경우만, 앞의 인자값을 뽑아낸다. `vlookup`과도 유사
+
+`itertools.accumulate(it,  [func])`은 값을 누적한다. 함수를 인자로 넘겨주면 해당함수를 누적하여 적용한다. 최저값만 남긴다던지, 최대값을 남긴다던지 할 수 있다.
+
+`map`은 첫번째 인자의 함수를 2번째부터 주어진 인자를 넘겨서 계산한다.
+
+`itertools.starmap`은 `map`과 유사하나 뒤에 주어진 반복자를 해체하여(*), 적용시킨다. 즉, 주어진 반복자가 한 번 반복때마다 여러개의 속성을 가질 때, (enumerate는 2개) 이걸 풀어서 n개의 인자를 준 것처럼 넘겨준다. 이동평균 예시는 다음과 같다.
+
+```python
+list(iterools.starmap(lambda a, b: b/a, enumerate(itertools.accumulate(sample), 1)))
+```
+
+`itertools.chain(it1, ..., itN)`는 반복자를 차례대로 하나씩 풀어서 다 붙여준다.
+
+`itertools.chain.from_iterable(it1, ..., itN)`는 차례대로 붙여주되, 주어진 반복자가 반복가능하면 그것 역시 풀어서 붙여준다.
+
+`zip`는 주어진 반복자를 병렬로 붙여서 튜플을 만들어준다. 지퍼를 생각하면 쉽다.
+
+`itertools.zip_longest(it1, ..., itN, fillvalue=None)`은 zip과 동일하나 가장 긴 반복자 길이만큼 반복하고, 모자라는 값을 `fillvalue`로 채운다.
+
+`itertools.product()`는 주어진 반복자의 조합을 만드는데, `repeat` 인자를 이용하면, 주어진 항목의 총 조합을 만들수 있다.
+
+`itertools.combinations(it, out_len)`은 순열 조합을 만든다.
+
+`itertools.combinations_with_replacement(it, out_len)`은 뽑았던 공을 다시 넣고 뽑는 방식의 순열 조합을 만든다. 앞서 product와 유사하나 뽑힌 조합의 순서가 의미가 없다. 즉 순열조합에서는 ('A', 'B')와 ('B', 'A')는 동일하고, 한번만 등장한다.
