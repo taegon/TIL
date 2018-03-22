@@ -113,3 +113,25 @@ list(iterools.starmap(lambda a, b: b/a, enumerate(itertools.accumulate(sample), 
 `itertools.combinations(it, out_len)`은 순열 조합을 만든다.
 
 `itertools.combinations_with_replacement(it, out_len)`은 뽑았던 공을 다시 넣고 뽑는 방식의 순열 조합을 만든다. 앞서 product와 유사하나 뽑힌 조합의 순서가 의미가 없다. 즉 순열조합에서는 ('A', 'B')와 ('B', 'A')는 동일하고, 한번만 등장한다.
+
+`itertools.cycle(it)`은 각 항목의 사본을 저장 후, 무한히 반복한다.
+
+순열조합 제너레이션 함수는 `itertools.combinations`, `itertools.combination_with_replacement`, `itertools.permutations`, `itertools.product`가 있다.
+
+`itertools.groupby(it, key=None)`는 주어진 반복형을 그룹으로 나눈다. 나누어진 그룹 제너레이터는 `list()` 내장함수를 통해 시퀀스로 변환할 수 있다.
+
+`itertools.tee(it, n=2)`는 반복형을 이용하여 여러개(n)의 제너레이터를 생성한다.
+
+## yield from
+
+```python
+for i in it:
+    yield i
+```
+
+위 코드는 아래와 동일하다.
+
+```python
+yield from it
+```
+
