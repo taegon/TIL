@@ -31,5 +31,9 @@
 * [ArcGIS.com](http://arcgis.com){:target="_blank"}
 * [ArcGIS Story Map Gallery](https://storymaps.arcgis.com/en/gallery/#s=0&md=storymaps-apps:cascade){:target="_blank"}
 * [Story Map 1. A Food Matters supplement by IonE](http://umn.maps.arcgis.com/apps/Cascade/index.html?appid=a48c26df4577490ba8b92d410df2e1fd){:target="_blank"}
-* [Story Map 2. Mapping Incomes](https://storymaps.esri.com/stories/2018/mapping-incomes/index.html)
-* [Story Map 3. From Shore to Sea: Vessel Traffic in the Salish Sea]{:target="_blank"}(http://tnc.maps.arcgis.com/apps/MapJournal/index.html?appid=48918c38e9454f8794eb0c565c8a9e16){:target="_blank"}
+* [Story Map 2. Mapping Incomes](https://storymaps.esri.com/stories/2018/mapping-incomes/index.html){:target="_blank"}
+* [Story Map 3. From Shore to Sea: Vessel Traffic in the Salish Sea](http://tnc.maps.arcgis.com/apps/MapJournal/index.html?appid=48918c38e9454f8794eb0c565c8a9e16){:target="_blank"}
+
+## 좋은 예제
+
+* [Seeing Theory](http://students.brown.edu/seeing-theory/index.html#firstPage){:target="_blank"}
