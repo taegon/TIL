@@ -135,3 +135,11 @@ for i in it:
 yield from it
 ```
 
+## 반복형을 리듀스하는 함수
+
+`all(it)`, `any(it)`, `max(it)`, `min(it)`, `functools.reduce(func, it, [init])`, `sum(it)` 등이 있다. `all([])`은 `True`를 리턴하며, `any([])`은 `False`를 리턴한다.
+
+## iter() 함수 들여다보기
+
+어떤 객체 `x`를 반복해야 할 때, `iter(x)`를 호출할 수 있으며, 두번째 인자를 주면, 콜러블 객체가 두번째 인자와 같은 값을 리턴하면 `StopIteration` 예외가 발생한다. 두번째 값으로 지정된 구분표시(sentinel)은 절대 리턴되지 않는다.
+
