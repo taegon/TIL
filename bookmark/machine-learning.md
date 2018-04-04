@@ -9,6 +9,7 @@
 ## 딥러닝 연구
 
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/):  개념 설명을 위한 깔끔한 그림
+* [Distill](https://distill.pub): 위 링크에서 타고 들어간 페이지인데, 문서가 굉장히 잘 정리되어 있다.
 
 ## 라이브러리
 
