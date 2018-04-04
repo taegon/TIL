@@ -6,6 +6,10 @@
 * 구글의 [머신러닝 단기코드](https://developers.google.com/machine-learning/crash-course/)
 * 구글의 [AI 페이지](https://ai.google/education#?modal_active=none)
 
+## 딥러닝 연구
+
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/):  개념 설명을 위한 깔끔한 그림
+
 ## 라이브러리
 
 * [TensorFlow](https://www.tensorflow.org/)
