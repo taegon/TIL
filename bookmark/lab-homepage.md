@@ -4,6 +4,7 @@
 
 * [UW Interactive Data Lab](http://idl.cs.washington.edu/): 홈페이지 디자인보다는 컨텐츠가 좋다.
 * [James Stagge](http://www.jstagge.com/): 첫인상은 별로였는데, 딱 내가 생각하는 이상적인 교수 홈페이지 모습을 갖추고 있다. 흠 잡을 데가 거의 없는데, 여전히 안 이쁘다. 기본 템플릿을 가져다 쓰면서 조화를 못 이뤄낸 느낌.
+* [서울대학교 조성준 교수님](http://dm.snu.ac.kr/~zoon/): 전형적인 미국식 소개페이지인데, 한국어와 병기하면서 과하지 않게 잘 정리해두신 것 같다. [Lucy Park](http://lucypark.kr) 님의 지도 교수님.
 
 ## 요정도는 만들자
 
