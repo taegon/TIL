@@ -6,6 +6,12 @@
 * 구글의 [머신러닝 단기코드](https://developers.google.com/machine-learning/crash-course/)
 * 구글의 [AI 페이지](https://ai.google/education#?modal_active=none)
 
+## 딥러닝 연구
+
+* [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/):  개념 설명을 위한 깔끔한 그림
+* [Distill](https://distill.pub): 위 링크에서 타고 들어간 페이지인데, 문서가 굉장히 잘 정리되어 있다.
+* [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html): 논문에 사용된 코드를 공개하고 노트북형식으로 단계별로 해석하고 있다.
+
 ## 라이브러리
 
 * [TensorFlow](https://www.tensorflow.org/)
