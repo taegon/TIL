@@ -40,3 +40,29 @@ def coroutine(func):
 `@coroutine` 데커레이터로 꾸미면, 해당 코루틴을 생성과 동시에 `yield`문까지 실행된다.
 
 `yield from` 구문은 자동으로 코루틴을 기동하므로, 여기서 설명한 `@coroutine` 데커레이터와 동시에 쓸 수 없다. `@asyncio.coroutine` 데커레이터는 동시에 쓸 수 있도록 설계되었으므로, 자동으로 코루틴을 기동하지 않는다.
+
+## 코루틴의 종료와 예외처리
+
+`throw()`와 `close()` 메서드가 있다. `throw()`는 외부에서 제너레이터 안으로 예외를 전달하게 되는데, 내부적으로 처리하면 아무 문제 없이 다음 `yield`까지 수행되나, 처리되지 않는 경우, 호출자에게 예외가 전파된다. `close()`는 제너레이터가 `GeneratorExit`예외를 발생시키도록 만든다. 예외를 처리하지 않거나, `StopIteration` 예외를 발생시키면 호출자에게 에러가 전달되지 않는다. 만약 다른 값을 생성하여 전달하게 되면 `RuntimeError` 예외가 발생한다.
+
+```python
+def demo_finally():
+    print("- coroutine stated")
+    try:
+        while True:
+            try:
+                x = yield
+            except DemoException:
+                print("DemoException handled. Continuing...")
+            else:
+                print("-> coroutine received: {}".format(x))
+    finally:
+        print("- corouine ended.")
+```
+
+코루틴이 종료될 때 정리용 코드를 넣기 위해서 위와 같은 형태의 코드를 작성하게 되는데, 이러한 형태는 매번 작성하기 번거롭다. `yield from`는 이와 같은 문제를 해결하기 위해 소개되었다.
+
+## 코루틴에서 값 반환하기
+
+앞서 이동평균을 구하는 제너레이터에서 `send()` 메서드에 `None`를 넘겨주면, 반복문에서 빠져나와 값을 리턴하도록 예제를 작성하였다. 이를 사용자가 올바르게 이용하기 위해서는 `try - except`를 이용하여, `StopIteration` 예외를 잡을 후, `except` 문장에서 결과를 받아야 한다. `yield from`은 내부적으로 `StopIteration` 예외를 처리하므로, 코루틴의 반환값을 가져오는 우회적인 방법으로 사용할 수 있다. 이는 `for`문에서 처리하는 방식과 비슷하게 받아들일 수 있다. 하지만 인터프리터에서는 `yield from`를 쓸 수가 없다. 함수 외수에서 yield를 사용하면 구문 에러가 발생하기 때문이다.
+
