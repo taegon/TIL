@@ -31,3 +31,14 @@ def download_many(cc_list):
     
     return len(list(res))
 ```
+
+### Future는 어디에?
+
+`Future`는 `concurrent.futures`와 `asyncio`의 핵심 컴포넌트인데, 사용자에게 잘 드러나지 않는다. 파이썬 3.4에서 `Future`는 양쪽 모듈에 각각 클래스로 존재하는데, 완료여부를 확정할 수 없는 지연된 계산을 표현하기 위해 사용된다. `Twisted`의 `Deferred`클래스, `Tornado`의 `Future` 클래스, 자바스크립트의 `Promise` 객체와 비슷하다. 대기중인 작업을 큐에 넣고, 완료 상태를 조사하고, 결과(혹은 예외)를 가져올 수 있도록 캡슐화되어있다.
+
+`Future`객체는 사용자에 의해 직접 생성하지 않고, 동시성 프레임워크 상에서 생성하도록 작성해야 한다. 또한 클라이언트 코드에서 `Future`의 상태를 직접 변경하면 안 된다. 실행 완료 여부를 확인할 수 있는 `done()` 메서드가 있긴한데, 일반적으로 완료시 통지해달라는 콜백함수를 주로 이용한다. `add_done_callback()` 메서드가 그것이다.
+
+`result()` 메서드는 완료된 경우 콜러블의 결과를 반환하거나, 실행 시 발생한 예외를 다시 발생시킨다. 하지만, 작업이 완료되지 않았다면, 두 프레임워크 간의 작동 방식이 다르다. `concurrency.futures.Future` 객체의 경우에는 결과가 나올때까지 호출자의 스레드를 블로킹한다. 선택적으로 `timeout` 인수를 전달할 수 있다. 반면, `asyncio.Future.result()`는 시간 초과를 지원하지 않고, `yield from`를 사용해서 결과를 가져오는 방법을 선호한다. 전자는 `yield from`를 사용할 수 없다.
+
+예제 17-3에서는 `ThreadPoolExecutor.map()`을 사용한 예를, 예제 17-4에서는 `concurrent.futures`를 사용한 예를 살펴보았다. 하지만 엄밀히 말하면, 지금 살펴본 예제는 파일을 병렬로 다운받지 못한다. 전역 인터프리터 락(Global Interpreter Lock, GIL)에 의해 제한되며, 단일 스레드로 실행된다.
+
