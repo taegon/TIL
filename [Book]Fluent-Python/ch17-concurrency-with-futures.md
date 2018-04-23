@@ -42,3 +42,34 @@ def download_many(cc_list):
 
 예제 17-3에서는 `ThreadPoolExecutor.map()`을 사용한 예를, 예제 17-4에서는 `concurrent.futures`를 사용한 예를 살펴보았다. 하지만 엄밀히 말하면, 지금 살펴본 예제는 파일을 병렬로 다운받지 못한다. 전역 인터프리터 락(Global Interpreter Lock, GIL)에 의해 제한되며, 단일 스레드로 실행된다.
 
+## 블로킹 I/O와 GIL
+
+CPython 인터프리터는 내부적으로 스레드 안전하지 않아서, GIL (Global Interpreter Lock)를 두고 있다. GIL은 한 번에 한 쓰레드만 파이썬 바이트코드를 실행토록 하는데, 파이썬 언어의 제한요소는 아니고, CPython 구현체의 제한이다. 물론 PyPy도 GIL를 가지고 있다.
+
+내장함수나 C확장 모듈은 GIL를 해제할 수 있는데, 보통 개발자는 이런 걸 구현하지 않는다. 블로킹 입출력을 실행하는 모든 표준 라이브러리 함수는 OS 결과를 기다리는 동안 GIL를 해제하기 때문에 입출력 위주 작업에서 이득을 볼 수 있다.
+
+데이비드 비즐리는 '파이썬 쓰레드는 아주 능숙하게 게으름을 피운다' 라고 "[제너레이터: 최후의 개척자 106번째 슬라이드](http://www.dabeaz.com/finalgenerator/)"에서 말했다.
+
+## `concurrent.futures`로 프로세스 실행하기
+
+`ProcessPoolExecutor`는 GIL을 우회하여 모든 가용한 CPU를 사용한다. `ThreadPoolExecutor`와 동일하게 범용 `Executor` 인터페이스를 구현하므로, 기존 예제를 쉽게 바꿔볼 수 있다.
+
+```python
+def download_many(cc_list):
+    workers = min(MAX_WORKERS, len(cc_list))
+    with futures.ThreadPoolExecutor(workers) as executor:
+        pass
+
+
+def download_many(cc_list):
+    with futures.ProcessPoolExecutor() as executor:
+        pass
+```
+
+거의 동일한 코드인데, 프로세스의 경우, 코어 갯수를 지정하지 않는 것만 다르다. 프로세스 수는 실제 코어수 이상을 지정하는 것이 의미가 없기 때문에, 주어진 자원을 최대한 이용한다는 의미정도로 이해된다. `ProcessPoolExecutor`는 계산 위주의 작업에서 효과가 있으며, 입출력 위주일 때는 `ThreadPoolExecutor`가 더 많은 워커를 사용할 수 있기 때문에 쓰레드 쪽이 성능이 더 좋다. 국기 다운로드 예제를 프로세스로 구현하면 1.3초에서 1.8초 정도로 더 느려졌다.
+
+해시 예제에서 코어 갯수에 따라 성능 향상을 기대할 수 있었으며, PyPy를 이용하면 그 효과가 더 컸다. 계산 중심의 코드를 작성하면, `ProcessPoolExecutor`와 함께 PyPy를 이용하자.
+
+## `Executor.map()` 실험
+
+`Executor.map()`은 인수로 실행할 함수와 그 함수에 전달한 인자로 구성한다. 함수 호출 자체는 논블로킹이며, 리턴값은 제너레이터이다. 즉 생성은 한순간에 이루어지나, 값을 받아 오기 위해서 반복문을 걸면, 블로킹이 된다. 값은 제너레이터가 차례대로 실행되고, 차례대로 값을 받아오면서 종료한다. 따라서 다소 시간이 걸리는 작업이 배치되면, 뒷 순서의 작업들이 다음 턴을 받기 위해서 기다려야 한다. 순서와 상관없이 먼저 끝나는 것부터 받으려면 `Executor.submit()`과 `futures.as_completed()`를 이용해야 한다.
