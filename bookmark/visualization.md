@@ -21,6 +21,7 @@
 * [seaborn](https://seaborn.pydata.org/examples/index.html): R의 ggplot2 수준으로 고퀄 그래프 제공
 * [Bokeh](https://bokeh.pydata.org/en/latest/docs/gallery.html): 인터렉션 그래프 기능 제공
 * [Python Graph Gallery](https://python-graph-gallery.com/): 파이썬 그래프를 형태별로 예시 제공. 카테고리가 잘 나누어져 있어서, 처음 시작하기에 좋은 페이지이다. 대부분 seaborn이나, matplotlib도 있음.
+* [Altair](https://altair-viz.github.io/index.html)
 
 ## Markdown
 
