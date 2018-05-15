@@ -73,3 +73,35 @@ def download_many(cc_list):
 ## `Executor.map()` 실험
 
 `Executor.map()`은 인수로 실행할 함수와 그 함수에 전달한 인자로 구성한다. 함수 호출 자체는 논블로킹이며, 리턴값은 제너레이터이다. 즉 생성은 한순간에 이루어지나, 값을 받아 오기 위해서 반복문을 걸면, 블로킹이 된다. 값은 제너레이터가 차례대로 실행되고, 차례대로 값을 받아오면서 종료한다. 따라서 다소 시간이 걸리는 작업이 배치되면, 뒷 순서의 작업들이 다음 턴을 받기 위해서 기다려야 한다. 순서와 상관없이 먼저 끝나는 것부터 받으려면 `Executor.submit()`과 `futures.as_completed()`를 이용해야 한다.
+
+## 진행상황 출력하고, 에러처리하기
+
+* [예제코드](https://github.com/fluentpython/example-code/tree/master/17-futures/countries)
+  * [flags2_common.py](https://github.com/fluentpython/example-code/blob/master/17-futures/countries/flags2_common.py)
+  * [flags2_sequential.py](https://github.com/fluentpython/example-code/blob/master/17-futures/countries/flags2_sequential.py)
+  * [flags2_threadpool.py](https://github.com/fluentpython/example-code/blob/master/17-futures/countries/flags2_threadpool.py)
+  * [flags2_asyncio.py](https://github.com/fluentpython/example-code/blob/master/17-futures/countries/flags2_asyncio.py)
+
+진행상황을 막대로 표시해주는 [TQDM 패키지](https://github.com/noamraph/tqdm). `len()` 메서드를 지원하는 반복형을 넘겨주거나, 예상 항목수를 두번째 인자로 받는다.
+
+### flags2 예제에서 예외처리
+
+개별 파일을 다운받는 코드(`download_one()`)에서 404예외처리를 하고, 나머지 예외를 `raise`해주면, 이를 호출한 `download_many()` 함수에서 처리한다.
+
+### futures.as_completed()
+
+비동기 처리가 되므로, 일단 모든 작업을 제출하고, futures.as_completed()의 제너레이터를 받아서 완료되는 작업부터 처리한다. `tqdm`과 결합한 코드는 다음과 같다.
+
+```python
+done_iter = futures.as_completed(to_do_map)
+done_iter = tqdm.tqdm(down_iter, total=len(cc_list))
+for future in done_iter:
+    try:
+        res = future.result()
+```
+
+### 스레드 및 멀티프로세스의 대안
+
+파이썬은 0.9.8 (1993년)부터 스레드를 지원했고, 파이썬 3에서는 원래 thread 모듈 대신 threading 모듈을 사용하도록 권고하고 있다. 스레드 간의 데이터 전송은 queue 모듈을 이용할 수 있다.
+
+계산 위주의 작업을 수행할 때는 GIL를 피해나가야 하므로 `futures.ProcessPoolExecutor`를 사용하여 간단하게 구현할 수 있다. 애플리케이션 구조가 이 클래스에 잘 맞지 않는 경우에는, threading API와 비슷한 multiprocessing 패키지를 이용할 수 있다.
