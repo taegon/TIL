@@ -44,3 +44,4 @@
 
 * [눈누: 상업용 무료 한글폰트](http://noonnu.cc/){:target="_blank"}
 * [Google Fonts](https://fonts.google.com/){:target="_blank"}
+* [HTML 문자 코드 레퍼런스](https://www.toptal.com/designers/htmlarrows/arrows/)
