@@ -8,7 +8,7 @@
 
 ### 순차적으로 다운받기
 
-메인코드만 보면, 다음과 같다. 
+메인코드만 보면, 다음과 같다.
 
 ```python
 import requests
@@ -28,11 +28,11 @@ def download_many(cc_list):
     workers = min(MAX_WROKERS, len(cc_list))
     with futures.ThreadPoolExecutor(workers) as executor:
         res = executor.map(download_one, sorted(cc_list))
-    
+
     return len(list(res))
 ```
 
-### Future는 어디에?
+### Future는 어디에
 
 `Future`는 `concurrent.futures`와 `asyncio`의 핵심 컴포넌트인데, 사용자에게 잘 드러나지 않는다. 파이썬 3.4에서 `Future`는 양쪽 모듈에 각각 클래스로 존재하는데, 완료여부를 확정할 수 없는 지연된 계산을 표현하기 위해 사용된다. `Twisted`의 `Deferred`클래스, `Tornado`의 `Future` 클래스, 자바스크립트의 `Promise` 객체와 비슷하다. 대기중인 작업을 큐에 넣고, 완료 상태를 조사하고, 결과(혹은 예외)를 가져올 수 있도록 캡슐화되어있다.
 
@@ -118,13 +118,13 @@ GIL이라는 제한이 있지만, 입출력 위주의 프로그램은 성능향�
 
 `concurrent.futures` 라이브러리는 "[PEP 3148 - futures - 계산의 비동기 실행](https://www.python.org/dev/peps/pep-3148/)"에서 공식 소개하고 있으며, 자바의 `java.util.concurrent` 패키지에서 영향을 받았다고 한다.
 
-잰 팔라치의 <Parallel Programming with Python>에서 Celery 라이브러리를 다루면서, 장고에서 PDF 변환과 같이 무거운 작업을 다른 프로세스로 덜어내서 HTTP 응답 지연을 줄이는 방법을 소개한다.
+잰 팔라치의 "Parallel Programming with Python"에서 Celery 라이브러리를 다루면서, 장고에서 PDF 변환과 같이 무거운 작업을 다른 프로세스로 덜어내서 HTTP 응답 지연을 줄이는 방법을 소개한다.
 
-데이비드 비즐리, 브라이언 K. 존스의 <Python Cookbook, 3E>에서는 gzip으로 압축된 아파치 로그파일을 ProcessPoolExecutor를 이용하여 분석하는 실용적인 예제를 소개한다.
+데이비드 비즐리, 브라이언 K. 존스의 "Python Cookbook, 3E"에서는 gzip으로 압축된 아파치 로그파일을 `ProcessPoolExecutor`를 이용하여 분석하는 실용적인 예제를 소개한다.
 
-브렛 슬랫킨의 <Effective Python>은 코루틴을 자세히 다루고, concurrent.futures를 이용하여 스레드 프로그래밍을 위한 락과 큐 사용법을 다루고 있다.
+브렛 슬랫킨의 "Effective Python"은 코루틴을 자세히 다루고, `concurrent.futures`를 이용하여 스레드 프로그래밍을 위한 락과 큐 사용법을 다루고 있다.
 
-폴 부처의 <Seven Concurrency Models in Seven Weeks: When Threads Unravel>은 스레드나 콜백을 이용하지 않고 동시성을 사용할 수 잇는 방법을 설명하고, 최신의 대안을 제시한다.
+폴 부처의 "Seven Concurrency Models in Seven Weeks: When Threads Unravel"은 스레드나 콜백을 이용하지 않고 동시성을 사용할 수 잇는 방법을 설명하고, 최신의 대안을 제시한다.
 
 GIL에 관련해서는 링크만 몇가지 남긴다.
 
@@ -133,10 +133,9 @@ GIL에 관련해서는 링크만 몇가지 남긴다.
 * [파이썬 스레드와 전역 인터프리터 락](http://bit.ly/1JIvgwd)
 * [파이썬 GIL의 이해](http://www.dabeaz.com/GIL): 여기서 54번 슬라이드에 파이썬 3.2에 소개된 새로운 GIL 벤치마크 테스트에서 20배나 처리시간이 느려지는 결과를 보여주기도 한다.
 
-제시 놀러와 리차드 오드커크가 계산 위주의 어플리케이션 개발을 위해서 multiprocessing 패키지를 만들었다. 
+제시 놀러와 리차드 오드커크가 계산 위주의 어플리케이션 개발을 위해서 multiprocessing 패키지를 만들었다.
 multiprocessing 패키지는 '[PEP 371 - 표준 라이브러리에서 다중처리 패키지의 추가](https://www.python.org/dev/peps/pep-0371/)'에 소개되어 있다. 표준 문서 중 가장 긴 문서이며, 이 패키지는 concurrent.futures.ProcessPoolExecutor의 기반이다.
 
 스파크는 쉬운 파이썬 API를 제공한다. 파이썬 객체를 데이터로 사용할 수 있다.
 
 호와 부에노의 [lelo 라이브러리](https://pypi.python.org/pypi/lelo)와 냇 프라이스가 만든 [python-parallelize 라이브러리](http://bit.ly/1HGtF6Q)는 여러 프로세서에서 작업들이 병렬로 처리하는 작업을 쉽게 구현할 수 있다. 두 패키지 모두 multiprocessing 모듈을 기반으로 하고 있으며, lelo는 `@parallel` 데커레이터를 제공한다.
-
