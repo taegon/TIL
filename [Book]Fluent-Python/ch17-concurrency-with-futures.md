@@ -105,3 +105,38 @@ for future in done_iter:
 파이썬은 0.9.8 (1993년)부터 스레드를 지원했고, 파이썬 3에서는 원래 thread 모듈 대신 threading 모듈을 사용하도록 권고하고 있다. 스레드 간의 데이터 전송은 queue 모듈을 이용할 수 있다.
 
 계산 위주의 작업을 수행할 때는 GIL를 피해나가야 하므로 `futures.ProcessPoolExecutor`를 사용하여 간단하게 구현할 수 있다. 애플리케이션 구조가 이 클래스에 잘 맞지 않는 경우에는, threading API와 비슷한 multiprocessing 패키지를 이용할 수 있다.
+
+### 요약
+
+본 장에서는 `concurrent.futures`와 `asyncio`에서 제공하는 Future 객체를 살펴보았는데, 18장에서 이 둘의 차이점에 대해서 자세히 살펴본다.
+
+GIL이라는 제한이 있지만, 입출력 위주의 프로그램은 성능향상이 된다. 또한 C언어로 작성된 모든 표준 라이브러리는 GIL를 해제하므로, 다른 쓰레드를 이용할 수 있다. 계산 위주의 작업은 `ProcessPoolExecutor` 혹은 `multiprocessing` 패키지를 이용하여 성능향상을 기대할 수 있다.
+
+## 읽을거리
+
+브라이언 퀸랜은 PyCon AU 2010에서 "[Future가 다가왔다!](http://bit.ly/1JIuZJy)"라는 멋진 발표를 했다.
+
+`concurrent.futures` 라이브러리는 "[PEP 3148 - futures - 계산의 비동기 실행](https://www.python.org/dev/peps/pep-3148/)"에서 공식 소개하고 있으며, 자바의 `java.util.concurrent` 패키지에서 영향을 받았다고 한다.
+
+잰 팔라치의 <Parallel Programming with Python>에서 Celery 라이브러리를 다루면서, 장고에서 PDF 변환과 같이 무거운 작업을 다른 프로세스로 덜어내서 HTTP 응답 지연을 줄이는 방법을 소개한다.
+
+데이비드 비즐리, 브라이언 K. 존스의 <Python Cookbook, 3E>에서는 gzip으로 압축된 아파치 로그파일을 ProcessPoolExecutor를 이용하여 분석하는 실용적인 예제를 소개한다.
+
+브렛 슬랫킨의 <Effective Python>은 코루틴을 자세히 다루고, concurrent.futures를 이용하여 스레드 프로그래밍을 위한 락과 큐 사용법을 다루고 있다.
+
+폴 부처의 <Seven Concurrency Models in Seven Weeks: When Threads Unravel>은 스레드나 콜백을 이용하지 않고 동시성을 사용할 수 잇는 방법을 설명하고, 최신의 대안을 제시한다.
+
+GIL에 관련해서는 링크만 몇가지 남긴다.
+
+* [전역 인터프리터 락은 해제할 수 있는가?](https://docs.python.org/3/faq/library.html#can-t-we-get-rid-of-the-global-interpreter-lock)
+* 귀도 반 로섬과 제시 놀러가 작성한 "[GIL를 제거하는 것은 간단하지 않다](http://bit.ly/1HGtcBF)"
+* [파이썬 스레드와 전역 인터프리터 락](http://bit.ly/1JIvgwd)
+* [파이썬 GIL의 이해](http://www.dabeaz.com/GIL): 여기서 54번 슬라이드에 파이썬 3.2에 소개된 새로운 GIL 벤치마크 테스트에서 20배나 처리시간이 느려지는 결과를 보여주기도 한다.
+
+제시 놀러와 리차드 오드커크가 계산 위주의 어플리케이션 개발을 위해서 multiprocessing 패키지를 만들었다. 
+multiprocessing 패키지는 '[PEP 371 - 표준 라이브러리에서 다중처리 패키지의 추가](https://www.python.org/dev/peps/pep-0371/)'에 소개되어 있다. 표준 문서 중 가장 긴 문서이며, 이 패키지는 concurrent.futures.ProcessPoolExecutor의 기반이다.
+
+스파크는 쉬운 파이썬 API를 제공한다. 파이썬 객체를 데이터로 사용할 수 있다.
+
+호와 부에노의 [lelo 라이브러리](https://pypi.python.org/pypi/lelo)와 냇 프라이스가 만든 [python-parallelize 라이브러리](http://bit.ly/1HGtF6Q)는 여러 프로세서에서 작업들이 병렬로 처리하는 작업을 쉽게 구현할 수 있다. 두 패키지 모두 multiprocessing 모듈을 기반으로 하고 있으며, lelo는 `@parallel` 데커레이터를 제공한다.
+
