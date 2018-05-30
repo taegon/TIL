@@ -15,6 +15,7 @@
 * [DataVisProject](http://datavizproject.com/) :+1:
 * [인포그래픽스.kr](http://info-graphics.kr)
 * [UW Interactive Data Lab](http://idl.cs.washington.edu/)
+* [중앙일보 스페셜 콘텐츠](http://news.joins.com/DigitalSpecial/298): 꽤나 오래 전부터 만들어온 걸 최근에야 발견했다. 중앙일간지여서 그런지 퀄리티가 상당히 좋다. 주제에 따라 주장이 편향되어있는 점이 아쉽지만, 우리나라에서 인포그래픽스를 이용한 양질의 스토리텔링을 주기적으로 뽑아낸다는 점이 북마크한 이유이다.
 
 ## 파이썬 라이브러리
 
