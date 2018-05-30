@@ -16,6 +16,9 @@
 * [인포그래픽스.kr](http://info-graphics.kr)
 * [UW Interactive Data Lab](http://idl.cs.washington.edu/)
 * [중앙일보 스페셜 콘텐츠](http://news.joins.com/DigitalSpecial/298): 꽤나 오래 전부터 만들어온 걸 최근에야 발견했다. 중앙일간지여서 그런지 퀄리티가 상당히 좋다. 주제에 따라 주장이 편향되어있는 점이 아쉽지만, 우리나라에서 인포그래픽스를 이용한 양질의 스토리텔링을 주기적으로 뽑아낸다는 점이 북마크한 이유이다.
+* [kepler.gl](http://kepler.gl) powered by Uber :+1: 브라우저 상에 바로 자료를 올려서 맵을 만들 수 있고, 서버로 자료를 전송하지 않는다고 한다.
+* [VIS.GL](http://vis.gl/) powered by Uber: 우버가 공개한 시각화 관련 라이브러리
+* [UBER Moment](https://movement.uber.com/?lang=en-US): 우버가 자사 자료를 이용해서 지역별 도착 시간을 지도정보로 제공해준다.
 
 ## 파이썬 라이브러리
 
