@@ -49,3 +49,4 @@
 * [눈누: 상업용 무료 한글폰트](http://noonnu.cc/){:target="_blank"}
 * [Google Fonts](https://fonts.google.com/){:target="_blank"}
 * [HTML 문자 코드 레퍼런스](https://www.toptal.com/designers/htmlarrows/arrows/)
+* [콰앙체/타앙체](https://dhqj646.blog.me/221283410959): 한글날에 맞추어 배포하려던 프로젝트가 펀딩실패하고, 제작자께서 무료 공개한 폰트
