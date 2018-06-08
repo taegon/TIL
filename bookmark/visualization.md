@@ -43,9 +43,12 @@
 
 * [Seeing Theory](http://students.brown.edu/seeing-theory/index.html#firstPage){:target="_blank"}
 * [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/){:target="_blank"}
+* [정보는 아름답다](https://informationisbeautiful.net/visualizations/): 책으로 발간되었으며, 다양한 inforgraphics를 제공한다.
+  * [프로그램별 코드 라인수](https://informationisbeautiful.net/visualizations/million-lines-of-code/)
 
 ## 폰트
 
 * [눈누: 상업용 무료 한글폰트](http://noonnu.cc/){:target="_blank"}
 * [Google Fonts](https://fonts.google.com/){:target="_blank"}
 * [HTML 문자 코드 레퍼런스](https://www.toptal.com/designers/htmlarrows/arrows/)
+* [콰앙체/타앙체](https://dhqj646.blog.me/221283410959): 한글날에 맞추어 배포하려던 프로젝트가 펀딩실패하고, 제작자께서 무료 공개한 폰트
