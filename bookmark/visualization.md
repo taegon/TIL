@@ -43,6 +43,8 @@
 
 * [Seeing Theory](http://students.brown.edu/seeing-theory/index.html#firstPage){:target="_blank"}
 * [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/){:target="_blank"}
+* [정보는 아름답다](https://informationisbeautiful.net/visualizations/): 책으로 발간되었으며, 다양한 inforgraphics를 제공한다.
+  * [프로그램별 코드 라인수](https://informationisbeautiful.net/visualizations/million-lines-of-code/)
 
 ## 폰트
 
