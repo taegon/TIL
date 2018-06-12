@@ -13,13 +13,13 @@
 공식 문서에는 3.5를 설치하도록 하나, AVX2를 쓰기 위해 프리컴파일된 바이너리를 찾아보니, 3.6 기준으로 작성되어 있어서 공식문서와 달리 3.6으로 설치하였다.
 기본 설치버전에서는 AVX2를 이용하기 않기 때문에 최신 CPU의 기능을 최대한 활용할 수 없게 된다. 경고문구가 뜨는 게 거슬리기도 했다.
 
-```
+```bash
 conda create -n tensorflow pip python=3.6
 ```
 
 가상환경을 활성화한다. 활성화해서 가상환경에 들어갈 수 있다. 빠져나올 때는 deactivate하거나 해당 창을 닫으면 된다.
 
-```
+```bash
 conda activate tensorflow
 (tensorflow) conda deactivate
 ```
@@ -30,12 +30,12 @@ conda activate tensorflow
 * [리눅스와 맥용 바이너리](https://github.com/lakshayg/tensorflow-build)
 * 해당내용의 출처: [오버플로우: TensorFlow binary was not compiled to use: AVX2](https://stackoverflow.com/questions/47068709/your-cpu-supports-instructions-that-this-tensorflow-binary-was-not-compiled-to-u)
 
-```
+```bash
 (tensorflow) pip install https://github.com/fo40225/tensorflow-windows-wheel/raw/master/1.8.0/py36/CPU/avx2/tensorflow-1.8.0-cp36-cp36m-win_amd64.whl
 ```
 
 참고로, 아나콘다 가상환경을 지울 때는 다음 명령을 이용한다. 3.5로 설치하였다가, 버전을 올리기보다는 새로 만들었다.
 
-```
+```bash
 conda env remove -n <env_name>
 ```
