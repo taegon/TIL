@@ -45,6 +45,8 @@
 * [D3 Graph Theory](https://mrpandey.github.io/d3graphTheory/){:target="_blank"}
 * [정보는 아름답다](https://informationisbeautiful.net/visualizations/): 책으로 발간되었으며, 다양한 inforgraphics를 제공한다.
   * [프로그램별 코드 라인수](https://informationisbeautiful.net/visualizations/million-lines-of-code/)
+* [월드컵 시간대별 골](https://www.economist.com/graphic-detail/2018/06/18/every-world-cup-goal-ever-scored)
+* [R2D3](http://www.r2d3.us): D3로 머신러닝을 설명하는 페이지였는데, 최근에 파트2가 추가되었다. 스토리텔링이 좋다.
 
 ## 폰트
 
