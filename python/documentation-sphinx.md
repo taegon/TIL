@@ -1,6 +1,6 @@
 # 파이썬 코드 문서화하기
 
-[이 링크](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)를 참조하자. 스핑크스의 간단한 사용법과 함께 깃헙 페이지 셋팅하는 방법도 같이 기술되어 있다.
+[이 링크](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)를 참조하자. 스핑크스의 간단한 사용법과 함께 깃헙 페이지 셋팅하는 방법도 같이 기술되어 있다.
 
 ```bash
 $ rm -rf _build/html
