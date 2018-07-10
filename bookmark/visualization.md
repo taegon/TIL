@@ -20,6 +20,7 @@
 * [VIS.GL](http://vis.gl/) powered by Uber: 우버가 공개한 시각화 관련 라이브러리
 * [UBER Moment](https://movement.uber.com/?lang=en-US): 우버가 자사 자료를 이용해서 지역별 도착 시간을 지도정보로 제공해준다.
 * [OEC (The Observatory of Economic Complexity)](https://atlas.media.mit.edu/en/visualize/tree_map/hs92/export/ita/all/show/2016/): 공개된 무역데이터를 이용해서 API를 제공하고 시각화를 하고 있다. :+1:
+* [from Data to Viz](https://www.data-to-viz.com/): 데이터 형태별로 그래프 선택법 같은 정보를 잘 정리해두었다. 처음 시작하기에 좋은 홈페이지.
 
 ## 파이썬 라이브러리
 
