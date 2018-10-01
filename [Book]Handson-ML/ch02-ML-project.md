@@ -173,3 +173,17 @@ from sklearn.model_selection import cross_val_score
 입력 자료의 품질 역시 평가 해야 한다.
 
 마지막으로 새로운 데이터를 이용하여 정기적으로 훈련시켜주어야 한다. 자동화해주는 것이 좋으며, 수동으로 하면 주기가 길어지고, 새로운학습후 성능이 급변할 수 있다. 이 때 시스템을 그 이전상태로 쉽게 되돌릴 수 있어야한다.
+
+## 직접해보기
+
+캐글 같은 경연 사이트가 좋은 시작점이 될 수 있다.
+
+## 연습문제
+
+* 서포트 벡터 머신 회귀 (`sklearn.svm.SVQ`)를 `kernel="linear"`로 하이퍼파라미터 `C`를 바꾸어 보거나, `kernel="rbf"`로 해서 `C`와 `gamma`를 바꾸어보자.
+* `GridSearchCV`와 `RandomizedSearchCV`를 적용해보자.
+* 가장 중요한 특성을 선택하는 준비 파이프라인을 추가해보자.
+* 전체 데이터 준비과정과 최정 예측을 하나의 파이프라인으로 만들어보자.
+* `GridSearchCV`를 이용해 준비단계의 옵션을 자동으로 탐색해보자.
+
+관련한 자료는 [저자의 github 저장소](https://github.com/rickiepark/handson-ml)에서 확일할 수 있다.
