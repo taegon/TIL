@@ -29,6 +29,7 @@
 
 * [데이터쿼스트](https://dataquest.io): 인터렉티브 강좌. 유료 강좌
 * [머신러닝 블로그 리스트](http://goo.gl/GwtU3A)
+* [머신러닝 모델선택 by scikit-learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
 ## 봇 관련
 

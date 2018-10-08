@@ -5,9 +5,15 @@
 * [깃헙으로 팀플하기](https://www.slideshare.net/nexusz99/github-64532279): 아주 기초적인 단계에서 깃헙 소개
 * [깃헙으로 취직하기](https://sujinlee.me/professional-github/): 깃헙을 잘 사용하기 위한 실용적인 방법을 잘 제시함
 
-## 구글강좌
+## 강좌
 
 * [구글 코드랩](https://codelabs.developers.google.com)
+* [마소 Learn](https://docs.microsoft.com/en-us/learn/): Azure 실습형 강좌
+
+## 성과체크
+
+* [스킬 IQ 체크](https://www.pluralsight.com/)
+* [CodeWar](https://www.codewars.com/)
 
 ## 프로그래밍 언어
 
