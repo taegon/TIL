@@ -50,6 +50,7 @@
   * [프로그램별 코드 라인수](https://informationisbeautiful.net/visualizations/million-lines-of-code/)
 * [월드컵 시간대별 골](https://www.economist.com/graphic-detail/2018/06/18/every-world-cup-goal-ever-scored)
 * [R2D3](http://www.r2d3.us): D3로 머신러닝을 설명하는 페이지였는데, 최근에 파트2가 추가되었다. 스토리텔링이 좋다.
+* [BILLIONS OF BIRDS MIGRATE. WHERE DO THEY GO?](https://www.nationalgeographic.com/magazine/2018/03/bird-migration-interactive-maps/): 네셔날지오그래픽의 2018년 3월 기사
 
 ## 폰트
 
