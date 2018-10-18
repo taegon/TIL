@@ -21,6 +21,7 @@
 ## 라이브러리
 
 * [TensorFlow](https://www.tensorflow.org/)
+  * [TensorFlow는 pip 대신 conda로 설치하는 것이 좋다](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
 * [PyTorch](http://pytorch.org/)
 * [Keras](https://keras.io/)
 * [scikit-learn](http://scikit-learn.org/stable/user_guide.html): 공식 매뉴얼인데, 자료가 좋다.
