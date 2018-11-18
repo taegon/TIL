@@ -7,3 +7,4 @@
 * [82년생 김지영](82-Kim.md)(2018.03)
 * [세상을 바꾸는 언어](Yang-Words-can-change-Korea.md)(2018.03)
 * [파이썬 데이터 분석 입문](Foundations-for-Analytics-with-Python.md)(2018.06)
+* [프로그래머 출판 가이드](Publishing-Guide-for-Programmer.md)(2018.11)
