@@ -9,6 +9,8 @@
 * 앤드류 응 교수의 [코세라 머신러닝 강좌](https:/www.coursera.org/learn/machine-learning): 이제는 고전축에 속하는 강좌. 좋은 강좌로 모두가 추천하나 다 들으려면 꽤 노력이 필요하다.
 * 제프리 힌튼 교수의 [신경망과 딥러닝 강좌](https://www.coursera.org/course/neuralnets): 위 엔드류 응 교수 강좌와 비슷한 평
 * 블룸버그의 [ML 기본기](https://bloomberg.github.io/foml/#home)
+* AWS의 [무료 강좌](https://aws.amazon.com/training/learning-paths/machine-learning/)
+* 마일모아 게시판 추천: 개인 웹사이트 [alina.ai](http://blog.alina.ai/courses/ai-pm/)
 
 ## 딥러닝 연구
 
