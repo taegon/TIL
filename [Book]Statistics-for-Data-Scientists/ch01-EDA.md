@@ -161,3 +161,22 @@ R에서 도수분포표는 `seq()` 함수를 이용하여 분절점(breaks)을 �
 * 뉴욕 주립대 오스웨고의 [튜토리얼](http://www.oswego.edu/~srp/stats/bp_con.htm)
 * 밀도추정을 다룬 논문 ["Density estimation in R"](http://vita.had.co.nz/papers/density-estimation.pdf)
 * R-Bloggers에 소개된 [히스토그램에 대한 유용한 포스트](https://www.r-bloggers.com/basics-of-histograms)
+
+## 이진 데이터와 범주 데이터 탐색하기
+
+범주형 데이터에서는 간단한 비율로 데이터를 살펴볼 수 있다. 관련한 주요 용어는 다음과 같다.
+
+* 최빈값(mode)
+* 기댓값(expected value): 출현 확률에 따른 평균
+* 막대도표(bar chart)
+* 파이그림(pie chart)
+
+히스토그램은 x축이 수치적으로 값을 나타내고 막대 사이가 붙어있지만, 막대도표는 x축은 서로 다른 범주를 표시하고, 막대가 서로 떨어져 있다.
+
+### 최빈값
+
+범주형 데이터를 분석하는데 간단히 사용되나, 수치 데이터에는 잘 사용하지 않는다.
+
+### 더 읽을거리
+
+['오해를 일으킬 수 있는 그래프들'](http://passyworldofmathematics.com/misleading-graphs)
