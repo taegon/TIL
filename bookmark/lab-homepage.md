@@ -6,6 +6,9 @@
 * [James Stagge](http://www.jstagge.com/): 첫인상은 별로였는데, 딱 내가 생각하는 이상적인 교수 홈페이지 모습을 갖추고 있다. 흠 잡을 데가 거의 없는데, 여전히 안 이쁘다. 기본 템플릿을 가져다 쓰면서 조화를 못 이뤄낸 느낌.
 * [서울대학교 조성준 교수님](http://dm.snu.ac.kr/~zoon/): 전형적인 미국식 소개페이지인데, 한국어와 병기하면서 과하지 않게 잘 정리해두신 것 같다. [Lucy Park](http://lucypark.kr) 님의 지도 교수님.
 * [연세대학교 김연주 교수님](http://hecl.yonsei.ac.kr/news.html): News란에 멤버들의 대외활동을 정리한 것이 좋다. 과하지 않아서 지속적으로 갱신할 수 있는 점이 좋아보인다. 사이트는 [weebly.com](https://weebly.com)를 이용해서 만들었네.
+* [HADLEY WICKHAM](http://hadley.nz/): Chief Scientist at RStudio. 콘텐츠가 좋아야 한다.
+  * [Academic portfolio](https://vita.had.co.nz/)
+  * [hadley.github.io](https://hadley.github.io/)
 
 ## 요정도는 만들자
 
