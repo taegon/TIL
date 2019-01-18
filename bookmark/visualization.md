@@ -10,6 +10,9 @@
   * [DataWrapper](http://datawrapper.de): 최신브라우저에선 인터렉티브, 오래된 브라우저엔 정적 이미지로 표시한다. 저널리스트를 위해서 설계된 서비스.
   * [dc.js](http://nickqizhu.github.com/dc.js): crossfilter를 이용한 개량된 버전인데, 물건이다.
   * [billboard.js](https://naver.github.io/billboard.js/): naver 개발자가 만든 c3.js 개량버전. 2017년까지는 활발하게 개발했었다. D3.js v4를 지원한다.
+* [Vega](https://vega.github.io/vega/)
+* [Vega-lite](https://github.com/vega/vega-lite): d3.js의 원산지였던 IDL의 라이브러리
+  * [Vega-lite 예제: 월별 강수량](https://vega.github.io/editor/#/url/vega-lite/N4KABGBEAkDODGALApgWwIaQFxUQF...w6+kg6B6jFgAE1+qg2gBRHp3SFmaR+AoFEAFIA)
 
 ## 인포그래픽스
 
