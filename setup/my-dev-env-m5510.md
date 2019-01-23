@@ -39,6 +39,7 @@
 * Hyper: 우분투 설치후, 설정에서 `shell`를 `bash`를 잡아주면 된다. ssh 클라이언트로 이용
 * 다음 팟플레이어: 설치시 홈페이지 첫화면 변경이나, 클리너 설치가 기본 체크되어 있으므로, 체크 해지 하도록 한다.
 * [리디북스 뷰어](https://ridibooks.com/support/app/download)
-* [Filezilla]: FTP client. 설치할 때 오페라와 정보보호 프로그램을 설치한다고 한다. 주의해서 체크아웃하고 설치하자.
+* [Filezilla](https://filezilla-project.org/): FTP client. 설치할 때 오페라와 정보보호 프로그램을 설치한다고 한다. 주의해서 체크아웃하고 설치하자.
 * [wget for windows](http://gnuwin32.sourceforge.net/packages/wget.htm): 서지분석 프로그램에서 wget를 이용하고 있다. 설치 후 경로를 PATH에 추가해주어야 한다.
 * [Go](https://golang.org/)
+* [VMware-player](https://my.vmware.com/en/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/15_0)
