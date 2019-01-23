@@ -24,7 +24,6 @@
 
 * [Neil Lawrence's Talks](http://inverseprobability.com/talks/): Gaussian Processes 관련 자료가 많다. 블로그나 논문 자료 등도 살펴볼만 하다.
 
-
 ## 라이브러리
 
 * [TensorFlow](https://www.tensorflow.org/)
