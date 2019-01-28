@@ -13,3 +13,4 @@
 * [IDL 랩의 포트폴리오](https://vega.github.io/): `Vega`는 물론, `Voyager` 와 `Datalib`를 살펴볼만 하다.
 * [코세라 2018 인기강좌 10선](http://techneedle.com/archives/36833)
 * [Ben Bederson](https://www.cs.umd.edu/users/bederson/): [`Keshif`](https://keshif.me)를 여기서 알게 되었다. 오래 전에 알았던 사이트인데, 기록 차원에서 남겨둔다. 덕분에 [`Keshif`](https://keshif.me)가 굉장히 성숙해진 것을 알게 되었다.
+* [당근마켓 홈페이지 w/ Notion](https://www.notion.so/taegon/3d0197c137ec43d18ff739b5b254a3c8)
