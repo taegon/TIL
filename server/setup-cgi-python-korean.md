@@ -51,3 +51,19 @@ cgi를 구동하기 위한 파이썬 파일의 첫줄에 다음과 같이 스크
 ```bash
 chmod +x hello.py
 ```
+
+## Encoding이 제대로 되지 않을 경우
+
+한글 출력이 잘 되지 않아 에러가 나는 경우, spam 이라는 문자열과 함께 에러를 보여준다. 이 경우 아파치 에러 로그를 확인하면, cgi 에러를 확인할 수 있다. 오늘 문제는 한글 인코딩이 문제였는데, 아래와 같이 해결할 수 있었다.
+
+```python
+sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
+```
+
+python 2 환경이라면, 아래와 같이 해결 가능하다.
+```
+sys.setdefaultencoding('UTF8')
+```
+
+* 출처: [How to set sys.stdout encoding in Python 3?](https://stackoverflow.com/questions/4374455/how-to-set-sys-stdout-encoding-in-python-3)
+* 출처2: [Changing default encoding of Python?](https://stackoverflow.com/questions/2276200/changing-default-encoding-of-python)
