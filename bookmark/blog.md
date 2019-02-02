@@ -2,6 +2,15 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+
+## 2019년 2월
+
+* [VWLAB](https://www.vw-lab.com/): 한국에서 보기 드문 d3 시각화
+    * [김승범씨의 blocks](https://bl.ocks.org/vuski)
+    * [대선개표 맵](https://bl.ocks.org/vuski/raw/7e482f13ef2b2ec4c14bb3622f05c353/)
+* [오마이뉴스 깃헙](https://github.com/OhmyNews/2017-Election): 대선 개표 자료
+
+
 ## 2019년 1월
 
 * [2. 컴퓨터공학과 대학원에 입학하기 전에 알았더라면 좋았을 것들 (석사)](https://m.blog.naver.com/PostView.nhn?blogId=alice_k106&logNo=221447654146&proxyReferer=https%3A%2F%2Fblog.naver.com%2Falice_k106%2F221447654146&fbclid=IwAR04AXi_dP6CU4MTGAcuyD8n6o1zx1GkdIeHuT1sAzaQK4uh78VNTKUNysQ)
