@@ -12,6 +12,7 @@
 * [Quantified Self](http://quantifiedself.com/): 숫자로 자신을 알아가는 과정. [Lucy Park님의 2016년 회고]((https://www.lucypark.kr/blog/2016/12/31/2016-zeitgeist/))에서 처음 접한 개념.
 * [Year in Pixels](https://bulletjournal.com/blogs/bulletjournalist/deep-dive-year-in-pixels)
 * Life Calendar
+* [Papers with code](https://paperswithcode.com/sota)
 
 ## 2019년 1월
 
