@@ -13,6 +13,13 @@
 * [Year in Pixels](https://bulletjournal.com/blogs/bulletjournalist/deep-dive-year-in-pixels)
 * Life Calendar
 * [Papers with code](https://paperswithcode.com/sota)
+* [Annual Temp - New York 2015](https://bl.ocks.org/susielu/b6bdb82045c2aa8225f5): 이 맵을 여러개 그려서 10년동안 온도 변화를 보여주는 것도 좋아 보인다.
+* [awwwards. - d3](https://www.awwwards.com/websites/d3/): d3를 이용하여 잘 만든 웹사이트 모음
+* [awesome-augmented](https://github.com/chaconnewu/awesome-augmented): awesome-list 모음
+* [Awesome D3](https://github.com/wbkd/awesome-d3): D3 관련 링크 모음
+* [stdout.fm](https://stdout.fm)
+* [python: csv -> db](http://odo.pydata.org/en/latest/perf.html)
+
 
 ## 2019년 1월
 
