@@ -2,12 +2,11 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
-
 ## 2019년 2월
 
 * [VWLAB](https://www.vw-lab.com/): 한국에서 보기 드문 d3 시각화
-    * [김승범씨의 blocks](https://bl.ocks.org/vuski)
-    * [대선개표 맵](https://bl.ocks.org/vuski/raw/7e482f13ef2b2ec4c14bb3622f05c353/)
+  * [김승범씨의 blocks](https://bl.ocks.org/vuski)
+  * [대선개표 맵](https://bl.ocks.org/vuski/raw/7e482f13ef2b2ec4c14bb3622f05c353/)
 * [오마이뉴스 깃헙](https://github.com/OhmyNews/2017-Election): 대선 개표 자료
 * [Quantified Self](http://quantifiedself.com/): 숫자로 자신을 알아가는 과정. [Lucy Park님의 2016년 회고]((https://www.lucypark.kr/blog/2016/12/31/2016-zeitgeist/))에서 처음 접한 개념.
 * [Year in Pixels](https://bulletjournal.com/blogs/bulletjournalist/deep-dive-year-in-pixels)
@@ -19,7 +18,7 @@
 * [Awesome D3](https://github.com/wbkd/awesome-d3): D3 관련 링크 모음
 * [stdout.fm](https://stdout.fm)
 * [python: csv -> db](http://odo.pydata.org/en/latest/perf.html)
-
+* [React로 구현한 한글시계](https://codepen.io/sarojaba/pen/WPjXmN)
 
 ## 2019년 1월
 
