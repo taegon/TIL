@@ -19,6 +19,7 @@
 * [stdout.fm](https://stdout.fm)
 * [python: csv -> db](http://odo.pydata.org/en/latest/perf.html)
 * [React로 구현한 한글시계](https://codepen.io/sarojaba/pen/WPjXmN)
+* [iOS로 구현한 영단어 사전찾기(ML)](https://github.com/motlabs/iOS-Projects-with-ML-Models): [facebook 게시글](https://www.facebook.com/tucan9389/posts/2114093285323517) 참조
 
 ## 2019년 1월
 
