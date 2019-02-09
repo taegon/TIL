@@ -20,6 +20,7 @@
 * [python: csv -> db](http://odo.pydata.org/en/latest/perf.html)
 * [React로 구현한 한글시계](https://codepen.io/sarojaba/pen/WPjXmN)
 * [iOS로 구현한 영단어 사전찾기(ML)](https://github.com/motlabs/iOS-Projects-with-ML-Models): [facebook 게시글](https://www.facebook.com/tucan9389/posts/2114093285323517) 참조
+* [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0&feature=youtu.be&fbclid=IwAR0iPM4mz_MQhaOncAYjKtE0StRvqayS-gKMUYQoToHvw9qEv2syrYCfQ_Y): `win32com.client`를 이용한 파이썬에서 엑셀 제어. [관련 블로그](https://kyleellefsen.com/blog/2017_10_28_python_excel/)도 참조.
 
 ## 2019년 1월
 
