@@ -24,6 +24,7 @@
 * [데이터저널리즘 - 스토리텔링의 과학](http://www.kpf.or.kr/site/kpf/research/selectMediaPdsView.do?seq=7141)
   * [데이터 저널리즘 관련 추천서적 대표 10](http://www.snpo.kr/bbs/board.php?bo_table=npo_aca&wr_id=3350&sfl=wr_4&stx=%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD) by 서울시 NPO 지원센터
 * [The Data Journalism Handbook](https://datajournalismhandbook.org/)
+* [김태훈님 블로그](https://carpedm20.github.io/): 최근에 다시 블로그를 쓰기 시작한 것 같다.
 
 ## 2019년 1월
 
