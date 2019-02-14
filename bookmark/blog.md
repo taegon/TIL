@@ -25,6 +25,7 @@
   * [데이터 저널리즘 관련 추천서적 대표 10](http://www.snpo.kr/bbs/board.php?bo_table=npo_aca&wr_id=3350&sfl=wr_4&stx=%EC%9D%B8%ED%8F%AC%EA%B7%B8%EB%9E%98%ED%94%BD) by 서울시 NPO 지원센터
 * [The Data Journalism Handbook](https://datajournalismhandbook.org/)
 * [김태훈님 블로그](https://carpedm20.github.io/): 최근에 다시 블로그를 쓰기 시작한 것 같다.
+* [코딩크루](https://codingcrews.github.io): 딥러닝 연구사례를 잘 정리해서 모아두었다. 깃 저장소를 가보니, 자동화 도구를 이용해서 github page를 배포용도로만 쓰는 것으로 보인다.
 
 ## 2019년 1월
 
