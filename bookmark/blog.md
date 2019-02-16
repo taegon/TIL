@@ -28,6 +28,7 @@
 * [코딩크루](https://codingcrews.github.io): 딥러닝 연구사례를 잘 정리해서 모아두었다. 깃 저장소를 가보니, 자동화 도구를 이용해서 github page를 배포용도로만 쓰는 것으로 보인다.
 * [Cool Farm tool](https://coolfarmtool.org/): SFL (Sustainable Food Lab)를 통해 소개받은 툴. 인벤토리 툴. 웹 리포팅 및 자료 입력시 오른쪽 요약 정보가 표출되어 시나리오 변경 UI가 뛰어남
 * [trase](https://trase.earth): 지속적인 업데이트. UX는 완벽하지 않지만, UI는 매우 뛰어나다.
+* [조현영씨 블로그](https://www.zerocho.com/books): Node.js 교과서 저자
 
 ## 2019년 1월
 
