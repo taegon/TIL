@@ -35,3 +35,14 @@ HTML 태그 속성으로 `data-`로 시작하는 자료를 넣어주면, 이들�
 `document.querySelector('li').dataset`과 같은 식으로 dataset 객체를 받아오면, `data-id`라는 속성은 `id`라는 변수명으로, `data-user-job`은 `userJob`이라는 변수명으로 변환됩니다. 반대로 `dataset.monthSalary = 10000`이라고 넣으면, `data-month-salary`라는 속성이 생기게 됩니다.
 
 ## 함께 보면 좋은 자료
+
+* [ES2015 설명](https://developer.mozilla.org/ko/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
+* [ES 상세 후보군](https://github.com/tc39/proposals)
+* [ES2015+ 브라우저/서버 호환 여부](https://kangax.github.io/compat-table/es6/)
+  * 다른 유용한 자료도 많다. [https://kangax.github.io](https://kangax.github.io)
+* [노드 버전별 ECMAScript 스펙](https://node.green/)
+* [AJAX 설명](https://developer.mozilla.org/ko/docs/Web/Guide/AJAX)
+* [FormData 설명](https://developer.mozilla.org/ko/docs/Web/API/FormData)
+* [ESLint 툴](https://eslint.org/)
+* [Airbnb 코딩 스타일](https://github.com/airbnb/javascript)
+* [저자의 블로그 ES2015+](https://www.zerocho.com/category/EcmaScript)
