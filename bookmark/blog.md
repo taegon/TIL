@@ -29,6 +29,8 @@
 * [Cool Farm tool](https://coolfarmtool.org/): SFL (Sustainable Food Lab)를 통해 소개받은 툴. 인벤토리 툴. 웹 리포팅 및 자료 입력시 오른쪽 요약 정보가 표출되어 시나리오 변경 UI가 뛰어남
 * [trase](https://trase.earth): 지속적인 업데이트. UX는 완벽하지 않지만, UI는 매우 뛰어나다.
 * [조현영씨 블로그](https://www.zerocho.com/books): Node.js 교과서 저자
+* [Philip Roberts](http://latentflip.com/): node.js 루프를 설명하는 걸로 찾은 블로그인데, 글을 많이 쓰진 않지만, 게으른 글쓰기 치고는 괜찮아 보인다.
+  * [GitHub](https://github.com/latentflip): 직원인듯?
 
 ## 2019년 1월
 
