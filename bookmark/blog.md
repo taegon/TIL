@@ -13,6 +13,7 @@
 * Life Calendar
 * [Papers with code](https://paperswithcode.com/sota)
 * [Annual Temp - New York 2015](https://bl.ocks.org/susielu/b6bdb82045c2aa8225f5): 이 맵을 여러개 그려서 10년동안 온도 변화를 보여주는 것도 좋아 보인다.
+  * [WEATHER RADIALS][http://www.weather-radials.com]에서 영감을 얻은 것이라고 한다.
 * [awwwards. - d3](https://www.awwwards.com/websites/d3/): d3를 이용하여 잘 만든 웹사이트 모음
 * [awesome-augmented](https://github.com/chaconnewu/awesome-augmented): awesome-list 모음
 * [Awesome D3](https://github.com/wbkd/awesome-d3): D3 관련 링크 모음
