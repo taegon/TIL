@@ -32,6 +32,10 @@
 * [조현영씨 블로그](https://www.zerocho.com/books): Node.js 교과서 저자
 * [Philip Roberts](http://latentflip.com/): node.js 루프를 설명하는 걸로 찾은 블로그인데, 글을 많이 쓰진 않지만, 게으른 글쓰기 치고는 괜찮아 보인다.
   * [GitHub](https://github.com/latentflip): 직원인듯?
+* [Kaggle 가이드](https://www.kaggle.com/daehungwak/guide-kor-dg): 데이터 분석 어떻게 시작해야 하나요? by 곽도훈
+  * [Github](https://github.com/DaehunGwak)
+  * [케글 한글화 => DS 대중화](https://github.com/kosslab-kr/Kaggle_KR)
+  * [Kaggle-KR](https://kaggle-kr.tistory.com/)
 
 ## 2019년 1월
 
