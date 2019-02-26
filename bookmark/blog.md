@@ -37,6 +37,7 @@
   * [케글 한글화 => DS 대중화](https://github.com/kosslab-kr/Kaggle_KR)
   * [Kaggle-KR](https://kaggle-kr.tistory.com/)
   * 구글 I/O extended Seoul, AWS (윤석찬님)
+* [딥러닝을 위한 PC사양 2019](https://www.youtube.com/watch?v=9AgqC_NW3as&feature=youtu.be) by 엄태웅님
 
 ## 2019년 1월
 
