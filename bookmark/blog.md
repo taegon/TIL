@@ -36,6 +36,7 @@
   * [Github](https://github.com/DaehunGwak)
   * [케글 한글화 => DS 대중화](https://github.com/kosslab-kr/Kaggle_KR)
   * [Kaggle-KR](https://kaggle-kr.tistory.com/)
+  * 구글 I/O extended Seoul, AWS (윤석찬님)
 
 ## 2019년 1월
 

@@ -11,3 +11,7 @@
 * [Attention-based Ensemble for Deep Metric Learning](https://arxiv.org/abs/1804.00382)
 * [Total Recall: Automatic Query Expansion with a Generative Feature Model for Object Retrieval](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/iccv2007.pdf)
 * [Total Recall II: Query Expansion Revisited](http://cmp.felk.cvut.cz/~chum/papers/chum_cvpr11.pdf)
+
+## 이진원 (2019.02.25)
+
+* [Somethings about TPU](https://drive.google.com/file/d/1yEA4l-IIdTykPy3Flp7F6ZySUEU39Amv/view)
