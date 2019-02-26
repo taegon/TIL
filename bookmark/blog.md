@@ -38,6 +38,8 @@
   * [Kaggle-KR](https://kaggle-kr.tistory.com/)
   * 구글 I/O extended Seoul, AWS (윤석찬님)
 * [딥러닝을 위한 PC사양 2019](https://www.youtube.com/watch?v=9AgqC_NW3as&feature=youtu.be) by 엄태웅님
+* [개발관련 유명한 법칙](https://www.timsommer.be/famous-laws-of-software-development/) from 신승환님 페이스북
+* [KT 에어맵](https://www.youtube.com/watch?v=cSo8fXU_MHI) from 자가발전 팟캐스트
 
 ## 2019년 1월
 
