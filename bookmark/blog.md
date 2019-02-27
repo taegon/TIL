@@ -13,7 +13,7 @@
 * Life Calendar
 * [Papers with code](https://paperswithcode.com/sota)
 * [Annual Temp - New York 2015](https://bl.ocks.org/susielu/b6bdb82045c2aa8225f5): 이 맵을 여러개 그려서 10년동안 온도 변화를 보여주는 것도 좋아 보인다.
-  * [WEATHER RADIALS][http://www.weather-radials.com]에서 영감을 얻은 것이라고 한다.
+* [WEATHER RADIALS](http://www.weather-radials.com)에서 영감을 얻은 것이라고 한다.
 * [awwwards. - d3](https://www.awwwards.com/websites/d3/): d3를 이용하여 잘 만든 웹사이트 모음
 * [awesome-augmented](https://github.com/chaconnewu/awesome-augmented): awesome-list 모음
 * [Awesome D3](https://github.com/wbkd/awesome-d3): D3 관련 링크 모음
@@ -41,6 +41,8 @@
 * [개발관련 유명한 법칙](https://www.timsommer.be/famous-laws-of-software-development/) from 신승환님 페이스북
 * [KT 에어맵](https://www.youtube.com/watch?v=cSo8fXU_MHI) from 자가발전 팟캐스트
 * [한글분해](https://github.com/anaclumos/hangulbreak) by 조성현님: 한글로 코드를 작성한 것이 인상적이다.
+* [StarCraft2 AI 논문 번역](https://losskatsu.github.io/papertranslation/sc2le/?fbclid=IwAR30FscR2knOs3btnCAAjOvBtjVK602mByrm0psmuTMQqq7Zna2R-wy1eJY#) by 장철원님
+  * [ROC 커브](https://losskatsu.github.io/machinelearning/stat-roc-curve/#)
 
 ## 2019년 1월
 
