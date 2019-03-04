@@ -9,6 +9,8 @@
 * [이광근 교수님](http://ropas.snu.ac.kr/~kwang/)
   * [PL 강의노트](http://ropas.snu.ac.kr/~kwang/4190.310/11/pl-book-draft.pdf)
   * [글쓰기 팁 (두괄식)](http://kwangkeunyi.snu.ac.kr/4190.310/side-howtowrite.pdf)
+* [Semiotic](https://semiotic.nteract.io/): Data visualization framework for React
+* [nteract](https://nteract.io/desktop): Jupyter notebooks wrapped.
 
 ## 2019년 2월
 
