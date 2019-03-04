@@ -3,7 +3,12 @@
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
 # 2019년 3월
+
 * [포토샵 3D 맵](https://www.youtube.com/watch?v=iwmLeCdfAdc)
+* [Devsisters UI 가이드](https://ui.devsisters.com/)
+* [이광근 교수님](http://ropas.snu.ac.kr/~kwang/)
+  * [PL 강의노트](http://ropas.snu.ac.kr/~kwang/4190.310/11/pl-book-draft.pdf)
+  * [글쓰기 팁 (두괄식)](http://kwangkeunyi.snu.ac.kr/4190.310/side-howtowrite.pdf)
 
 ## 2019년 2월
 
