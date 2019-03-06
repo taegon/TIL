@@ -12,6 +12,12 @@
 * [Semiotic](https://semiotic.nteract.io/): Data visualization framework for React
 * [nteract](https://nteract.io/desktop): Jupyter notebooks wrapped.
 * [Typeform](https://www.typeform.com/): 자료수집을 위한 form를 제공하는데, 매우 수려하다.
+* [채수원님 블로그](https://blog.doortts.com/category/%EC%9E%8A%EA%B8%B0%EC%A0%84%EC%97%90%20%ED%9A%8C%EA%B3%A0): TDD 저자
+  * [면접팁](https://repo.yona.io/doortts/blog/post/295)
+  * [맥 개발환경 설정](https://github.com/doortts/env-of-mac)
+  * [github](https://github.com/doortts)
+* [아응준님 블로그](https://blog.npcode.com/page/1/): 비바 리퍼블리카 개발자. RESTful이나 HTTP 가이드 글을 읽을만 하다.
+  * [github](https://github.com/eungjun-yi)
 
 ## 2019년 2월
 
