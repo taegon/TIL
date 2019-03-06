@@ -18,6 +18,7 @@
   * [github](https://github.com/doortts)
 * [아응준님 블로그](https://blog.npcode.com/page/1/): 비바 리퍼블리카 개발자. RESTful이나 HTTP 가이드 글을 읽을만 하다.
   * [github](https://github.com/eungjun-yi)
+* [유니코드](https://www.bsidesoft.com/?cat=48): BSIDESOFT co. 블로그. 괜찮은 글이 많다.
 
 ## 2019년 2월
 
