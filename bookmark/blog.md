@@ -21,6 +21,7 @@
 * [유니코드](https://www.bsidesoft.com/?cat=48): BSIDESOFT co. 블로그. 괜찮은 글이 많다.
 * [행렬은 그래프로 표현가능하다](https://www.math3ma.com/blog/matrices-probability-graphs): 행렬계산을 시각적으로 보여주는 좋은 글. 조건부 확률 역시 쉽게 이해할 수 있다.
 * [서울지하철노선 SVG](http://bl.ocks.org/vuski/f0132bcf73c31b0a8038b53b1fd8923e) by 김승범
+* [유리천장지수](https://www.economist.com/graphic-detail/2019/03/08/the-glass-ceiling-index) by Economist
 
 ## 2019년 2월
 
