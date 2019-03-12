@@ -23,6 +23,10 @@
 * [서울지하철노선 SVG](http://bl.ocks.org/vuski/f0132bcf73c31b0a8038b53b1fd8923e) by 김승범
 * [유리천장지수](https://www.economist.com/graphic-detail/2019/03/08/the-glass-ceiling-index) by Economist
 * [라인 엔지니어 블로그](https://engineering.linecorp.com/ko/blog/)
+* [VPN 접속자 탐지하기](http://blog.ncsoft.com/?p=36463) by ncsoft
+* [mermaid](https://mermaidjs.github.io/)
+  * [online editor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG4gICAgcGFydGljaXBhbnQgQWxpY2VcbiAgICBwYXJ0aWNpcGFudCBCb2JcbiAgICBBbGljZS0-Sm9objogSGVsbG8gSm9obiwgaG93IGFyZSB5b3U_XG4gICAgbG9vcCBIZWFsdGhjaGVja1xuICAgICAgICBKb2huLT5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuICAgIGVuZFxuICAgIE5vdGUgcmlnaHQgb2YgSm9objogUmF0aW9uYWwgdGhvdWdodHMgPGJyLz5wcmV2YWlsLi4uXG4gICAgSm9obi0tPkFsaWNlOiBHcmVhdCFcbiAgICBKb2huLT5Cb2I6IEhvdyBhYm91dCB5b3U_XG4gICAgQm9iLS0-Sm9objogSm9sbHkgZ29vZCEiLCJtZXJtYWlkIjp7InRoZW1lIjoibmV1dHJhbCJ9fQ)
+  * [Generating documentation as code with mermaid and PlantUML](https://ruleoftech.com/2018/generating-documentation-as-code-with-mermaid-and-plantuml): 소개글
 
 ## 2019년 2월
 
