@@ -27,6 +27,11 @@
 * [mermaid](https://mermaidjs.github.io/)
   * [online editor](https://mermaidjs.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoic2VxdWVuY2VEaWFncmFtXG4gICAgcGFydGljaXBhbnQgQWxpY2VcbiAgICBwYXJ0aWNpcGFudCBCb2JcbiAgICBBbGljZS0-Sm9objogSGVsbG8gSm9obiwgaG93IGFyZSB5b3U_XG4gICAgbG9vcCBIZWFsdGhjaGVja1xuICAgICAgICBKb2huLT5Kb2huOiBGaWdodCBhZ2FpbnN0IGh5cG9jaG9uZHJpYVxuICAgIGVuZFxuICAgIE5vdGUgcmlnaHQgb2YgSm9objogUmF0aW9uYWwgdGhvdWdodHMgPGJyLz5wcmV2YWlsLi4uXG4gICAgSm9obi0tPkFsaWNlOiBHcmVhdCFcbiAgICBKb2huLT5Cb2I6IEhvdyBhYm91dCB5b3U_XG4gICAgQm9iLS0-Sm9objogSm9sbHkgZ29vZCEiLCJtZXJtYWlkIjp7InRoZW1lIjoibmV1dHJhbCJ9fQ)
   * [Generating documentation as code with mermaid and PlantUML](https://ruleoftech.com/2018/generating-documentation-as-code-with-mermaid-and-plantuml): 소개글
+* [stdout.fm - 14주차](https://stdout.fm/14/)
+  * [개발자 이승우 이력서 (2016) - 슬라이드 셰어](https://www.slideshare.net/SeungWooLee2/20130416)
+  * [asbubam (이승우)](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
+  * [Home - colah’s blog](https://colah.github.io/)
+  * [Distill — Latest articles about machine learning](https://distill.pub/)
 
 ## 2019년 2월
 
