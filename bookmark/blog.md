@@ -37,6 +37,9 @@
   * Youtube: [LSTM Neural Networks for Time Series Prediction - IoT Data Science Conference - Jakob Aungiers](https://www.youtube.com/watch?v=2np77NOdnwk&fbclid=IwAR1T0ychb1LPN2BjvY3X0DX5NtAdBCTDjaZtC6aTFukMxSjWM2kENpDu0lc)
 * [W3Techs: Historical trends in the usage of content management systems for websites](https://w3techs.com/technologies/history_overview/content_management/all): 2019년 3월 현재, 전세계 1/3이 워드프레스를 쓰고 있다는 자료. 꾸준한 성장과 시장점유율이 놀랍다.
 * [Douwe Osinga's Projects](https://douwe.com/projects/): [Deep Learning Cookbook](https://ridibooks.com/v2/Detail?id=2121000012)의 저자
+* 윤석찬님 책 추천: [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](https://wikibook.co.kr/aws-infra/)
+* [파이썬 머신러닝 완벽 가이드](https://wikibook.co.kr/ml-definitive-guide/)
+  * [GitHub 저장소](https://github.com/wikibook/ml-definitive-guide/)
 
 ## 2019년 2월
 
