@@ -40,6 +40,8 @@
 * 윤석찬님 책 추천: [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](https://wikibook.co.kr/aws-infra/)
 * [파이썬 머신러닝 완벽 가이드](https://wikibook.co.kr/ml-definitive-guide/)
   * [GitHub 저장소](https://github.com/wikibook/ml-definitive-guide/)
+* [JETSON NANO](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/) by NVIDIA: 472 GFLOPs
+* [Stanford Machine Learning course exercises implemented with scikit-learn](https://github.com/krasserm/machine-learning-notebooks)
 
 ## 2019년 2월
 
