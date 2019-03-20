@@ -42,6 +42,9 @@
   * [GitHub 저장소](https://github.com/wikibook/ml-definitive-guide/)
 * [JETSON NANO](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-nano/) by NVIDIA: 472 GFLOPs
 * [Stanford Machine Learning course exercises implemented with scikit-learn](https://github.com/krasserm/machine-learning-notebooks)
+* [Rankedin](http://rankedin.kr/users): GitHub 한국 사용자 순위
+* [OC: Open Color](https://yeun.github.io/open-color/)
+* [Hoya012's research blog](https://hoya012.github.io/contact/): 딥러닝 논문 리뷰가 많고, object detection 관련 글이 있다.
 
 ## 2019년 2월
 
