@@ -45,6 +45,10 @@
 * [Rankedin](http://rankedin.kr/users): GitHub 한국 사용자 순위
 * [OC: Open Color](https://yeun.github.io/open-color/)
 * [Hoya012's research blog](https://hoya012.github.io/contact/): 딥러닝 논문 리뷰가 많고, object detection 관련 글이 있다.
+* [Go lang 자료모음](https://github.com/zzragida/TechDocs/wiki/Using-Go) by [zzragida@GitHub](https://github.com/zzragida)
+* [염재현님 블로그](https://only2sea.wordpress.com/)
+* [개발자 리스트 모음](https://awesome-devblog.netlify.com/)
+  * [GitHub](https://github.com/sarojaba/awesome-devblog)
 
 ## 2019년 2월
 
