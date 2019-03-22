@@ -50,6 +50,7 @@
 * [개발자 리스트 모음](https://awesome-devblog.netlify.com/)
   * [GitHub](https://github.com/sarojaba/awesome-devblog)
 * [뱅크샐러드 파이썬맛 레시피](https://speakerdeck.com/jungwinter/banksalad-recipe-python-flavor) by [정겨울](https://github.com/JungWinter)
+* [React Native 실제 개발관련 블로그](https://dev-yakuza.github.io/ko/react-native/installation/)
 
 ## 2019년 2월
 
