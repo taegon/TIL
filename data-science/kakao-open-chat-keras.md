@@ -42,3 +42,56 @@
 * [Time Series Prediction Using LSTM Deep Neural Networks](https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks?fbclid=IwAR3B1wxAJNMMewrVqMI8zkg31D2h9NB2_IurySIoFkbfe89R2czC2QOW2YI)
   * Github: [LSTM-Neural-Network-for-Time-Series-Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction) by jaungiers@GitHub
   * Youtube: [LSTM Neural Networks for Time Series Prediction - IoT Data Science Conference - Jakob Aungiers](https://www.youtube.com/watch?v=2np77NOdnwk&fbclid=IwAR1T0ychb1LPN2BjvY3X0DX5NtAdBCTDjaZtC6aTFukMxSjWM2kENpDu0lc)
+
+## 이상훈 (2019.03.21)
+
+이미지 처리나 딥러닝 책을 보면 이미지를 네모로 잘 잘라놓고(crop) 이 사진 개인지 고양이인지 구분하는 예제들이 많이 있습니다.
+
+그런데 실제 환경에서는 누가 명확하게 네모박스를 만들어주지 않습니다. 그냥 고객이 찍은 수 많은 사진들 혹은 영상 속에서 일부에서 개나 고양이를 먼저 찾아내고 여기에 이 부분이 개인지, 고양이인지를 구분해 내야합니다.
+
+그렇게 하기 위해서는 object detection이라는 기술이 필요합니다. detection을 한다는 것은 생각보다 어려운데, 한 이미지 내에 여러 오브젝트가 있을 수 있고 그 사이즈도 다양하며 가려질수도 있습니다. 심지어 정면샷만 있는게 아니라 보는 각도가 다양하며 고양이도 그 종류가 다양합니다. 그중에 명확히 고양이 위치를 잡아내야하고 고양이도 어디까지를 고양이로 봐야할지 후보 영역들이 많아서 그 후보중에 어디를 진짜 최종 박스 봐야할지도 고민이 될 것 입니다.
+
+제가 학생때는 수많은 피쳐엔지니어링이나 HOG와 같은 방법을 많이 사용했는데 최근에는 딥러닝으로 이것이 한방에(??) 가능해졌습니다. 그에 대한 대표적인 알고리즘을 설명하는 포스팅을 공유드립니다. 그리고 참고할만한 좋은 "Keras" 코드도 댓글로 남기겠습니다. 앞으로 공유드릴 상당수는 colab에서 쉽게 돌려볼 수 있어서 굳이 gpu가 없어도 간단한 수준을 테스트 해볼 수 있습니다. (특히 pretrained model이 오픈 된경우에는 더욱..)
+
+* [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detecti…/faster-r-cnn-yolo-ssd/)
+* [https://github.com/broadinstitute/keras-rcnn](https://github.com/broadinstitute/keras-rcnn)
+* [https://github.com/jinfagang/keras_frcnn](https://github.com/jinfagang/keras_frcnn)
+* [https://github.com/qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3)
+* [https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+* [https://github.com/pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras)
+
+## 이상훈 (2019.03.21) - 3d 영상처리
+
+* [ZEDfu - Real-time 3D Mapping using ZED stereo camera](https://www.youtube.com/watch?v=AFH2yN3rM78)
+* [RayNet: Learning Volumetric 3D Reconstruction with Ray Potentials](https://avg.is.tuebingen.mpg.de/publications/paschalidou2018cvpr)
+
+## 이상훈 (2019.03.21)
+
+몇몇분께서 제가 Object Detection 글을 올리고 나서 다른 알고리즘들이 뭐가 있는지와 이후에 디테일한 글에 대해서도 따로 질문을 주셨습니다. 우선 다른 알고리즘들에 대해서는 전체 계보를 보는게 좋을듯해서 참고 자료를 첨부드립니다. 
+
+* [첨부파일](https://www.dropbox.com/s/v3rq3895r05xick/deep_learning_state_of_the_art.pdf?dl=0&fbclid=IwAR2m6Zpf9ZNapgSCmcvKUDc_pDXtubelfB8lP8EbLtn7jJ-x8-4jYG7_GhE)
+* [첨부파일 복사본](https://www.dropbox.com/home/taegon-ebook/sns?preview=deep_learning_state_of_the_art.pdf)
+
+첨부 자료의 38페이지를 보시면 됩니다.(댓글로도 남겨놓겠습니다.)
+첨부는 전에 태웅님이 공유해주신 영상의 발표자료인데 최근 딥러닝 트랜드를 보기에 좋습니다. 아래는 발표내용입니다. 영상을 보면 아주 자세하게는 다루지 못하지만 대강보고 관심이 생기는 영역을 해당 키워드로 찾아보시면 좋을듯 합니다. (단 발표자의 발음은 조금 특이합니다^^;) 영상 링크는 댓글에 달겠습니다.
+저는 개인적으로 BERT(GPT-2도 나오긴 했지만 NLP 영역에서 꼭 알아야 함)와 AdaNet(Auto Hyperparameter tunning 분야를 원래 가장 좋아합니다)을 좋아합니다. 그리고 데이터가 중요해짐에 따라 레이블링이 굉장히 중요한데 Interactive Object Annotation with Polygons도 관심 가지시면 좋을듯 합니다. 이것도 댓글에 데모를 공유드리겠습니다.
+
+Introduction
+BERT and Natural Language Processing
+Tesla Autopilot Hardware v2+: Neural Networks at Scale
+AdaNet: AutoML with Ensembles
+AutoAugment: Deep RL Data Augmentation
+Training Deep Networks with Synthetic Data
+Segmentation Annotation with Polygon-RNN++
+DAWNBench: Training Fast and Cheap
+BigGAN: State of the Art in Image Synthesis
+Video-to-Video Synthesis
+Semantic Segmentation
+AlphaZero & OpenAI Five
+Deep Learning Frameworks
+2019 and beyond
+
+* [Deep Learning State of the Art (2019) - MIT](https://www.youtube.com/watch?v=53YvP6gdD7U)
+* [PolygonRNN++](http://www.cs.toronto.edu/~amlan/demo/)
+  * 테스트 방법은 마우스를 클릭해서 대강의 영역을 잡으면 자동으로 해당영역을 segmentation합니다. 조금 틀린 영역은 사람이 마우스로 드래그해서 수정하면 되는데 하나 수정하면 그것을 기반으로 재계산하여 다시 segmentation합니다.
+  * 약간은 틀리기도하고 속도가 느리기도한데(이건 사람이 몰려서 그렇고 대중에게 오픈안한 벤치속도는 훨씬 빠르다고함) 그래도 이러한 알고리즘들이 데이터 레이블링 스타트업에서 자주 사용되고 있고 앞으로도 더 많이 사용될듯 합니다.
