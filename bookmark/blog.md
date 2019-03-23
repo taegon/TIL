@@ -51,6 +51,8 @@
   * [GitHub](https://github.com/sarojaba/awesome-devblog)
 * [뱅크샐러드 파이썬맛 레시피](https://speakerdeck.com/jungwinter/banksalad-recipe-python-flavor) by [정겨울](https://github.com/JungWinter)
 * [React Native 실제 개발관련 블로그](https://dev-yakuza.github.io/ko/react-native/installation/)
+* [TensorFlow 2.0](https://www.tensorflow.org/alpha/): 케라스를 흡수하면서 사용성이 좋아지고, 동시에 성능개선도 도모하고 있다.
+  * [Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)](https://www.youtube.com/watch?v=k5c-vg4rjBw)
 
 ## 2019년 2월
 

@@ -95,3 +95,24 @@ Deep Learning Frameworks
 * [PolygonRNN++](http://www.cs.toronto.edu/~amlan/demo/)
   * 테스트 방법은 마우스를 클릭해서 대강의 영역을 잡으면 자동으로 해당영역을 segmentation합니다. 조금 틀린 영역은 사람이 마우스로 드래그해서 수정하면 되는데 하나 수정하면 그것을 기반으로 재계산하여 다시 segmentation합니다.
   * 약간은 틀리기도하고 속도가 느리기도한데(이건 사람이 몰려서 그렇고 대중에게 오픈안한 벤치속도는 훨씬 빠르다고함) 그래도 이러한 알고리즘들이 데이터 레이블링 스타트업에서 자주 사용되고 있고 앞으로도 더 많이 사용될듯 합니다.
+
+## 곽대훈님 페이스북(2019.03.22)
+
+오늘 stanford의 [cs230](http://cs230.stanford.edu/)강의 영상이 공개됐네요.
+요즘 이외에도 좋은 강의 영상이 많이 나와서, 같이 공유드립니다 ㅎㅎ
+
+* [Berkeley CS294-158 Deep Unsupervised Learning (2019)](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/featured)
+* [CMU Probabilistic Graphical Models (2019)](https://www.youtube.com/playlist?list=PLoZgVqqHOumTY2CAQHL45tQp6kmDnDcqn)
+* [Deep Learning and Bayesian Methods summer school (2018)](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62)
+* [MIT Non-convex optimization and deep learning workshop (2018)](http://mifods.mit.edu/deep.php)
+* [CMU Convex optimization (2018)](https://www.youtube.com/playlist?list=PLpIxOj-HnDsMM7BCNGC3hPFU3DfCWfVIw)
+* [Berkeley CS294-112 at UC Berkeley Deep Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+* [DeepMind Advanced Deep Learning & Reinforcement Learning (2018)](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+* [ipam New Deep learning Techniques workshop (2018)](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdM0zXj31HWjG9t9Q0v2xYN)
+* [Stanford CS230 Deep Learning (2018)](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
+* [Stanford CS224N NLP with Deep learning(2019)](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [CMU Neural Network for NLP (2019)](https://www.youtube.com/playlist?list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
+* [DL & RL Summer school (2018)](http://videolectures.net/DLRLsummerschool2018_toronto/)
+* [MIT Introduction to Deep learning (2019)](http://introtodeeplearning.com/)
+* [CMU Deep learning (2019)](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
+* [MIT STATISTICAL LEARNING THEORY AND APPLICATIONS (2018)](https://www.youtube.com/playlist?list=PLyGKBDfnk-iAtLO6oLW4swMiQGz4f2OPY)
