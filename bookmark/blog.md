@@ -53,6 +53,7 @@
 * [React Native 실제 개발관련 블로그](https://dev-yakuza.github.io/ko/react-native/installation/)
 * [TensorFlow 2.0](https://www.tensorflow.org/alpha/): 케라스를 흡수하면서 사용성이 좋아지고, 동시에 성능개선도 도모하고 있다.
   * [Introducing TensorFlow 2.0 and its high-level APIs (TF Dev Summit '19)](https://www.youtube.com/watch?v=k5c-vg4rjBw)
+* [Homebrew 2.0](https://brew.sh/2019/02/02/homebrew-2.0.0/): Homebrew가 2.0 버전부터 리눅스도 지원한다는 이야기. 그 말인 즉슨, 윈도우 서브시스템도 지원한다는 이야기. 꾸준한 발전이 멋있다.
 
 ## 2019년 2월
 
