@@ -65,9 +65,9 @@
 * [ZEDfu - Real-time 3D Mapping using ZED stereo camera](https://www.youtube.com/watch?v=AFH2yN3rM78)
 * [RayNet: Learning Volumetric 3D Reconstruction with Ray Potentials](https://avg.is.tuebingen.mpg.de/publications/paschalidou2018cvpr)
 
-## 이상훈 (2019.03.21)
+## 이상훈 (2019.03.21) - 개체 인식
 
-몇몇분께서 제가 Object Detection 글을 올리고 나서 다른 알고리즘들이 뭐가 있는지와 이후에 디테일한 글에 대해서도 따로 질문을 주셨습니다. 우선 다른 알고리즘들에 대해서는 전체 계보를 보는게 좋을듯해서 참고 자료를 첨부드립니다. 
+몇몇분께서 제가 Object Detection 글을 올리고 나서 다른 알고리즘들이 뭐가 있는지와 이후에 디테일한 글에 대해서도 따로 질문을 주셨습니다. 우선 다른 알고리즘들에 대해서는 전체 계보를 보는게 좋을듯해서 참고 자료를 첨부드립니다.
 
 * [첨부파일](https://www.dropbox.com/s/v3rq3895r05xick/deep_learning_state_of_the_art.pdf?dl=0&fbclid=IwAR2m6Zpf9ZNapgSCmcvKUDc_pDXtubelfB8lP8EbLtn7jJ-x8-4jYG7_GhE)
 * [첨부파일 복사본](https://www.dropbox.com/home/taegon-ebook/sns?preview=deep_learning_state_of_the_art.pdf)
