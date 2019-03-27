@@ -6,4 +6,3 @@
 * 2017년 폰트공개목록 정리: [비범한츈@브런치](https://brunch.co.kr/@forchoon/135)
 * 네이버 나눔글꼴: [한글한글아름답게](https://hangeul.naver.com/2017/nanum)
 * 네이버 [D2코딩폰트](https://github.com/naver/d2codingfont)
-* 

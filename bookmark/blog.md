@@ -58,6 +58,10 @@
   * [Jaewook Kang's personal homepage](https://sites.google.com/site/jwkang10/)
   * [tucan9389@GitHub](https://github.com/tucan9389): 나는한다번역 운영자. iOS 개발자이면서, ML에 관심이 많은 것 같다.
   * [나는한다번역](https://blog.canapio.com)
+* [InSpace Tutorial](https://inspaceai.github.io/tutorials/): 김태영님 공유 (같은 회사)
+* [케라스코리아 문서번역](https://keraskorea.github.io)
+  * [케코 튜토리얼 저장소](https://github.com/KerasKorea/KEKOxTutorial)
+  * [케라스로 이해하는 Autoencoder](https://keraskorea.github.io/posts/2018-10-23-keras_autoencoder/)
 
 ## 2019년 2월
 
