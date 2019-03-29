@@ -62,6 +62,14 @@
 * [케라스코리아 문서번역](https://keraskorea.github.io)
   * [케코 튜토리얼 저장소](https://github.com/KerasKorea/KEKOxTutorial)
   * [케라스로 이해하는 Autoencoder](https://keraskorea.github.io/posts/2018-10-23-keras_autoencoder/)
+* [자가발전 s2e11 - 활자중독](https://itunes.apple.com/us/podcast/%EC%9E%90%EA%B0%80%EB%B0%9C%EC%A0%84-%EC%9A%B0%EC%A3%BC%EC%B5%9C%EC%B4%88-%EC%99%B8%EA%B3%84%EC%96%B4%EC%97%86%EB%8A%94-it%ED%8C%9F%EC%BA%90%EC%8A%A4%ED%8A%B8/id997395408?mt=2)
+  * [PUBLY](https://publy.co/)
+  * [뉴닉 Newneek](https://newneek.co/): 뉴스레터, 월/수/목
+  * [어피티 - UPPITY](https://uppity.co.kr/): 화/목 금융소식 뉴스레터
+  * [디자인: 디독 D.dok 뉴스레터 신청](https://bit.us18.list-manage.com/subscribe?u=af3fa310f788062e2a1af62d3&id=ac902cd2af)
+    * [디독 지난 아티클 모음](https://us18.campaign-archive.com/home/?u=af3fa310f788062e2a1af62d3&id=ac902cd2af)
+  * [디에디트 브런치](https://brunch.co.kr/@theedit/590)
+  * [생각노트](http://insidestory.kr/)
 
 ## 2019년 2월
 
