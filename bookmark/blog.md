@@ -6,6 +6,9 @@
 
 * [Notion templates](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) by Notion
 * [Notion pages - templates](https://notionpages.com/)
+* [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+  * [Lutz Roeder's blog](https://www.lutzroeder.com/ai/): Netron 이라는 neural network models 뷰어가 있다.
+* [Data Science - Cheat sheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 
 ## 2019년 3월
 
