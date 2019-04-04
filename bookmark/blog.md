@@ -9,6 +9,7 @@
 * [Awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
   * [Lutz Roeder's blog](https://www.lutzroeder.com/ai/): Netron 이라는 neural network models 뷰어가 있다.
 * [Data Science - Cheat sheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
+* [딥마인드 - 수학모델](https://github.com/deepmind/mathematics_dataset): 울프람 알파를 모방하듯, 자연어로 수학 문제를 알려주면, 수식을 풀어내는 모델을 준비하고 있는 것 같다.
 
 ## 2019년 3월
 
