@@ -2,6 +2,11 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 4월
+
+* [Notion templates](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) by Notion
+* [Notion pages - templates](https://notionpages.com/)
+
 ## 2019년 3월
 
 * [포토샵 3D 맵](https://www.youtube.com/watch?v=iwmLeCdfAdc)
