@@ -13,6 +13,8 @@
 * [High Performance Python](https://iliauk.wordpress.com/2016/03/07/high-performance-python-sessions-async-multi-tasking/): 김태훈(carpedm20)님의 crawling (지금은 지워졌다) 코드에서 FutureSession를 쓰는 것을 보고, 찾아보다가 발견한 글. 해당 블로그에서 아래 글처럼 재미있는 토픽을 발견했다. 워드프레스 도메인으로 서비스하는 사이트는 살아있는데, 개인 도메인은 갱신을 안 한 모양이다. 몇몇 링크가 개인도메인으로 연결되어 있는데, 이상한 사이트로 연결되니 주의하자.
   * [15 mins Public Transport of World Cities](https://iliauk.wordpress.com/2016/01/24/15-mins-public-transport-of-world-cities/): 아래 시간거리 지도를 그린 것으로 전세계 도시들의 통근시간맵을 도시화한 글
   * [Isochrone Analysis using Google Distance Matrix API](https://iliauk.wordpress.com/2015/12/20/isochrone-analysis-using-google-distance-matrix-api/): 지도에 시간거리를 표시해주는 방법
+* [shiren](https://shiren.github.io/): Vue를 이용하는 개발자인 듯 하다.
+* [Flutter](https://flutter.dev/)
 
 ## 2019년 3월
 
