@@ -16,6 +16,12 @@
 * [shiren](https://shiren.github.io/): Vue를 이용하는 개발자인 듯 하다.
 * [Flutter](https://flutter.dev/)
 * [김정환 블로그](http://jeonghwan-kim.github.io/): 프론트엔드 및 Go 개발자
+* [자바실험실](https://javalab.org/)
+* [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/): 신승환님 소개
+* [Computer Graphics from scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) by [Gabriel Gambetta](http://www.gabrielgambetta.com/): 신승환님 소개
+* [neo4j](https://neo4j.com/): 무료책도 제공. 역시 신승환님 페북 참조.
+* [Best Deep Learning Books: Updated for 2019](https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/?fbclid=IwAR0dhuoqN5NSx2xHIcJFP86aWXAq2Oh3zptLaGMo0IsXre049MB4lXCtbD4)
+* [Best Deep Learning Courses: Updated for 2019](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/)
 
 ## 2019년 3월
 
