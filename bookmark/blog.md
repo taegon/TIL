@@ -15,6 +15,7 @@
   * [Isochrone Analysis using Google Distance Matrix API](https://iliauk.wordpress.com/2015/12/20/isochrone-analysis-using-google-distance-matrix-api/): 지도에 시간거리를 표시해주는 방법
 * [shiren](https://shiren.github.io/): Vue를 이용하는 개발자인 듯 하다.
 * [Flutter](https://flutter.dev/)
+* [김정환 블로그](http://jeonghwan-kim.github.io/): 프론트엔드 및 Go 개발자
 
 ## 2019년 3월
 
