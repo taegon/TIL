@@ -23,6 +23,10 @@
 * [Best Deep Learning Books: Updated for 2019](https://blog.floydhub.com/best-deep-learning-books-updated-for-2019/?fbclid=IwAR0dhuoqN5NSx2xHIcJFP86aWXAq2Oh3zptLaGMo0IsXre049MB4lXCtbD4)
 * [Best Deep Learning Courses: Updated for 2019](https://blog.floydhub.com/best-deep-learning-courses-updated-for-2019/)
 * [제네레이터,코루틴,네이티브 코루틴과 async/await](https://hamait.tistory.com/m/830)
+* [Dive into Deep Learning (번역본)](http://ko.d2l.ai): 정도현님 소개.
+  * [저장소](https://github.com/d2l-ai/d2l-ko)
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience)
+* [School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep) at edwith (한글자막)
 
 ## 2019년 3월
 
