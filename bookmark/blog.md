@@ -27,6 +27,7 @@
   * [저장소](https://github.com/d2l-ai/d2l-ko)
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience)
 * [School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep) at edwith (한글자막)
+* [carbon](https://carbon.now.sh/) by [dawn](https://dawnlabs.io/work): 소스코드를 이미지로 만들어주는 서비스, ploty의 dash를 개발한 팀이기도 하다.
 
 ## 2019년 3월
 
