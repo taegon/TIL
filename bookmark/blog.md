@@ -28,6 +28,7 @@
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience)
 * [School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep) at edwith (한글자막)
 * [carbon](https://carbon.now.sh/) by [dawn](https://dawnlabs.io/work): 소스코드를 이미지로 만들어주는 서비스, ploty의 dash를 개발한 팀이기도 하다.
+* [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1) by 채수원: 저자분이 최신 자료를 공유하고자 전문 공개. outsider님이 호평하기도 했던 책.
 
 ## 2019년 3월
 
