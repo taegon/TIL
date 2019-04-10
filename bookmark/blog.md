@@ -31,6 +31,7 @@
 * [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1) by 채수원: 저자분이 최신 자료를 공유하고자 전문 공개. outsider님이 호평하기도 했던 책.
 * [Google OR-Tools](https://developers.google.com/optimization/): Google에서 제공하는 최적화 툴. 큰 문제에 대해서 얼마나 성능을 내줄 지 모르겠다.
   * [mkgsa](https://www.mkgsa.org/zbxe/board_abAy69/1237129#2)에서 참고: 산업시스템공학과 박사과정 4년차 김종은입니다. Operations Research 를 전공하고 있고, 저희 분야에서 쓰는 최적화툴(Google OR-Tools, Julia/JuMP, CPLEX, Xpress, Gurobi 등)을 사용하는데 도움이 필요하시다면 언제든 환영합니다. Linear Programming, Integer Programming, Quadratic Programming 형태의 문제를 푸는데 사용합니다. 연락처는 kim00623 at umn dot edu 입니다.
+* [박준호님 블로그](https://junojunho.com/): 크롬용 확장도구 [rearrange-tabs](https://github.com/mohnish/rearrange-tabs)의 컨트리뷰터 중 한국분이 있어서 찾음. 프론트엔드 개발자인데, 탑클래스는 아니어도, 디발자/비전공의 평범한 개발자의 모습을 엿볼 수 있다. [AWS EC2 + NginX + Nodejs Express](https://junojunho.com/front-end/aws-nginx-express) 글도 읽을만 하다.
 
 ## 2019년 3월
 
