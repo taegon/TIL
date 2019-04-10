@@ -29,6 +29,8 @@
 * [School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep) at edwith (한글자막)
 * [carbon](https://carbon.now.sh/) by [dawn](https://dawnlabs.io/work): 소스코드를 이미지로 만들어주는 서비스, ploty의 dash를 개발한 팀이기도 하다.
 * [TDD 실천법과 도구](https://repo.yona.io/doortts/blog/issue/1) by 채수원: 저자분이 최신 자료를 공유하고자 전문 공개. outsider님이 호평하기도 했던 책.
+* [Google OR-Tools](https://developers.google.com/optimization/): Google에서 제공하는 최적화 툴. 큰 문제에 대해서 얼마나 성능을 내줄 지 모르겠다.
+  * [mkgsa](https://www.mkgsa.org/zbxe/board_abAy69/1237129#2)에서 참고: 산업시스템공학과 박사과정 4년차 김종은입니다. Operations Research 를 전공하고 있고, 저희 분야에서 쓰는 최적화툴(Google OR-Tools, Julia/JuMP, CPLEX, Xpress, Gurobi 등)을 사용하는데 도움이 필요하시다면 언제든 환영합니다. Linear Programming, Integer Programming, Quadratic Programming 형태의 문제를 푸는데 사용합니다. 연락처는 kim00623 at umn dot edu 입니다.
 
 ## 2019년 3월
 
