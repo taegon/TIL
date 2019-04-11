@@ -34,6 +34,7 @@
 * [박준호님 블로그](https://junojunho.com/): 크롬용 확장도구 [rearrange-tabs](https://github.com/mohnish/rearrange-tabs)의 컨트리뷰터 중 한국분이 있어서 찾음. 프론트엔드 개발자인데, 탑클래스는 아니어도, 디발자/비전공의 평범한 개발자의 모습을 엿볼 수 있다. [AWS EC2 + NginX + Nodejs Express](https://junojunho.com/front-end/aws-nginx-express) 글도 읽을만 하다.
 * [한재엽님 블로그](https://jbee.io/): 페이스북 [FELOG: 프론트엔드 개발에 대하여](https://www.facebook.com/Jbee.dev/) 그룹의 운영자이며, 프론트엔드 개발자답게 페이지가 수려하고 읽을만한 글도 많다.
   * [신입개발자를 위한 기술면접 준비](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [민형기님 블로그](https://pinkwink.kr/): [`파이썬으로 데이터 주무르기`](https://ridibooks.com/v2/Detail?id=3780000013) 저자
 
 ## 2019년 3월
 
