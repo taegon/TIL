@@ -35,6 +35,7 @@
 * [한재엽님 블로그](https://jbee.io/): 페이스북 [FELOG: 프론트엔드 개발에 대하여](https://www.facebook.com/Jbee.dev/) 그룹의 운영자이며, 프론트엔드 개발자답게 페이지가 수려하고 읽을만한 글도 많다.
   * [신입개발자를 위한 기술면접 준비](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [민형기님 블로그](https://pinkwink.kr/): [`파이썬으로 데이터 주무르기`](https://ridibooks.com/v2/Detail?id=3780000013) 저자
+* [김병창님 CV](https://bckim92.github.io/): 대학원생 석사과정 CV 예시
 
 ## 2019년 3월
 
