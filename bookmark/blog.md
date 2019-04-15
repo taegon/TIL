@@ -36,6 +36,9 @@
   * [신입개발자를 위한 기술면접 준비](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [민형기님 블로그](https://pinkwink.kr/): [`파이썬으로 데이터 주무르기`](https://ridibooks.com/v2/Detail?id=3780000013) 저자
 * [김병창님 CV](https://bckim92.github.io/): 대학원생 석사과정 CV 예시
+* [후배 개발자에게 - 2019년](https://brunch.co.kr/@javajigi/4) by 박재성님(javajigi)
+  * [Outsider님의 기술 뉴스 #124](https://blog.outsider.ne.kr/1437)에서 발췌
+* [남세동님 인공지능 설명과 자막자동생성앱 VREW](https://brunch.co.kr/@tom-talks/3)
 
 ## 2019년 3월
 
