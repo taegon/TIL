@@ -12,7 +12,19 @@
   * [billboard.js](https://naver.github.io/billboard.js/): naver 개발자가 만든 c3.js 개량버전. 2017년까지는 활발하게 개발했었다. D3.js v4를 지원한다.
 * [Vega](https://vega.github.io/vega/)
 * [Vega-lite](https://github.com/vega/vega-lite): d3.js의 원산지였던 IDL의 라이브러리
-  * [Vega-lite 예제: 월별 강수량](https://vega.github.io/editor/#/url/vega-lite/N4KABGBEAkDODGALApgWwIaQFxUQF...w6+kg6B6jFgAE1+qg2gBRHp3SFmaR+AoFEAFIA)
+  * [Vega-lite 예제: 월별 강수량](https://vega.github.io/editor/): 아래 코드를 이용하여 테스트할 수 있다.
+
+```
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+  "data": {"url": "https://api.taegon.kr/stations/108/?sy=2016&ey=2016"},
+  "mark": "bar",
+  "encoding": {
+    "x": {"timeUnit": "month", "field": "Date", "type": "ordinal"},
+    "y": {"aggregate": "sum", "field": "rainfall", "type": "quantitative"}
+  }
+}
+```
 
 ## 인포그래픽스
 
