@@ -44,6 +44,7 @@
   * 오렐리앙 제롱의 “Hands-On Machine Learning with Scikit-Learn and TensorFlow“: [핸즈온 머신러닝(번역서)](https://tensorflow.blog/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/) [`리뷰`](../[Book]Handson-ML/)
   * 프랑소와 숄레의 “Deep Learning with Python“: [케라스 창시자에게 배우는 딥러닝(번역서)](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D/)
   * 세바스찬 라시카의 “Python Machine Learning”
+* [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko) by Google
 
 ## 2019년 3월
 
