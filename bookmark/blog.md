@@ -47,6 +47,7 @@
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko) by Google
 * [The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378): ML에 대한 간략한 설명
 * [RealPython: Python Machine Learning Tutorials](https://realpython.com/tutorials/machine-learning/)
+* [RealPython: Top 10 Must-Watch PyCon Talks](https://realpython.com/must-watch-pycon-talks/)
 
 ## 2019년 3월
 
