@@ -47,6 +47,7 @@
 * [머신러닝 용어집](https://developers.google.com/machine-learning/glossary/?hl=ko) by Google
 * [The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378): ML에 대한 간략한 설명
 * [RealPython: Python Machine Learning Tutorials](https://realpython.com/tutorials/machine-learning/)
+* [NetowkX](http://networkx.github.io/): 네트워크 (그래프 이론)를 도시하고 분석할 수 있는 파이썬 라이브러리
 
 ## 2019년 3월
 
