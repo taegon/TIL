@@ -53,6 +53,9 @@
 * [Color Hunt](https://colorhunt.co/): 칼라 팔레트 모음
 * [colors](https://coolors.co/): color schemes generator
 * [css-doodle](https://css-doodle.com/): A web component for drawing patterns with CSS
+* ['레이 트레이싱' 기술을 적용하여 빛 효과를 구현한 마인크래프트](http://m.thisisgame.com/webzine/news/nboard/4/?n=93405)
+* [AWS Summit Seoul 2019 행사 스케치](https://wingsnote.com/201)
+* [ml.aws](https://ml.aws)
 
 ## 2019년 3월
 
