@@ -116,3 +116,12 @@ Deep Learning Frameworks
 * [MIT Introduction to Deep learning (2019)](http://introtodeeplearning.com/)
 * [CMU Deep learning (2019)](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
 * [MIT STATISTICAL LEARNING THEORY AND APPLICATIONS (2018)](https://www.youtube.com/playlist?list=PLyGKBDfnk-iAtLO6oLW4swMiQGz4f2OPY)
+
+## VAE 개념에 대해서 잘 설명된 문서 (2019.04.23)
+
+* 왕승현님: [오토인코더의 모든 것](https://youtu.be/o_peo6U7IRM)
+* danial님: [What is a variational autoencoder](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+  * 그리고 외국분 글이 있는데 전 영어 싫어해서 원본으로는 안읽었는데 어떤 훌륭한 분이 번역도 하셔서 블로깅 했다고 합니다.
+  * 번역본: [What is a variational autoencoder](http://nolsigan.com/blog/what-is-variational-autoencoder/)
+* danial님: [유재준님 블로그](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html) 요기있습니다
+* 이대곤님: [Variational Autoencoder를 여러가지 각도에서 이해하기](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
