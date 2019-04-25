@@ -59,6 +59,8 @@
 * [ml.aws](https://ml.aws)
 * [Flowpoints ML](https://mariusbrataas.github.io/flowpoints_ml/): ML 다이어그램 자동생성
   * [github](https://github.com/mariusbrataas/flowpoints_ml)
+* [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/) by [변성윤](https://github.com/zzsza)
+* 코랩에 깃헙 저장소 상의 노트북을 불러오기 위해서는 `https://colab.research.google.com/깃헙사용자명/저장소명/..../xxx.ipynb` 과 같이 URL 앞부분을 수정해주면 된다.
 
 ## 2019년 3월
 
