@@ -57,6 +57,8 @@
 * ['레이 트레이싱' 기술을 적용하여 빛 효과를 구현한 마인크래프트](http://m.thisisgame.com/webzine/news/nboard/4/?n=93405)
 * [AWS Summit Seoul 2019 행사 스케치](https://wingsnote.com/201)
 * [ml.aws](https://ml.aws)
+* [Flowpoints ML](https://mariusbrataas.github.io/flowpoints_ml/): ML 다이어그램 자동생성
+  * [github](https://github.com/mariusbrataas/flowpoints_ml)
 
 ## 2019년 3월
 
