@@ -66,6 +66,9 @@
 * [시사플러스 선정 2019 서울 맛집 지도화](https://github.com/9bow/Seoul-MatZip-2019) with [moim.at](https://moim.at/) : [`demo`](https://mz.moim.at/)
 * [빌드 패턴 자바스크립트](https://dev-momo.tistory.com/entry/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4-Builder-Pattern?fbclid=IwAR0zjLc6keXMvgEAnTn-ddHyK5Ok3Ri7xUfOp3lEiNEDtbkfhRROj1km0W8): [carbon](https://carbon.now.sh/)를 이용해서 스냅샷 이미지를 만든 것 같다. 개인 공부 블로그인데, 스크린샷이 눈에 띄어서 일단 리스트에 올려놓아본다.
 * [버거지수 2019](https://blog.naver.com/idjoopal/221513074069?fbclid=IwAR1kCVBKe0NqPwZ7SxaaMQECxcRFuoWdRdQRxmZj8j-p9_WrPjLTkEQxlh0): 2015년 장혜식님이 작성한 글을 이용해서 2019년 자료로 업데이트한 글
+* [Out Of Memory Killer 회피하기](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92?fbclid=IwAR1GLj7CqI7ZDFUjcsHFSsyeeA5LMSZTbb-HpnWuPoZG4kHFj0ZdrmXlTgo)
+* [schedule](https://schedule.readthedocs.io/en/stable/index.html): python job scheduling for humans.
+* [How to write a great README for your GitHub project](https://dbader.org/blog/write-a-great-readme-for-your-github-project) by Dan Bader (Weekly Tips for Python Developers)
 
 ## 2019년 3월
 
