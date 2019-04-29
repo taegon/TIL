@@ -69,6 +69,8 @@
 * [Out Of Memory Killer 회피하기](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92?fbclid=IwAR1GLj7CqI7ZDFUjcsHFSsyeeA5LMSZTbb-HpnWuPoZG4kHFj0ZdrmXlTgo)
 * [schedule](https://schedule.readthedocs.io/en/stable/index.html): python job scheduling for humans.
 * [How to write a great README for your GitHub project](https://dbader.org/blog/write-a-great-readme-for-your-github-project) by Dan Bader (Weekly Tips for Python Developers)
+* [khaiii](https://github.com/kakao/khaiii): 카카오에서 공개한 형태소 분석 라이브러리
+  * [카카오 형태소 분석기(khaiii) 설치와 은전한닢(mecab) 형태소 분석기 비교](https://lsjsj92.tistory.com/408): 설치기인데, 공식 저장소에 보니까 docker 파일이 있는데, 왜 이 분은 고생을 한 것인지 모르겠다.
 
 ## 2019년 3월
 
