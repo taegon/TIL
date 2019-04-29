@@ -64,6 +64,8 @@
 * [A beginner's guide to building a simple database-backed Flask website on PythonAnywhere](https://blog.pythonanywhere.com/121/)
 * [반드시 기억해야 하는 CSS 선택자 30개](https://code.tutsplus.com/ko/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [시사플러스 선정 2019 서울 맛집 지도화](https://github.com/9bow/Seoul-MatZip-2019) with [moim.at](https://moim.at/) : [`demo`](https://mz.moim.at/)
+* [빌드 패턴 자바스크립트](https://dev-momo.tistory.com/entry/%EB%B9%8C%EB%8D%94-%ED%8C%A8%ED%84%B4-Builder-Pattern?fbclid=IwAR0zjLc6keXMvgEAnTn-ddHyK5Ok3Ri7xUfOp3lEiNEDtbkfhRROj1km0W8): [carbon](https://carbon.now.sh/)를 이용해서 스냅샷 이미지를 만든 것 같다. 개인 공부 블로그인데, 스크린샷이 눈에 띄어서 일단 리스트에 올려놓아본다.
+* [버거지수 2019](https://blog.naver.com/idjoopal/221513074069?fbclid=IwAR1kCVBKe0NqPwZ7SxaaMQECxcRFuoWdRdQRxmZj8j-p9_WrPjLTkEQxlh0): 2015년 장혜식님이 작성한 글을 이용해서 2019년 자료로 업데이트한 글
 
 ## 2019년 3월
 
