@@ -2,6 +2,15 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 5월
+
+* [조은](https://techhtml.github.io/)님 블로그, [JSConf Korea](https://2019.jsconfkorea.com/about)에서 발견
+  * [번역회고록](https://techhtml.github.io/blog/2015/12/)
+* [Linear Regression in Python](https://realpython.com/linear-regression-in-python/)
+* [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
+* [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/) by [조용구](https://github.com/chodragon9): 블로그를 잘 정리하고 있는 것 같다. Kakao FE 플랫폼팀 소속.
+* [AWS Lambda로 PyTorch 모델 서빙하기](https://dreamgonfly.github.io/2018/01/19/pytorch-on-aws-lambda.html) by [조용래](https://github.com/dreamgonfly)
+
 ## 2019년 4월
 
 * [Notion templates](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) by Notion
