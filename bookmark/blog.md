@@ -73,6 +73,7 @@
   * [카카오 형태소 분석기(khaiii) 설치와 은전한닢(mecab) 형태소 분석기 비교](https://lsjsj92.tistory.com/408): 설치기인데, 공식 저장소에 보니까 docker 파일이 있는데, 왜 이 분은 고생을 한 것인지 모르겠다.
 * [Biggest opening weekends in US movie history](https://observablehq.com/@johnburnmurdoch/biggest-opening-weekends-in-us-movie-history) by [Observable/@johnburnmurdoch](https://observablehq.com/@johnburnmurdoch): Bar chart race를 이용
 * [NDC 2019 세션리스트](https://docs.google.com/spreadsheets/d/1Ekrj-ZOpcbrWQX-nDU1wVqI7vAQGIGrphznQSK61hJA/htmlview) from [twitter/@krucef](https://twitter.com/krucef)
+* [데이터과학 자료모음](http://www.hellodatascience.com/?page_id=7) at [헬로데이터과학](http://www.hellodatascience.com/?page_id=7)
 
 ## 2019년 3월
 
