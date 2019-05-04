@@ -11,6 +11,8 @@
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code/) by [조용구](https://github.com/chodragon9): 블로그를 잘 정리하고 있는 것 같다. Kakao FE 플랫폼팀 소속.
 * [AWS Lambda로 PyTorch 모델 서빙하기](https://dreamgonfly.github.io/2018/01/19/pytorch-on-aws-lambda.html) by [조용래](https://github.com/dreamgonfly)
 * [The Ultimate Guide to Python Type Checking](https://realpython.com/python-type-checking/#static-type-checking) by RealPython
+* [Slider for Bootstrap](https://seiyria.com/bootstrap-slider/): 19번 예제를 참조
+* [ticks slider (uber slider selection)](https://codepen.io/timyeung357/pen/JGVgpB) with CodePen: 우버 스타일의 슬라이드 선택폼
 
 ## 2019년 4월
 
