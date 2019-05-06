@@ -15,6 +15,8 @@
 * [ticks slider (uber slider selection)](https://codepen.io/timyeung357/pen/JGVgpB) with CodePen: 우버 스타일의 슬라이드 선택폼
 * [Global Change Information System](https://data.globalchange.gov/): 연구용 주제, 기후변화 관련 indicator를 모아놓은 데이터 저장소. [Melissa](https://www.umdindicators.org/?page_id=57)의 논문에서 참조.
 * [Free eBooks - Project Gutenberg](https://www.gutenberg.org/)
+* [Teaching a kid to code with Pygame Zero](https://www.mattlayman.com/blog/2019/teach-kid-code-pygame-zero/)
+  * [Welcome to Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/)
 
 ## 2019년 4월
 
