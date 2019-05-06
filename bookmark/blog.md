@@ -17,6 +17,16 @@
 * [Free eBooks - Project Gutenberg](https://www.gutenberg.org/)
 * [Teaching a kid to code with Pygame Zero](https://www.mattlayman.com/blog/2019/teach-kid-code-pygame-zero/)
   * [Welcome to Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/)
+* [http://imageai.org](http://imageai.org)
+  * [https://github.com/OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+* [Goalcast](https://www.goalcast.com)
+* [Computer age statistical inference](https://web.stanford.edu/~hastie/CASI_files/PDF/casi.pdf)
+* [http://waterwise.weap-game.net](http://waterwise.weap-game.net): AGU 2017에서 본 사이트. 지금은 다운된 것 같다.
+* [EnergyPlus](https://energyplus.net): AGU 2017. whole building energy simulation program. Tim의 과제에 쓸 수 있을지 모르겠다.
+* [hhmi | BioInteractive](https://www.hhmi.org/biointeractive/): AGU2017. 아마 인터렉티브하게 Global change를 토론할 수 있는 도구 때문에 북마크 했던 것 같다.
+  * [Understanding Global Change](https://www.hhmi.org/biointeractive/understanding-global-change)
+* [CLEAN](https://cleanet.org/index.html): AGU2017. Climate Literacy & Energy Awarenesss Network. 교육용 학습 자료
+* [Sciunit](http://sciunit.run/): AGU2017. a system for easily containerizing, sharing, and tracking scientific applications.
 
 ## 2019년 4월
 
