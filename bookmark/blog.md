@@ -27,6 +27,9 @@
   * [Understanding Global Change](https://www.hhmi.org/biointeractive/understanding-global-change)
 * [CLEAN](https://cleanet.org/index.html): AGU2017. Climate Literacy & Energy Awarenesss Network. 교육용 학습 자료
 * [Sciunit](http://sciunit.run/): AGU2017. a system for easily containerizing, sharing, and tracking scientific applications.
+* [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
+* [cmder](https://cmder.net/): 이성용 박사 추천 cmd tools
+* [typora](https://typora.io/): markdown app
 
 ## 2019년 4월
 
