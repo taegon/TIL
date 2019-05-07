@@ -30,6 +30,7 @@
 * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
 * [cmder](https://cmder.net/): 이성용 박사 추천 cmd tools
 * [typora](https://typora.io/): markdown app
+* [GitHub/@ositive235/gomoku](https://github.com/positive235/gomoku): Pygame를 이용한 오목 구현
 
 ## 2019년 4월
 
