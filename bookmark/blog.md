@@ -31,7 +31,7 @@
 * [cmder](https://cmder.net/): 이성용 박사 추천 cmd tools
 * [typora](https://typora.io/): markdown app
 * [GitHub/@ositive235/gomoku](https://github.com/positive235/gomoku): Pygame를 이용한 오목 구현
-* 교육용 아이패드 앱: Jigspace, Jig Workshop
+* 교육용 아이패드 앱: Jigspace, Jig Workshop, WWF Free Rivers, Waypoint EDU
 
 ## 2019년 4월
 
