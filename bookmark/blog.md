@@ -32,6 +32,7 @@
 * [typora](https://typora.io/): markdown app
 * [GitHub/@ositive235/gomoku](https://github.com/positive235/gomoku): Pygame를 이용한 오목 구현
 * 교육용 아이패드 앱: Jigspace, Jig Workshop, WWF Free Rivers, Waypoint EDU
+* [encycolorpedia](https://encycolorpedia.kr/fee100): 비슷한 색상 찾기
 
 ## 2019년 4월
 
