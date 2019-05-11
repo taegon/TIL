@@ -33,6 +33,7 @@
 * [GitHub/@ositive235/gomoku](https://github.com/positive235/gomoku): Pygame를 이용한 오목 구현
 * 교육용 아이패드 앱: Jigspace, Jig Workshop, WWF Free Rivers, Waypoint EDU
 * [encycolorpedia](https://encycolorpedia.kr/fee100): 비슷한 색상 찾기
+* [boosting 기법 이해 (bagging vs boosting)](https://www.slideshare.net/freepsw/boosting-bagging-vs-boosting)
 
 ## 2019년 4월
 
