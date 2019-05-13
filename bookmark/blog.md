@@ -34,6 +34,10 @@
 * 교육용 아이패드 앱: Jigspace, Jig Workshop, WWF Free Rivers, Waypoint EDU
 * [encycolorpedia](https://encycolorpedia.kr/fee100): 비슷한 색상 찾기
 * [ML Yearning](https://www.mlyearning.org/) by Andrew Ng
+* [PySide2](https://pyside.org): Qt for python
+* [Erin Allard - Ace Your Technical Interview Using Python - PyCon 2019](https://www.youtube.com/watch?v=NltGUUi23zc)
+* [Recursion for Beginners: A Beginner's Guide to Recursion](https://www.youtube.com/watch?v=AfBqVVKg4GE)
+* [Andrew Godwin - Terrain, Art, Python and LiDAR - PyCon 2019](https://www.youtube.com/watch?v=yusmXE6LUAE)
 
 ## 2019년 4월
 
