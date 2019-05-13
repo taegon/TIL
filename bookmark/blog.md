@@ -38,6 +38,14 @@
 * [Erin Allard - Ace Your Technical Interview Using Python - PyCon 2019](https://www.youtube.com/watch?v=NltGUUi23zc)
 * [Recursion for Beginners: A Beginner's Guide to Recursion](https://www.youtube.com/watch?v=AfBqVVKg4GE)
 * [Andrew Godwin - Terrain, Art, Python and LiDAR - PyCon 2019](https://www.youtube.com/watch?v=yusmXE6LUAE)
+* [Anthony Shaw - Wily Python: Writing simpler and more maintainable Python - PyCon 2019](https://www.youtube.com/watch?v=dqdsNoApJ80)
+  * [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
+* [Simon Willison’s Weblog](https://simonwillison.net/): [Datasette](https://datasette.readthedocs.io/en/stable/)
+* [Jake VanderPlas - How to Think about Data Visualization - PyCon 2019](https://www.youtube.com/watch?v=vTingdk_pVM)
+* [PyCon 2019 Slides](https://speakerdeck.com/pycon2019)
+* [Design Patterns in Python for the Untrained Eye](http://34.212.143.74/s201911/pycon2019/docs/design_patterns.html#_introduction)
+  * [slides](https://docs.google.com/presentation/d/e/2PACX-1vQquDxG5_99RvxxKY8i8-DmpVM_3Ca76mU58Nf4sab25-bTY3kKjmMy3JihDtG0jVopZ-Or-BnIjNdX/pub?start=false&loop=false&delayms=3000#slide=id.g567ca5727c_0_67)
+  * [Refactoring.guru](https://refactoring.guru/)
 
 ## 2019년 4월
 
