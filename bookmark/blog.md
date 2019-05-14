@@ -47,6 +47,9 @@
   * [slides](https://docs.google.com/presentation/d/e/2PACX-1vQquDxG5_99RvxxKY8i8-DmpVM_3Ca76mU58Nf4sab25-bTY3kKjmMy3JihDtG0jVopZ-Or-BnIjNdX/pub?start=false&loop=false&delayms=3000#slide=id.g567ca5727c_0_67)
   * [Refactoring.guru](https://refactoring.guru/)
 * [Automation Panda](https://automationpanda.com/): 개발자 Andrew Knight 블로그
+* [the functional art](http://www.thefunctionalart.com/): 《진실을 드러내는 데이터 시각화의 과학과 예술》 (인사이트, 2019)
+* [bytebybyte](https://www.byte-by-byte.com/blog/): 테크 인터뷰 관련 블로그
+* [Sangkon Han](https://www.sangkon.com/author/sangkon/)님 블로그. 도서출판 인사이트의 블로그에서 개발서적 추천 50선 링크를 타고 발견했다. 꾸준히 기사를 요약해서 올리는 자세가 멋지다.
 
 ## 2019년 4월
 
