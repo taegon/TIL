@@ -46,6 +46,7 @@
 * [Design Patterns in Python for the Untrained Eye](http://34.212.143.74/s201911/pycon2019/docs/design_patterns.html#_introduction)
   * [slides](https://docs.google.com/presentation/d/e/2PACX-1vQquDxG5_99RvxxKY8i8-DmpVM_3Ca76mU58Nf4sab25-bTY3kKjmMy3JihDtG0jVopZ-Or-BnIjNdX/pub?start=false&loop=false&delayms=3000#slide=id.g567ca5727c_0_67)
   * [Refactoring.guru](https://refactoring.guru/)
+* [Automation Panda](https://automationpanda.com/): 개발자 Andrew Knight 블로그
 
 ## 2019년 4월
 
