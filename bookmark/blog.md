@@ -53,6 +53,13 @@
 * [영어사전 링크 모음](http://www.englishow.co.kr/index.php?mid=dictionary): 원서읽는 사람들이라는 커뮤니티인데, 시간을 두고 볼만 할 것 같다.
 * [ClimateImpactLab 깃허브 저장소](https://github.com/ClimateImpactLab): 생각보다 괜찮은 개발자가 없는 모양
   * [github/@ClimateImpactLab/climate_toolbox](https://github.com/ClimateImpactLab/climate_toolbox): Matlab에 Climate Data Toolbox가 있어서 포딩된 소스를 찾던 중 발견. 원하던 코드는 아니나, 아는 연구소라서 추가.
+* [rasterstats](https://github.com/perrygeo/python-rasterstats)
+* [Raster processing using Python Tools](https://geohackweek.github.io/raster/04-workingwithrasters/)
+* [University of Washington geohack week](https://github.com/geohackweek)
+  * [ML](https://geohackweek.github.io/machine-learning/)
+  * [GEOHACKWEEK 2019](https://geohackweek.github.io/)
+  * [Raster processing using Python Tools](https://geohackweek.github.io/raster/)
+  * [pygeotools](https://github.com/geohackweek/pygeotools)
 
 ## 2019년 4월
 
