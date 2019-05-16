@@ -51,6 +51,8 @@
 * [bytebybyte](https://www.byte-by-byte.com/blog/): 테크 인터뷰 관련 블로그
 * [Sangkon Han](https://www.sangkon.com/author/sangkon/)님 블로그. 도서출판 인사이트의 블로그에서 개발서적 추천 50선 링크를 타고 발견했다. 꾸준히 기사를 요약해서 올리는 자세가 멋지다.
 * [영어사전 링크 모음](http://www.englishow.co.kr/index.php?mid=dictionary): 원서읽는 사람들이라는 커뮤니티인데, 시간을 두고 볼만 할 것 같다.
+* [ClimateImpactLab 깃허브 저장소](https://github.com/ClimateImpactLab): 생각보다 괜찮은 개발자가 없는 모양
+  * [github/@ClimateImpactLab/climate_toolbox](https://github.com/ClimateImpactLab/climate_toolbox): Matlab에 Climate Data Toolbox가 있어서 포딩된 소스를 찾던 중 발견. 원하던 코드는 아니나, 아는 연구소라서 추가.
 
 ## 2019년 4월
 
