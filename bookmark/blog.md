@@ -62,6 +62,7 @@
   * [pygeotools](https://github.com/geohackweek/pygeotools)
 * [KerasUI](https://github.com/zeppaman/KerasUI)
 * [Keras 모델을 REST API로 배포해보기](https://keraskorea.github.io/posts/2018-10-27-Keras%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20REST%20API%EB%A1%9C%20%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EA%B8%B0/)
+* [codenfish.github.io](http://codenfish.github.io/): CLI로 만든 개발자 홈페이지
 
 ## 2019년 4월
 
