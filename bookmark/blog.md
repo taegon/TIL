@@ -66,6 +66,8 @@
 * [GitHub/@dgryski/go-perfbook](https://github.com/dgryski/go-perfbook?fbclid=IwAR2nTlHHTisZPQWB4mdS6vyF7vGGwff2vqEkuYKAOI3xNtYLAY-oCGJFq1c): "RT @fortyfourbits: Go 코드 성능 최적화를 위한 베스트 프렉티스를 정리한 문서입니다." from 44bits 페북 페이지
 * [딥러닝 개인화 추천](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c?fbclid=IwAR3Q2qrHyvDxhSlBxYuKO6sjPLLXtmt61qNf32ORPMy0QZ59OrpNdFlJD2U): 당근마켓의 딥러닝을 활용한 개인화 추천 시스템 도입 과정을 설명한 글입니다. from 44bits 페북 페이지
 * [GitHub/@wesm/pydata-book](https://github.com/wesm/pydata-book): Python for Data Analysis, 2nd Edition by Wes McKinney, published by O'Reilly Media
+* [서비큐라 기술 블로그](https://subicura.com): "쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?" 같은 기술블로그
+* [JBEE.io](https://jbee.io): "Facebook F8 Hackathon 후기"
 
 ## 2019년 4월
 
