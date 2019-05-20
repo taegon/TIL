@@ -63,6 +63,9 @@
 * [KerasUI](https://github.com/zeppaman/KerasUI)
 * [Keras 모델을 REST API로 배포해보기](https://keraskorea.github.io/posts/2018-10-27-Keras%20%EB%AA%A8%EB%8D%B8%EC%9D%84%20REST%20API%EB%A1%9C%20%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EA%B8%B0/)
 * [codenfish.github.io](http://codenfish.github.io/): CLI로 만든 개발자 홈페이지
+* [GitHub/@dgryski/go-perfbook](https://github.com/dgryski/go-perfbook?fbclid=IwAR2nTlHHTisZPQWB4mdS6vyF7vGGwff2vqEkuYKAOI3xNtYLAY-oCGJFq1c): "RT @fortyfourbits: Go 코드 성능 최적화를 위한 베스트 프렉티스를 정리한 문서입니다." from 44bits 페북 페이지
+* [딥러닝 개인화 추천](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c?fbclid=IwAR3Q2qrHyvDxhSlBxYuKO6sjPLLXtmt61qNf32ORPMy0QZ59OrpNdFlJD2U): 당근마켓의 딥러닝을 활용한 개인화 추천 시스템 도입 과정을 설명한 글입니다. from 44bits 페북 페이지
+* [GitHub/@wesm/pydata-book](https://github.com/wesm/pydata-book): Python for Data Analysis, 2nd Edition by Wes McKinney, published by O'Reilly Media
 
 ## 2019년 4월
 
