@@ -68,6 +68,8 @@
 * [GitHub/@wesm/pydata-book](https://github.com/wesm/pydata-book): Python for Data Analysis, 2nd Edition by Wes McKinney, published by O'Reilly Media
 * [서비큐라 기술 블로그](https://subicura.com): "쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?" 같은 기술블로그
 * [JBEE.io](https://jbee.io): "Facebook F8 Hackathon 후기"
+* [유나영의 번역 애프터서비스](http://lectrice.co.kr): "코끼리는 생각하지 마" 역자
+* [codurance](https://codurance.com/2019/04/16/containers-with-docker/): "소프트웨어 장인"의 저자 산두로 만쿠소의 회사
 
 ## 2019년 4월
 
