@@ -70,6 +70,7 @@
 * [JBEE.io](https://jbee.io): "Facebook F8 Hackathon 후기"
 * [유나영의 번역 애프터서비스](http://lectrice.co.kr): "코끼리는 생각하지 마" 역자
 * [codurance](https://codurance.com/2019/04/16/containers-with-docker/): "소프트웨어 장인"의 저자 산두로 만쿠소의 회사
+* [Munich RE: natcap service tools](https://natcatservice.munichre.com): 전세계 대형 재난의 피해액을 산출해놓았다.
 
 ## 2019년 4월
 
