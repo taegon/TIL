@@ -71,6 +71,11 @@
 * [유나영의 번역 애프터서비스](http://lectrice.co.kr): "코끼리는 생각하지 마" 역자
 * [codurance](https://codurance.com/2019/04/16/containers-with-docker/): "소프트웨어 장인"의 저자 산두로 만쿠소의 회사
 * [Munich RE: natcap service tools](https://natcatservice.munichre.com): 전세계 대형 재난의 피해액을 산출해놓았다.
+* [The Flutter Create winners are…](https://medium.com/flutter/the-flutter-create-winners-are-40980f2d20b3): Flutter로 작성된 예제들을 살펴볼 수 있다.
+* [ludwig.guru](https://ludwig.guru/): 영어 문법 체크 및 비슷한 문장을 찾아준다.
+* [Git for Beginners](https://lennerd.github.io/git-for-beginners/)
+  * [Lennerd](https://lennerd.com/)
+  * [GitHub/@lennerd](https://github.com/lennerd)
 
 ## 2019년 4월
 
