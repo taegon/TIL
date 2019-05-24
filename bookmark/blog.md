@@ -79,6 +79,8 @@
 * [Yoda conditions](https://en.wikipedia.org/wiki/Yoda_conditions): 조건문에서 변수와 값의 순서를 바꾸어 쓰는 방식인데, 실수로 값을 할당하거나, 변수가 null일 때, 오류를 방지하는 효과가 있다. 나도 몇년동안 사용한 적이 있는데, 가독성을 포기하고 이를 적용하는 것이 올바른 방식인가에 대한 의문이 생겼다. 최근에는 다시 사용하지 않는 방향으로 전향하고 있는 것으로 보인다. (also called Yoda notation)
   * [String.equals() argument ordering](https://stackoverflow.com/questions/9888508/string-equals-argument-ordering)
 * [국립국어원 학습사전](https://krdict.korean.go.kr/m/eng)
+* [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268)
+* [1년간 그가 스타트업 정글에서 살아남은 방법](https://medium.com/@1amb4a/1%EB%85%84%EA%B0%84-%EA%B7%B8%EA%B0%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%A0%95%EA%B8%80%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EC%9D%80-%EB%B0%A9%EB%B2%95-dc29c24f7270)
 
 ## 2019년 4월
 
