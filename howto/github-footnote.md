@@ -21,5 +21,29 @@ Then from within the footnote, link back to it.
 
 This will add a little ↩ at the end of your footnote's content, which takes your readers back to the line containing the footnote's link.
 
+## 꼼수
+
+이런 방법을 제안한 사람이 있다.
+
+Here is a note[²].
+
+...
+At the bottom:
+
+#### ² Note Two
+[²]:#-note-two
+
+## 테스트
+
+cmark-gfm에 풋노트가 추가되어 merge된 상태인데, 반영된 것인지 몰라서, 테스트를 해본다.[^a-test]
+
+여기 밑에 각주가 나타난다고 가정하였다.
+
+[^a-test]: 아래 출처에서 참고하였다.
+
+* 출처: [Enable Markdown footnotes extension #498](https://github.com/github/markup/issues/498)
+* 출처: [Footnotes #64](https://github.com/github/cmark-gfm/pull/64)
+
 ------
 <b id="f1">1</b> [stackoverflow: How to add footnotes to GitHub-flavoured Markdown?](http://stackoverflow.com/questions/25579868/how-to-add-footnotes-to-github-flavoured-markdown) [↩](#a1)
+
