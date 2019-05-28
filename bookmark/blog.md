@@ -81,6 +81,12 @@
 * [국립국어원 학습사전](https://krdict.korean.go.kr/m/eng)
 * [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268)
 * [1년간 그가 스타트업 정글에서 살아남은 방법](https://medium.com/@1amb4a/1%EB%85%84%EA%B0%84-%EA%B7%B8%EA%B0%80-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%A0%95%EA%B8%80%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EC%9D%80-%EB%B0%A9%EB%B2%95-dc29c24f7270)
+* [Working with Excel Spreadsheets](https://automatetheboringstuff.com/chapter12/)
+* [데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
+  * [Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BgFdjeopHQ5C1%2BT367egIug%3D%3D)
+  * [Deep Learning Interview Questions and Answers](https://www.cpuheater.com/deep-learning/deep-learning-interview-questions-and-answers/)
+  * [Must know questions deeplearning : 객관식 딥러닝 문제](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)
+  * [My deep learning job interview experience sharing](https://towardsdatascience.com/my-deep-learning-job-interview-experience-sharing-4f47dd77f57d)
 
 ## 2019년 4월
 
