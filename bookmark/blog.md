@@ -87,6 +87,7 @@
   * [Deep Learning Interview Questions and Answers](https://www.cpuheater.com/deep-learning/deep-learning-interview-questions-and-answers/)
   * [Must know questions deeplearning : 객관식 딥러닝 문제](https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/)
   * [My deep learning job interview experience sharing](https://towardsdatascience.com/my-deep-learning-job-interview-experience-sharing-4f47dd77f57d)
+* [github/@jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
 
 ## 2019년 4월
 
