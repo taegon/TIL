@@ -90,6 +90,7 @@
 * [github/@jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)
 * [I Lazy to Read 😭](https://ilazytoread.herokuapp.com)
   * [How I set up VSCode for productivity? [Checklist]](https://whizzoe.substack.com/p/coming-soon) by Zoe
+* [Simple programmer](https://simpleprogrammer.com/): "소프트 스킬"의 저자 `John Sonmez`의 홈페이지
 
 ## 2019년 4월
 
