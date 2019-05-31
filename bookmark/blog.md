@@ -91,6 +91,13 @@
 * [I Lazy to Read 😭](https://ilazytoread.herokuapp.com)
   * [How I set up VSCode for productivity? [Checklist]](https://whizzoe.substack.com/p/coming-soon) by Zoe
 * [Simple programmer](https://simpleprogrammer.com/): "소프트 스킬"의 저자 `John Sonmez`의 홈페이지
+* [xgboost](https://xgboost.readthedocs.io/en/latest/)
+  * [What is the difference between the R gbm (gradient boosting machine) and xgboost (extreme gradient boosting)?](https://www.quora.com/What-is-the-difference-between-the-R-gbm-gradient-boosting-machine-and-xgboost-extreme-gradient-boosting)
+    * The name `xgboost`, though, actually refers to the *engineering goal* to push the limit of computations resources for boosted tree algorithms. Which is the reason why many people use xgboost. For model, it might be more suitable to be called as `regularized gradient boosting`.
+  * [Introduction to Boosted Trees](https://xgboost.readthedocs.io/en/latest/tutorials/model.html) in official document
+  * [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754) on arXiv.org
+  * [Gradient Boosting and XGBoost](https://medium.com/@gabrieltseng/gradient-boosting-and-xgboost-c306c1bcfaf5) on Medium
+* [ELM (Extreme learning machine)](https://en.wikipedia.org/wiki/Extreme_learning_machine) on wikipedia
 
 ## 2019년 4월
 
