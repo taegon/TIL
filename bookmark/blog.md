@@ -98,6 +98,8 @@
   * [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754) on arXiv.org
   * [Gradient Boosting and XGBoost](https://medium.com/@gabrieltseng/gradient-boosting-and-xgboost-c306c1bcfaf5) on Medium
 * [ELM (Extreme learning machine)](https://en.wikipedia.org/wiki/Extreme_learning_machine) on wikipedia
+* [PIGNOSE](https://www.pigno.se): 개발자 PIGNOSE의 개인블로그 (텀블러를 선택한 이유)
+* [Open Source Directions](https://www.quansight.com/open-source-directions)
 
 ## 2019년 4월
 
