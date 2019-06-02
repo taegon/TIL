@@ -2,6 +2,10 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 6월
+
+* [Conventional Commits](https://www.conventionalcommits.org/)
+
 ## 2019년 5월
 
 * [조은](https://techhtml.github.io/)님 블로그, [JSConf Korea](https://2019.jsconfkorea.com/about)에서 발견
