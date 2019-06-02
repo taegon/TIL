@@ -14,11 +14,11 @@ Jupyter 구글링해서 최신 버젼 깔면 된다.
 서버 구동은 터미널에서 다음 명령어 실행.
 
 ```bash
-$ jupyter notebook
+jupyter notebook
 ```
 
 ### 추가셋팅 (pow)
 
 ```bash
-$ echo http://localhost:8888 > ~/.pow/jupyter
+echo http://localhost:8888 > ~/.pow/jupyter
 ```

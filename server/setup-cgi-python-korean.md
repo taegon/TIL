@@ -2,7 +2,7 @@
 
 ## apache2에서 cgi 디렉토리 설정하기
 
-* [https://blog.ayukawa.kr/archives/1342](Apache와 Python 연동하기): cgi를 이용한 방식으로 진행
+* [Apache와 Python 연동하기](https://blog.ayukawa.kr/archives/1342): cgi를 이용한 방식으로 진행
 * [사용자별 웹디렉토리 - 아파치 2.4 공식문서](https://httpd.apache.org/docs/2.4/howto/public_html.html)
 * [Configuring Apache2 to run Python Scripts](https://www.linux.com/blog/configuring-apache2-run-python-scripts)
 
@@ -14,7 +14,7 @@ sudo a2enmod cgi
 
 `/etc/apache2/mods-enabled/userdir.conf`
 
-```
+```conf
 <Directory /home/*/public_html/cgi-bin/>
 Options ExecCGI
 SetHandler cgi-script
@@ -23,7 +23,7 @@ SetHandler cgi-script
 
 ## 아파치 서버 재시동
 
-```
+```bash
 sudo service apache2 restart
 ```
 
@@ -33,7 +33,7 @@ sudo service apache2 restart
 
 `/etc/apache2/apache2.conf`에 다음과 같이 기본 인코딩 추가
 
-```
+```conf
 AddDefaultCharset UTF-8
 SetEnv PYTHONIOENCODING utf8
 ```
@@ -61,7 +61,8 @@ sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
 ```
 
 python 2 환경이라면, 아래와 같이 해결 가능하다.
-```
+
+```python2
 sys.setdefaultencoding('UTF8')
 ```
 

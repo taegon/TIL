@@ -5,13 +5,13 @@
 MySQL은 이미 설치가 된 상황이고, python에서 이용하기 위해서 컨넥터가 필요한 상황.
 기본적으로 apt-get를 이용해서 쉽게 설치 가능하다. 하지만 내 환경에서는 제대로 안됨.
 
-```
+```bash
 sudo apt-get install python-mysqldb
 ```
 
 그런데, 다음과 같은 메시지와 함께, 디펜던시 문제가 있어서 linux-generic의 버전업이 필요. 그런데 해결이 잘 안 된다.
 
-```
+```bash
 linux-generic : Depends: linux-headers-generic
 ```
 
@@ -29,7 +29,6 @@ sudo dpkg --configure -a
 ```
 
 출처: [https://askubuntu.com/questions/389144/how-do-i-fix-unmet-dependencies-linux-image-generic-etc](https://askubuntu.com/questions/389144/how-do-i-fix-unmet-dependencies-linux-image-generic-etc)
-
 
 ## pip를 이용한 성공기
 
@@ -63,25 +62,26 @@ finally:
 ## infile load 를 이용하기 위해서는 mysql 상에서 권한설정 필요
 
 쿼리문은 대략 다음과 같다. (최종버전)
+
 ```sql
 LOAD DATA LOCAL INFILE '/path/to/file' IGNORE INTO TABLE weather FIELDS TERMINATED BY ',' LINES TERMINATED BY '\n'
 ```
 
 패스워드가 문제가 될 경우, mysql 설정을 고쳐야 하는데, 아래 파일을 열고
 
-```
+```bash
 sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
 ```
 
 다음과 같이 ```[mysqld]``` 섹션에 추가한 후,
 
-```
+```conf
 validate_password_policy=LOW
 ```
 
 서비스 리스타트
 
-```
+```bash
 sudo /etc/init.d/mysql restart
 ```
 
@@ -100,7 +100,7 @@ sudo /etc/init.d/mysql restart
 
 다음 모듈이 필요하다.
 
-```
+```bash
 pip install flask-mysql
 ```
 

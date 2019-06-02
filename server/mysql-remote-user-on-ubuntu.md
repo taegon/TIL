@@ -14,13 +14,13 @@
 - MySQL 5.7 이상은 `/etc/mysql/mysql.conf.d/mysqld.cnf`
 - 아래 부분을 특정아이피 혹은 0.0.0.0으로 변경
 
-```
+```conf
 bind-address        = xxx.xxx.xxx.xxx
 ```
 
-2) MySQL에 외부 접속가능한 계정추가
+1) MySQL에 외부 접속가능한 계정추가
 
-```
+```sql
 # 계정 생성 접속은 모든 곳(@)
 CREATE USER 'myuser'@'%' IDENTIFIED BY 'mypass';
 # 데이터베이스 권한 할당
@@ -34,6 +34,6 @@ FLUSH PRIVILEGES;
 ## MySQL 서버 데몬 다시 시작하기
 
 ```bash
-$ sudo service mysql stop;
-$ sudo service mysql start;
+sudo service mysql stop;
+sudo service mysql start;
 ```

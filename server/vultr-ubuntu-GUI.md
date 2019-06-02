@@ -19,4 +19,5 @@ Vultr 공식 사이트에 두 가지 방법이 모두 설명되어 있다. 첫�
 ## 두번째 GUI 콘솔 활성화하기
 
 다음 링크를 확인하자. 패키지 설치하고, 리붓하고 나면, 웹상에서 콘솔 연결시 GUI 콘솔이 뜬다. 터미널은 xterm을 이용한다.
+
 * [Install GUI Environment for Ubuntu](https://www.vultr.com/docs/install-gui-environment-for-ubuntu)

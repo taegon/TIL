@@ -14,7 +14,7 @@
 * [Vega-lite](https://github.com/vega/vega-lite): d3.js의 원산지였던 IDL의 라이브러리
   * [Vega-lite 예제: 월별 강수량](https://vega.github.io/editor/): 아래 코드를 이용하여 테스트할 수 있다.
 
-```
+```json
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
   "data": {"url": "https://api.taegon.kr/stations/108/?sy=2016&ey=2016"},

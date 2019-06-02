@@ -12,7 +12,7 @@
 [공식홈페이지](http://ohmyz.sh/)에서 시키는대로 다음과 같이 터미널에서 실행시키면 된다.
 
 ```bash
-$ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 
 ### 테마 설정하기

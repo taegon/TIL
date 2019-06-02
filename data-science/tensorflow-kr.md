@@ -29,7 +29,7 @@ Gaussian Processing & Bayesian optimization의 이론과 예제
 
 Robot의 Gait optimization, Gesture Recognition, Optimal Control, Hyper parameter optimization, 신약 신소재 개발을 위한 optimal data sampling strategy등과 같은 ML분야에서 약방의 감초 같은 존재인 Gaussian Processing 이지만 이해가 쉽지 않은 GP의 기본적인 이론 및 matlab code 소개
 
-이론 설명이 어려우시면 code 설명과 함께 보세요. 
+이론 설명이 어려우시면 code 설명과 함께 보세요.
 
 Gaussian Processing 기본적인 이론 및 matlab code 소개
 

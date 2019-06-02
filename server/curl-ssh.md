@@ -5,7 +5,7 @@ curl를 이용하여 데이터를 다운 받을 때, 서버가 SSL를 이용하�
 [여기](https://curl.haxx.se/docs/caextract.html)에서 Mozilla CA 인증서를 받을 수 있다. 파일을 받아서, 다음과 같은 옵션을 추가해주면 된다.
 
 ```bash
-$ curl.exe --cacert cacert.pem <URL>
+curl.exe --cacert cacert.pem <URL>
 ```
 
 * [참고링크](https://stackoverflow.com/questions/10079707/https-connection-using-curl-from-command-line)

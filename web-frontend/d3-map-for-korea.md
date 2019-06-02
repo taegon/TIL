@@ -30,13 +30,13 @@ shp파일과 dbf 파일을 이용하여 json파일로 변환을 완료하고, �
 일반적으로 웹에서 예제로 다루고 있는 자료는 위경도 좌표를 쓰고 있다. 하지만 국내 지도 파일은 TM좌표계를 주로 쓰고 있으므로, 예제를 따라서 만들면 제대로 변환이 이루어지지 않는다.
 TM 좌표를 변환하기 위한 코드를 찾아서 적용해 보았으나, 역시 제대로 그려지지 않았다. 예전에도 벡터 파일을 다룰 때 이런 문제가 발생하곤 했는데, 바운더리를 잡아주지 않아서 생기는 문제로 생각된다. 지나치게 기술문제여서 일단 생략하고, 다른 대안을 찾는 것으로 정리하였다.
 
-## 기존 예제를 활용하자.
+## 기존 예제를 활용하자
 
 검색해보면, 아주 쉽게 나오는 예제가 아래 예제이다.
 
 * [D3로 우리나라 인구밀도 시각화하기](http://bl.ocks.org/e9t/55699e9fa8c3eb7fe40c)
 * 예제 복원을 위한 raw data link는 다음과 같다.
-  * http://bl.ocks.org/e9t/raw/55699e9fa8c3eb7fe40c/6525e2b8c571c825fefff58948172215da89ed12/
+  * [http://bl.ocks.org/e9t/raw/55699e9fa8c3eb7fe40c/6525e2b8c571c825fefff58948172215da89ed12/](http://bl.ocks.org/e9t/raw/55699e9fa8c3eb7fe40c/6525e2b8c571c825fefff58948172215da89ed12/)
 
 d3.js v3를 기준으로 작성되었는데, d3.js가 v4를 발표하면서 일부 함수명이 바뀌었다. 향후 코드 관리를 위하여 처음부터 v4를 기준으로 코드를 작성하기로 결정하였다.
 예제 코드에서 바뀐 점은 다음과 같다.
@@ -44,7 +44,6 @@ d3.js v3를 기준으로 작성되었는데, d3.js가 v4를 발표하면서 일�
 * var projection = d3.geo.mercator() -> d3.geoMercator()
 * var path = d3.geo.path() -> d3.geoPath()
 * var quantize = d3.scale.quantize() -> d3.scaleQuantize()
-
 
 ## 해결한 문제와 남은 과제
 

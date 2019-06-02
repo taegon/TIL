@@ -13,8 +13,8 @@ conda를 기준으로 설명하고 있으며, 저장소를 추가하고, 패키�
 6.0, 6.5 버전의 경우 파이썬 2.7에 대한 패키지만 conda 저장소에 있다.
 
 ```bash
-$ conda config --add channels http://conda.anaconda.org/gurobi
-$ conda install gurobi
+conda config --add channels http://conda.anaconda.org/gurobi
+conda install gurobi
 ```
 
 관련링크: [Installing the Anaconda Python distribution](http://www.gurobi.com/documentation/7.0/quickstart_mac/installing_the_anaconda_py.html#section:Anaconda)
