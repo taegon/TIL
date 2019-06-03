@@ -5,6 +5,9 @@
 ## 2019년 6월
 
 * [Conventional Commits](https://www.conventionalcommits.org/)
+* [Marc Streit](https://www.marc-streit.com)
+  * [CS109 Data Science](http://cs109.github.io/2014/index.html) - 2014
+  * [CS109 Data Science](http://cs109.github.io/2015/) - 2015
 
 ## 2019년 5월
 
