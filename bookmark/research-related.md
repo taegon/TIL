@@ -1,5 +1,10 @@
 # 연구에 관련되어 있는 토픽
 
+## 2019년 6월
+
+* [Lifeng Luo](http://drought.geo.msu.edu/group.php)
+  * [Weekly Drought Monitoring and Prediction System @ MSU](http://drought.geo.msu.edu/research/forecast/drought.php)
+
 ## 2019년 2월
 
 * [Megan Konar](https://cee.illinois.edu/directory/profile/mkonar): county-level flow based on FAF dataset and ML technique
