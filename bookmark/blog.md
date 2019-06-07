@@ -11,6 +11,8 @@
 * [눈누](https://noonnu.cc/): 무료 한글폰트 검색
 * [iOS 개발을 위한 11가지 노하우](http://labs.brandi.co.kr/2018/01/08/leejh.html)
 * [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
+* [The Idiomatic Programmer - Learning Keras - Handbook](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
+* [구글 머신러닝 스터디잼(중급) 가이드라인](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/mobilepresent?slide=id.p)
 
 ## 2019년 5월
 
