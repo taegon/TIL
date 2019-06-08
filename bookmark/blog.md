@@ -15,6 +15,7 @@
 * [구글 머신러닝 스터디잼(중급) 가이드라인](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/mobilepresent?slide=id.p)
 * [한국어 형태소 분석기 성능 비교](https://iostream.tistory.com/144): 산업기능요원인 것 같은데, 회고도 하고, 잘 성장하고 있는 것 같다.
 * [카카오 형태소 분석기(khaiii) 설치, 실행, 사전추가](https://hanshuginn.blogspot.com/2019/02/khaiii.html)
+* [Python 3 Module of the Week](https://pymotw.com/3/): The Python 3 Standard Library by Example 책의 저자블로그인 것 같다.
 
 ## 2019년 5월
 
