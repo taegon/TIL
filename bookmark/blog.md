@@ -18,6 +18,9 @@
 * [Python 3 Module of the Week](https://pymotw.com/3/): The Python 3 Standard Library by Example 책의 저자블로그인 것 같다.
 * [월간 개발자스럽다](https://blog.gaerae.com/): 메일링 리스트에 가입했다.
 * [YUDA't](https://yuda.dev/): 개발자 블로그. 티스토리를 잘 사용하고 있다.
+* [HITS!](http://hits.dwyl.io): 정적페이지에 블로그 카운트를 달아주는 서비스
+* [Dohyung Ahn (rinae)](https://rinae.dev)
+* [데이터사이언스스쿨](https://datascienceschool.net/): "파이썬을 활용한 금융 분석"의 역자 김도형님이 운영하는 블로그. 노트북을 파싱해서 보여주는 것 같은데, 일부 디자인이 깨져보이기는 하지만, 책을 출판하신 분답게 정리를 잘 하시는 것 같다.
 
 ## 2019년 5월
 
