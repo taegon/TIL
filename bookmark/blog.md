@@ -21,6 +21,8 @@
 * [HITS!](http://hits.dwyl.io): 정적페이지에 블로그 카운트를 달아주는 서비스
 * [Dohyung Ahn (rinae)](https://rinae.dev)
 * [데이터사이언스스쿨](https://datascienceschool.net/): "파이썬을 활용한 금융 분석"의 역자 김도형님이 운영하는 블로그. 노트북을 파싱해서 보여주는 것 같은데, 일부 디자인이 깨져보이기는 하지만, 책을 출판하신 분답게 정리를 잘 하시는 것 같다.
+* [React 컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way)
+* [HEAD](https://github.com/joshbuchea/HEAD/blob/master/README.md): A list of everything that *could* go in the `<head>` of your document
 
 ## 2019년 5월
 
