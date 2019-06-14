@@ -23,6 +23,7 @@
 ## ML 관련 자료
 
 * [Neil Lawrence's Talks](http://inverseprobability.com/talks/): Gaussian Processes 관련 자료가 많다. 블로그나 논문 자료 등도 살펴볼만 하다.
+* [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf): 신승환님이 공유한 MS 연구진이 작성한 논문
 
 ## 라이브러리
 
