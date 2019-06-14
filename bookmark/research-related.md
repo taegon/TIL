@@ -4,6 +4,7 @@
 
 * [Lifeng Luo](http://drought.geo.msu.edu/group.php)
   * [Weekly Drought Monitoring and Prediction System @ MSU](http://drought.geo.msu.edu/research/forecast/drought.php)
+* [Climate Watch](https://www.climatewatchdata.org/): AGU 2017에서 가지고 온 팜플릿
 
 ## 2019년 2월
 
