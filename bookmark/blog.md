@@ -24,6 +24,7 @@
 * [React 컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way)
 * [HEAD](https://github.com/joshbuchea/HEAD/blob/master/README.md): A list of everything that *could* go in the `<head>` of your document
 * [따라 하며 배우는 데이터 과학](https://dataninja.me/ipds-kr/): 동명의 책의 저자 실리콘밸리 데이터과학자 권재명님(Jaimie Kwon)
+* [Yangshun Tay](https://yangshun.im): 페이스북 프론트엔드 개발자
 
 ## 2019년 5월
 
