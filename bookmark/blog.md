@@ -28,6 +28,8 @@
 * [Lorna Jane](https://lornajane.net/): PHP 개발자. API 개발에 대한 고민을 공유하고 있다고 추천한 글을 보고 추가.
 * [gatsby-starter-bee theme](https://www.gatsbyjs.org/starters/JaeYeopHan/gatsby-starter-bee): 한재엽씨가 개발하여 공유한 블로그 스킨, 다크모드 변환 버튼이 있다.
 * [당신의 API가 Restful 하지 않은 5가지 증거](https://beyondj2ee.wordpress.com/2013/03/21/당신의-api가-restful-하지-않은-5가지-증거/): 한번 읽어볼만한 RESTful API. 오래된 글이지만, 간단하게 안티패턴을 소개하고 있다.
+* [민형기 (pinkwink.kr)](https://pinkwink.kr): "파이썬으로 데이터 주무르기" 저자. 최고의 재료를 가지고 있는 것보다, 있는 재료로 만들어내는 것이 훨씬 중요하다는 걸 보여주는 저자.
+  * [https://github.com/PinkWink/DataScience](https://github.com/PinkWink/DataScience/tree/master/source_code)
 
 ## 2019년 5월
 
