@@ -32,6 +32,10 @@
   * [https://github.com/PinkWink/DataScience](https://github.com/PinkWink/DataScience/tree/master/source_code)
 * [Roadmaps for Developers](https://roadmap.sh/)
 * [Game Developer Roadmap -2018](https://github.com/utilForever/game-developer-roadmap)
+* [cojette.github.io](https://cojette.github.io/): 권정민님(cojette). 우아한 형제, 데이터과학자.
+  * [데이터 지능 팟캐스트 E3](http://podbay.fm/show/1294732024/e/1509866738)
+* [최규민님 브런치](https://brunch.co.kr/@goodvc78#articles)
+  * [데이터 지능 팟캐스트 E3](http://podbay.fm/show/1294732024/e/1509866738)
 
 ## 2019년 5월
 
