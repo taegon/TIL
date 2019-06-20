@@ -19,6 +19,7 @@
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html): 논문에 사용된 코드를 공개하고 노트북형식으로 단계별로 해석하고 있다.
 * [Deep Learning.net](http://deeplearning.net/)
 * [Papers with Code](https://www.paperswithcode.com/)
+* [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)
 
 ## ML 관련 자료
 
