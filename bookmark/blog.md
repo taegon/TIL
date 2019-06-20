@@ -36,6 +36,8 @@
   * [데이터 지능 팟캐스트 E3](http://podbay.fm/show/1294732024/e/1509866738)
 * [최규민님 브런치](https://brunch.co.kr/@goodvc78#articles)
   * [데이터 지능 팟캐스트 E3](http://podbay.fm/show/1294732024/e/1509866738)
+* [Google Font icons](https://material.io/tools/icons/?style=baseline)
+* [Font Awesome](https://fontawesome.com/)
 
 ## 2019년 5월
 
