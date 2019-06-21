@@ -19,12 +19,14 @@
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html): 논문에 사용된 코드를 공개하고 노트북형식으로 단계별로 해석하고 있다.
 * [Deep Learning.net](http://deeplearning.net/)
 * [Papers with Code](https://www.paperswithcode.com/)
-* [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)
 
 ## ML 관련 자료
 
 * [Neil Lawrence's Talks](http://inverseprobability.com/talks/): Gaussian Processes 관련 자료가 많다. 블로그나 논문 자료 등도 살펴볼만 하다.
 * [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/uploads/prod/2019/03/amershi-icse-2019_Software_Engineering_for_Machine_Learning.pdf): 신승환님이 공유한 MS 연구진이 작성한 논문
+* [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)
+* [ROC와 AUC](http://shinhanlife.ml/public/ml/교차%20검증법과%20ROC%20AUC.html)
+* [분류성능평가지표 - Precision(정밀도), Recall(재현율) and Accuracy(정확도)](https://sumniya.tistory.com/26)
 
 ## 라이브러리
 
