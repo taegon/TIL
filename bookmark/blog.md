@@ -41,6 +41,7 @@
 * Google의 [Site Reliability Engineering](https://landing.google.com/sre/books/): 무료 배포
 * AWS의 [“엔터프라이즈에서 오픈소스” 한국어 번역본](https://aws.amazon.com/ko/blogs/korea/growing-sharing-open-source-wisdom-globally/)
 * [AWS 한국어 공식 블로그](https://aws.amazon.com/ko/blogs/korea/)
+* [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)
 
 ## 2019년 5월
 
