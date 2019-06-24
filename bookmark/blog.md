@@ -42,6 +42,8 @@
 * AWS의 [“엔터프라이즈에서 오픈소스” 한국어 번역본](https://aws.amazon.com/ko/blogs/korea/growing-sharing-open-source-wisdom-globally/)
 * [AWS 한국어 공식 블로그](https://aws.amazon.com/ko/blogs/korea/)
 * [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)
+* [배우는 프로그래머](https://carrotcarrot.blog.me/): "Django(장고)로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍"의 저자. 목차는 괜찮은 것 같은데, 책 리뷰가 너무 좋지 않네.
+* [UX빼면 시체, 프런트엔드](https://speakerdeck.com/jaeyeophan/uxbbaemyeon-sice-peureonteuendeu): 한재엽님 발표자료
 
 ## 2019년 5월
 
