@@ -45,6 +45,7 @@
 * [배우는 프로그래머](https://carrotcarrot.blog.me/): "Django(장고)로 쉽게 배우는 배프의 오지랖 파이썬 웹 프로그래밍"의 저자. 목차는 괜찮은 것 같은데, 책 리뷰가 너무 좋지 않네.
 * [UX빼면 시체, 프런트엔드](https://speakerdeck.com/jaeyeophan/uxbbaemyeon-sice-peureonteuendeu): 한재엽님 발표자료
 * [The New TypeScript Handbook - Basics](https://microsoft.github.io/TypeScript-New-Handbook/everything/): MS에서 작성하여 공개한 자료
+* [구글머신러닝 스터디잼(심화) 가이드라인](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/mobilepresent?slide=id.g5af6b6003f_0_170) by 박찬성
 
 ## 2019년 5월
 
