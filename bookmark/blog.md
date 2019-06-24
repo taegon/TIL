@@ -46,6 +46,7 @@
 * [UX빼면 시체, 프런트엔드](https://speakerdeck.com/jaeyeophan/uxbbaemyeon-sice-peureonteuendeu): 한재엽님 발표자료
 * [The New TypeScript Handbook - Basics](https://microsoft.github.io/TypeScript-New-Handbook/everything/): MS에서 작성하여 공개한 자료
 * [구글머신러닝 스터디잼(심화) 가이드라인](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/mobilepresent?slide=id.g5af6b6003f_0_170) by 박찬성
+* [Templated](https://templated.co/): 홈페이지 템플릿. [배우 관계도 시각화 프로젝트](https://yonjjang.github.io/web-demo_v6/index.html)에서 발견.
 
 ## 2019년 5월
 
