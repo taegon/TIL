@@ -48,6 +48,7 @@
 * [구글머신러닝 스터디잼(심화) 가이드라인](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/mobilepresent?slide=id.g5af6b6003f_0_170) by 박찬성
 * [Templated](https://templated.co/): 홈페이지 템플릿. [배우 관계도 시각화 프로젝트](https://yonjjang.github.io/web-demo_v6/index.html)에서 발견.
 * [Chang Hyeon Kim](https://cizz3007.github.io): 각 블로그 글에 목차보기가 제공된다. [NexT.Muse](https://github.com/simpleyyt/jekyll-theme-next)라는 테마를 쓴 모양이다.
+* [Warming Stripes from 1850-2018](https://showyourstripes.info)
 
 ## 2019년 5월
 
