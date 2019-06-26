@@ -49,6 +49,9 @@
 * [Templated](https://templated.co/): 홈페이지 템플릿. [배우 관계도 시각화 프로젝트](https://yonjjang.github.io/web-demo_v6/index.html)에서 발견.
 * [Chang Hyeon Kim](https://cizz3007.github.io): 각 블로그 글에 목차보기가 제공된다. [NexT.Muse](https://github.com/simpleyyt/jekyll-theme-next)라는 테마를 쓴 모양이다.
 * [Warming Stripes from 1850-2018](https://showyourstripes.info)
+* [404 Illustrations](https://www.kapwing.com/404-illustrations)
+* [Awesome Public Industrial Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets)
+* [List of Badges, in Markdown](https://github.com/Naereen/badges)
 
 ## 2019년 5월
 
