@@ -53,7 +53,10 @@
 * [Awesome Public Industrial Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets)
 * [List of Badges, in Markdown](https://github.com/Naereen/badges)
 * zvuc(김한솔)님 개인 블로그: [https://xenosium.com/](https://xenosium.com/). 역시 프로 혹은 디자이너는 다르구나.
-  * GibHub: [@zvuc](https://github.com/zvuc)
+  * GitHub: [@zvuc](https://github.com/zvuc)
+* [Beomi's Tech Blog](https://beomi.github.io/): 이준범님. 우연히 발견한 파이썬 개발자. 깃헙 저장소에 장고걸스가 걸려있다.
+  * GitHub: [@Beomi](https://github.com/Beomi)
+* `고양이가 냐, 하고 울면 저는 녜 하고 울래요.` 혹은 [`Taylor Jung`](https://github.com/nyanye)님의 [개인홈페이지](http://nyanye.com/): KoNLPy 저장소 컨트리뷰터인데, 블로그 글이 상대적으로 초보적인 내용이어서 의아했는데, 고등학생이시네. 한영일 3개국어를 하는 인재.
 
 ## 2019년 5월
 
