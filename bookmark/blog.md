@@ -52,6 +52,8 @@
 * [404 Illustrations](https://www.kapwing.com/404-illustrations)
 * [Awesome Public Industrial Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets)
 * [List of Badges, in Markdown](https://github.com/Naereen/badges)
+* zvuc(김한솔)님 개인 블로그: [https://xenosium.com/](https://xenosium.com/). 역시 프로 혹은 디자이너는 다르구나.
+  * GibHub: [@zvuc](https://github.com/zvuc)
 
 ## 2019년 5월
 

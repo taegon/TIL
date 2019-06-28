@@ -75,3 +75,10 @@
 * [Google Fonts](https://fonts.google.com/){:target="_blank"}
 * [HTML 문자 코드 레퍼런스](https://www.toptal.com/designers/htmlarrows/arrows/)
 * [콰앙체/타앙체](https://dhqj646.blog.me/221283410959): 한글날에 맞추어 배포하려던 프로젝트가 펀딩실패하고, 제작자께서 무료 공개한 폰트
+
+## 블로그/사이트
+
+* [MIT 4.032 / 4.033 Design Studio: Information and Visualization Projects](https://irenedelatorre.github.io/MIT-Design-Studio-Information-and-Visualization/)
+* [Irene de la Torre Arenas](https://irenedelatorrearenas.wordpress.com/)
+* [https://haleypark.design/4_032_final_project/](https://haleypark.design/4_032_final_project/)
+  * 이준행님이 팔로우하는 2명 중 한명. MIT에서 수업과제로 만든 사이트 같은데, 훌륭하다.
