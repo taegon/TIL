@@ -57,6 +57,9 @@
 * [Beomi's Tech Blog](https://beomi.github.io/): 이준범님. 우연히 발견한 파이썬 개발자. 깃헙 저장소에 장고걸스가 걸려있다.
   * GitHub: [@Beomi](https://github.com/Beomi)
 * `고양이가 냐, 하고 울면 저는 녜 하고 울래요.` 혹은 [`Taylor Jung`](https://github.com/nyanye)님의 [개인홈페이지](http://nyanye.com/): KoNLPy 저장소 컨트리뷰터인데, 블로그 글이 상대적으로 초보적인 내용이어서 의아했는데, 고등학생이시네. 한영일 3개국어를 하는 인재.
+* Kwangchun Lee([`statkclee`](https://github.com/statkclee)): R를 주로 사용하시는 것 같고, Software Carpentry를 지지하시는 것 같다. 페북에서 R를 이용하여 2018 월드컵 독일전 득점 장면을 시각화한 글을 보고, 깃헙 저장소를 찾아보게 되었다. 데이터사이언스 관련해서 연세대 및 다양한 곳에서 강의를 하시는 것 같은데, 강의 자료를 Carpentry라는 플랫폼으로 작성하시는 것 같다.
+* [Library Carpentry](https://librarycarpentry.org/lessons/): 수려하진 않지만, 강의용 플랫폼을 위에 다양한 강좌를 공개하고 있다.
+* [Welcome to Software Carpentry](https://github.com/swcarpentry/swcarpentry): 강좌목록이 중간에 있다.
 
 ## 2019년 5월
 
