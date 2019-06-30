@@ -61,6 +61,7 @@
 * [Library Carpentry](https://librarycarpentry.org/lessons/): 수려하진 않지만, 강의용 플랫폼을 위에 다양한 강좌를 공개하고 있다.
 * [Welcome to Software Carpentry](https://github.com/swcarpentry/swcarpentry): 강좌목록이 중간에 있다.
 * [리디북스 Writings - UI 텍스트 작성 가이드](https://ridi.design/writings/)
+* MS의 공식문서: [추가 Git 및 GitHub 리소스](https://docs.microsoft.com/ko-kr/contribute/additional-resources)
 
 ## 2019년 5월
 
