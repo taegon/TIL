@@ -62,6 +62,7 @@
 * [Welcome to Software Carpentry](https://github.com/swcarpentry/swcarpentry): 강좌목록이 중간에 있다.
 * [리디북스 Writings - UI 텍스트 작성 가이드](https://ridi.design/writings/)
 * MS의 공식문서: [추가 Git 및 GitHub 리소스](https://docs.microsoft.com/ko-kr/contribute/additional-resources)
+* [어썸 데브블로그](https://awesome-devblog.netlify.com/)
 
 ## 2019년 5월
 
