@@ -63,6 +63,9 @@
 * [리디북스 Writings - UI 텍스트 작성 가이드](https://ridi.design/writings/)
 * MS의 공식문서: [추가 Git 및 GitHub 리소스](https://docs.microsoft.com/ko-kr/contribute/additional-resources)
 * [어썸 데브블로그](https://awesome-devblog.netlify.com/)
+* [Evan Moon](https://evan-moon.github.io/)님 블로그: [ANN 모델을 간략히 시각화](https://evan-moon.github.io/2019/02/26/simple-ann/#%EC%9D%98%EC%82%AC%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1) 및 다양한 토이프로젝트가 많다.
+* [LEPTON](https://hackjutsu.com/Lepton/): lean code snippet manager based on GitHub Gist
+* [숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/)
 
 ## 2019년 5월
 
