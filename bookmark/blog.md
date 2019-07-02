@@ -7,6 +7,7 @@
 * [역전파 알고리즘 완전정복 Jupyter 노트북](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)
 * [인공지능 특허 및 분쟁동향](https://m.blog.naver.com/PostView.nhn?blogId=civshin&logNo=221569487736)
 * [BNC/COCA headword lists](https://www.edu.uwo.ca/faculty-profiles/stuart-webb.html)
+* [프로그래머를 위한 카테고리 이론](https://github.com/jwvg0425/milewski-ctfp-pdf-kr)
 
 ## 2019년 6월
 
