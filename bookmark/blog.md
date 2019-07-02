@@ -2,6 +2,12 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 7월
+
+* [역전파 알고리즘 완전정복 Jupyter 노트북](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)
+* [인공지능 특허 및 분쟁동향](https://m.blog.naver.com/PostView.nhn?blogId=civshin&logNo=221569487736)
+* [BNC/COCA headword lists](https://www.edu.uwo.ca/faculty-profiles/stuart-webb.html)
+
 ## 2019년 6월
 
 * [Conventional Commits](https://www.conventionalcommits.org/)
