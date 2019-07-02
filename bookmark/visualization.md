@@ -82,3 +82,7 @@
 * [Irene de la Torre Arenas](https://irenedelatorrearenas.wordpress.com/)
 * [https://haleypark.design/4_032_final_project/](https://haleypark.design/4_032_final_project/)
   * 이준행님이 팔로우하는 2명 중 한명. MIT에서 수업과제로 만든 사이트 같은데, 훌륭하다.
+
+## 노트북 (연습예제)
+
+* [정부혁신1번가 - 정부혁신 홈페이지 분석](https://github.com/innogovKOR/innogov_suggestion/blob/master/02-EDA.ipynb): 간단하게 seaborn를 이용한 그래프와 워드 클라우드를 사용하고 있다.
