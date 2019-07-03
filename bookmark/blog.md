@@ -9,6 +9,9 @@
 * [BNC/COCA headword lists](https://www.edu.uwo.ca/faculty-profiles/stuart-webb.html)
 * [프로그래머를 위한 카테고리 이론](https://github.com/jwvg0425/milewski-ctfp-pdf-kr)
 * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/): numpy를 시각화한 블로그. 다른 좋은 글도 많다.
+* [Lets-Study](https://github.com/JoMingyu/Lets-Study) by [`@JoMingyu`](https://github.com/JoMingyu)
+  * [PlanB](https://velog.io/@city7310): 19세 주니어 백엔드 엔지니어.
+* [velog](https://velog.io/)
 
 ## 2019년 6월
 
