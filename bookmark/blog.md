@@ -12,6 +12,8 @@
 * [Lets-Study](https://github.com/JoMingyu/Lets-Study) by [`@JoMingyu`](https://github.com/JoMingyu)
   * [PlanB](https://velog.io/@city7310): 19세 주니어 백엔드 엔지니어.
 * [velog](https://velog.io/)
+* [2nd 함께하는 딥러닝 컨퍼런스(2nd DLCAT)](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together/)
+* [Subinium](https://subinium.github.io/machinelearning/): 수비니움님 스터디 자료
 
 ## 2019년 6월
 
