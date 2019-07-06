@@ -15,6 +15,8 @@
 * [2nd 함께하는 딥러닝 컨퍼런스(2nd DLCAT)](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together/)
 * [Subinium](https://subinium.github.io/machinelearning/): 수비니움님 스터디 자료
 * [언론사들에서 잘못 그린 차트들 모아서 다시 그려보는 프로젝트](https://github.com/lexifdev/recharted/issues): 최근에 업데이트가 되지 않고 있지만, 모아놓은 자료를 참고할 수 있을 것 같다. 프로젝트 취지가 좋다.
+* [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) at Stanford
+  * [github/cgpotts/cs224u/](https://github.com/cgpotts/cs224u/)
 
 ## 2019년 6월
 
