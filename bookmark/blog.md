@@ -17,6 +17,7 @@
 * [언론사들에서 잘못 그린 차트들 모아서 다시 그려보는 프로젝트](https://github.com/lexifdev/recharted/issues): 최근에 업데이트가 되지 않고 있지만, 모아놓은 자료를 참고할 수 있을 것 같다. 프로젝트 취지가 좋다.
 * [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) at Stanford
   * [github/cgpotts/cs224u/](https://github.com/cgpotts/cs224u/)
+* 이유한님 [DLCAT 발표자료](https://drive.google.com/file/d/1gD4at3qB_dZtbEzqhZMeFHsTBQN_fbB1/view): 캐글 소개
 
 ## 2019년 6월
 
