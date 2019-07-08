@@ -18,6 +18,8 @@
 * [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) at Stanford
   * [github/cgpotts/cs224u/](https://github.com/cgpotts/cs224u/)
 * 이유한님 [DLCAT 발표자료](https://drive.google.com/file/d/1gD4at3qB_dZtbEzqhZMeFHsTBQN_fbB1/view): 캐글 소개
+* [CHOOSING REACT NATIVE FOR YOUR MOBILE TECH STACK](https://ideamotive.co/react-native-development-guide/)
+* [PWA 하루 만에 도입하기(삽질기)](https://evan-moon.github.io/2019/07/06/pwa-with-notification/)
 
 ## 2019년 6월
 
