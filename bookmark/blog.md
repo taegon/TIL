@@ -22,6 +22,7 @@
 * [PWA 하루 만에 도입하기(삽질기)](https://evan-moon.github.io/2019/07/06/pwa-with-notification/)
 * [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
 * [Machine learning model and dataset versioning practices](https://speakerdeck.com/pycon2019/dmitry-petrov-machine-learning-model-and-dataset-versioning-practices)
+* 조정래 저, [천년의 질문](https://audioclip.naver.com/search?query=%EC%B2%9C%EB%85%84%EC%9D%98%20%EC%A7%88%EB%AC%B8) at 네이버 오디오 클립
 
 ## 2019년 6월
 
