@@ -20,6 +20,8 @@
 * 이유한님 [DLCAT 발표자료](https://drive.google.com/file/d/1gD4at3qB_dZtbEzqhZMeFHsTBQN_fbB1/view): 캐글 소개
 * [CHOOSING REACT NATIVE FOR YOUR MOBILE TECH STACK](https://ideamotive.co/react-native-development-guide/)
 * [PWA 하루 만에 도입하기(삽질기)](https://evan-moon.github.io/2019/07/06/pwa-with-notification/)
+* [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/)
+* [Machine learning model and dataset versioning practices](https://speakerdeck.com/pycon2019/dmitry-petrov-machine-learning-model-and-dataset-versioning-practices)
 
 ## 2019년 6월
 
