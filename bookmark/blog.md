@@ -25,6 +25,9 @@
 * 조정래 저, [천년의 질문](https://audioclip.naver.com/search?query=%EC%B2%9C%EB%85%84%EC%9D%98%20%EC%A7%88%EB%AC%B8) at 네이버 오디오 클립
 * [포닥으로 살아가기](https://brunch.co.kr/@cnam/28): 먹고는 살아야하지 않겠나
 * [Pingpong - 카톡 데이터는 어떻게 정제할 수 있을까?](https://blog.pingpong.us/dialog-bert-1)
+* [fyi: 308 Free Resources for Marketing](https://usefyi.com/templates/branding-templates/)
+* [Life wiki (notion)](https://www.notion.so/Life-wiki-940214739f4b400f9170b16e79b5eb04)
+* [YNAW: wiki with google docs](https://youneedawiki.com/)
 
 ## 2019년 6월
 
