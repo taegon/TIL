@@ -28,6 +28,7 @@
 * [fyi: 308 Free Resources for Marketing](https://usefyi.com/templates/branding-templates/)
 * [Life wiki (notion)](https://www.notion.so/Life-wiki-940214739f4b400f9170b16e79b5eb04)
 * [YNAW: wiki with google docs](https://youneedawiki.com/)
+* [Windows Sandbox](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox/ba-p/301849)
 
 ## 2019년 6월
 
