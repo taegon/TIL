@@ -29,6 +29,9 @@
 * [Life wiki (notion)](https://www.notion.so/Life-wiki-940214739f4b400f9170b16e79b5eb04)
 * [YNAW: wiki with google docs](https://youneedawiki.com/)
 * [Windows Sandbox](https://techcommunity.microsoft.com/t5/Windows-Kernel-Internals/Windows-Sandbox/ba-p/301849)
+* [Rebuilding the Solar System with CSS](https://codepen.io/robdimarzo/post/rebuilding-the-solar-system-with-css)
+* [개발자 박민](https://isme2n.github.io/essay/2017/07/31/self-branding/)
+* [Hydejack](https://hydejack.com/): Jekyll theme
 
 ## 2019년 6월
 
