@@ -32,6 +32,7 @@
 * [Rebuilding the Solar System with CSS](https://codepen.io/robdimarzo/post/rebuilding-the-solar-system-with-css)
 * [개발자 박민](https://isme2n.github.io/essay/2017/07/31/self-branding/)
 * [Hydejack](https://hydejack.com/): Jekyll theme
+* [Animated math: 3blue1brown.com](https://www.3blue1brown.com/)
 
 ## 2019년 6월
 
