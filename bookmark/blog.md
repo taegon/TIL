@@ -38,6 +38,7 @@
 * 케글 시작하기 추천 by 이유한 님
   * [VSB Power Line Fault Detection](https://www.kaggle.com/c/vsb-power-line-fault-detection)
   * [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
+* [Data Science in a Box](https://datasciencebox.org/content/welcome/)
 
 ## 2019년 6월
 
