@@ -35,6 +35,9 @@
 * [Animated math: 3blue1brown.com](https://www.3blue1brown.com/)
 * [Data Science at The New York Times](https://blog.dominodatalab.com/data-science-at-the-new-york-times/)
   * "데이터 과학자는 비지니스를 문제를 파악해 머신러닝 작으로 재구성하고 결과를 명확하고 간결하게 조직에 전달해야 한다. 그것은 구글 슬라이드로 끝나는 게 아니라 사람들이 바로 쓸 수 있는 GUI나 API로 제공해야 한다. 파이썬이 충분히 강해져서 R까지 내려가지 않아도 되고 하둡을 쓰지만 모든 데이터를 BigQuery에 보내기 때문에 관리는 구글의 문제가 됐다." by twitter/@sungchi
+* 케글 시작하기 추천 by 이유한 님
+  * [VSB Power Line Fault Detection](https://www.kaggle.com/c/vsb-power-line-fault-detection)
+  * [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 
 ## 2019년 6월
 
