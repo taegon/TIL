@@ -39,6 +39,9 @@
   * [VSB Power Line Fault Detection](https://www.kaggle.com/c/vsb-power-line-fault-detection)
   * [LANL Earthquake Prediction](https://www.kaggle.com/c/LANL-Earthquake-Prediction)
 * [Data Science in a Box](https://datasciencebox.org/content/welcome/)
+* [This repository for "Grokking Deep Learning"](https://github.com/iamtrask/Grokking-Deep-Learning)
+* [미물의 개발 세상](http://www.mimul.com/pebble/default/): "실용주의 프로그래머" 관련 글을 찾다가 발견. 좋은 글이 많은데, 아직 http로 서비스하고 있다는 점이 아쉽다.
+* [실용주의 이야기](http://pragmaticstory.com/): 황상철님 블로그. 애자일 개발관련 서적을 번역하신 분. 역시 http로 블로그가 운영되고 있다는 점이 놀랍다.
 
 ## 2019년 6월
 
