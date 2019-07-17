@@ -42,6 +42,7 @@
 * [This repository for "Grokking Deep Learning"](https://github.com/iamtrask/Grokking-Deep-Learning)
 * [미물의 개발 세상](http://www.mimul.com/pebble/default/): "실용주의 프로그래머" 관련 글을 찾다가 발견. 좋은 글이 많은데, 아직 http로 서비스하고 있다는 점이 아쉽다.
 * [실용주의 이야기](http://pragmaticstory.com/): 황상철님 블로그. 애자일 개발관련 서적을 번역하신 분. 역시 http로 블로그가 운영되고 있다는 점이 놀랍다.
+* [icoon22.tistory.com](https://icoon22.tistory.com/242): "자바스크립트 핵심 가이드"를 장별로 요약해두었다. 이북을 구할 수 없는 상황이어서 빠르게 훓어볼 생각. 글이 꽤나 많은데, 2013년 한해동안만 글이 있다.
 
 ## 2019년 6월
 
