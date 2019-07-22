@@ -51,6 +51,10 @@
 * [Interactive Plots with Plotly and Cufflinks on Pandas Dataframes](https://medium.com/@ozan/interactive-plots-with-plotly-and-cufflinks-on-pandas-dataframes-af6f86f62d94)
 * [Taking Data Visualization to Another Level](https://hackernoon.com/taking-data-visualization-to-another-level-4d1c47bb01a2)
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+* 딥러닝 논문의 모델 그리는 방법: [How to draw Deep learning network architecture diagrams?](https://datascience.stackexchange.com/questions/14899/how-to-draw-deep-learning-network-architecture-diagrams)
+  * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet/blob/master/README.md)
+* [(번역) WSL 2를 공개하며](https://ryanking13.github.io/2019/05/07/Announcing-WSL-2.html)
+* [Coral beta](https://coral.withgoogle.com/): 라즈베리파이 타입의 구글 TPU.
 
 ## 2019년 6월
 
