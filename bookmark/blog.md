@@ -48,6 +48,9 @@
 * Markdown All in One: "기계인간"님의 독서 팁 중 마크다운에 체크박스를 이용하는 방식이 있는데, vim를 워낙 잘쓰시는 분이라 vim으로 작업을 하시는 모양인데, 난 VS Code에 종속되어 있는 인간이라, 체크박스를 쉽게 지원해주는 툴을 찾았다. 이 익스텐션이 이러한 니즈를 정확히 만족시켜주고 있다. 더불어 "Todo+"라는 익스텐션도 받았는데, TaskPaper와 유사한 기능을 제공해준다.
 * [한상곤님 블로그](http://sigmadream.github.io/): 꾸준히 글을 올리고 있고, 서평이 많다.
   * [한상곤님 위클리뉴스](https://www.sangkon.com/)
+* [Interactive Plots with Plotly and Cufflinks on Pandas Dataframes](https://medium.com/@ozan/interactive-plots-with-plotly-and-cufflinks-on-pandas-dataframes-af6f86f62d94)
+* [Taking Data Visualization to Another Level](https://hackernoon.com/taking-data-visualization-to-another-level-4d1c47bb01a2)
+* [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 
 ## 2019년 6월
 
