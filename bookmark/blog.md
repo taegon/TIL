@@ -55,6 +55,11 @@
   * [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet/blob/master/README.md)
 * [(번역) WSL 2를 공개하며](https://ryanking13.github.io/2019/05/07/Announcing-WSL-2.html)
 * [Coral beta](https://coral.withgoogle.com/): 라즈베리파이 타입의 구글 TPU.
+* [PySHAC : Python Sequential Halving and Classification](http://titu1994.github.io/pyshac/): 내용도 내용이지만, MkDocs와 Material for MkDocs를 참고할 만 하다.
+  * [MkDocs](https://www.mkdocs.org)
+  * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://morioh.com/p/2aa157fb3159/buggy-python-code-the-10-most-common-mistakes-that-python-developers-make)
+* [[이더리움에서 배우는 Go언어] select 의 거의 모든 패턴들](https://hamait.tistory.com/m/1017)
 
 ## 2019년 6월
 
