@@ -60,6 +60,13 @@
   * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 * [Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://morioh.com/p/2aa157fb3159/buggy-python-code-the-10-most-common-mistakes-that-python-developers-make)
 * [[이더리움에서 배우는 Go언어] select 의 거의 모든 패턴들](https://hamait.tistory.com/m/1017)
+* [Fork](https://fork.dev/): a fast and friendly git client for Mac and Windows
+* [Open Syllabus](https://opensyllabus.org/)
+* [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+* [GitHub/@kitao/pyxel](https://github.com/kitao/pyxel): 레트로 게임 빌더 툴
+* [Ruslan's Blog](https://ruslanspivak.com/lsbaws-part1/): 파이썬으로 웹서버, 인터프리터 등을 처음부터 구현하여 공유하고 있다.
+* [MIT's 18.06: Linear algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Gilbert Strang의 선형대수 강좌인데, 1,000만뷰가 넘었다고 한다.
+* [sourcerer.io](https://sourcerer.io): 깃헙 커밋 분석도구
 
 ## 2019년 6월
 
