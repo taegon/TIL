@@ -67,6 +67,9 @@
 * [Ruslan's Blog](https://ruslanspivak.com/lsbaws-part1/): 파이썬으로 웹서버, 인터프리터 등을 처음부터 구현하여 공유하고 있다.
 * [MIT's 18.06: Linear algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Gilbert Strang의 선형대수 강좌인데, 1,000만뷰가 넘었다고 한다.
 * [sourcerer.io](https://sourcerer.io): 깃헙 커밋 분석도구
+* [Animation engine for explanatory math videos](https://github.com/3b1b/manim): 3b1b 블로그에서 수식을 영상으로 만들기 위해 개발한 프로그램. 파이썬으로 애니메이션을 생성할 수 있다.
+* [Elements Of Information Theory 2nd Ed](https://archive.org/details/ElementsOfInformationTheory2ndEd/)
+* [Getting Started with React (2019 Edition) from scotch](https://scotch.io/starters/react/getting-started-with-react-2019-edition)
 
 ## 2019년 6월
 
