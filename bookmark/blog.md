@@ -73,6 +73,8 @@
 * [The Haskell Phrasebook](https://typeclasses.com/phrasebook)
 * [Train neural networks using AMD GPU and Keras](https://towardsdatascience.com/train-neural-networks-using-amd-gpus-and-keras-37189c453878): Keras와 GPU를 도커 위에서 돌리기
 * [[TIL] 파이썬에서 arguments로 *(별표)만 쓴 경우!?](https://sjquant.tistory.com/31): 파이썬에서 함수 선언시 파라미터로 별표를 쓰면 그 이후 변수는 모두 키워드 인자로만 넘기도록 강제할 수 있다.
+* [fast.ai](https://www.fast.ai/): 신경망을 빠르게 만들 수 있는 파이썬 라이브러리. 괜찮은 강좌도 제공하고 있다.
+* [OBS: Open Broadcaster Software](https://obsproject.com/): scikit-learn 코어 개발자이자 공동 메인터너인 Andreas Mueller가 사용하고 있는 강의 녹화 프로그램
 
 ## 2019년 6월
 
