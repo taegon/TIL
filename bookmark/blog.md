@@ -2,6 +2,16 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 8월
+
+* [Try Puppeteer](https://try-puppeteer.appspot.com/): 구글에서 만든 노드 라이브러리이며, 크롬용 개발 API
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+* [Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person](https://www.youtube.com/watch?v=SYki6jXs5eI): naver d2 발표자: 홍성은 (SK T-Brain)
+* [Keras: Multiple outputs and multiple losses](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
+* [What are the differences between the joint learning and multitask learning?](https://www.quora.com/What-are-the-differences-between-the-joint-learning-and-multitask-learning)
+  * Joint Learning: Your task has multiple sub-tasks that you all train together
+  * Multitask: learn to do multiple things at ones e.g. multiple outputs
+
 ## 2019년 7월
 
 * [역전파 알고리즘 완전정복 Jupyter 노트북](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)

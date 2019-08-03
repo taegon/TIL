@@ -125,3 +125,12 @@ Deep Learning Frameworks
   * 번역본: [What is a variational autoencoder](http://nolsigan.com/blog/what-is-variational-autoencoder/)
 * danial님: [유재준님 블로그](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html) 요기있습니다
 * 이대곤님: [Variational Autoencoder를 여러가지 각도에서 이해하기](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
+
+## 멀티 태스크 러닝 (2019.08.02)
+
+* Chong님: [What are the differences between the joint learning and multitask learning?](https://www.quora.com/What-are-the-differences-between-the-joint-learning-and-multitask-learning)
+  * joint learning은 두개 이상 작업을 같이하는 거 정도? 언어 처리할때 텍스트를 벡터로 만드는 과정과 (embedding 이나 word2vec), 그 결과물로 텍스트 분류같은 모델을 만드는 걸 한 트레이닝 싸이클에서 같이 하는 거고.
+  * multi task learning은 이미지 분류하는 모델을 만든다고 할때, 한쪽 모델은 모양을 구분하는 걸 배우고 (가방, 차) 또 다른 모델은 색깔 구분하는 걸 배우는 거.
+  * Joint Learning: Your task has multiple sub-tasks that you all train together
+  * Multitask: learn to do multiple things at ones e.g. multiple outputs
+* [Keras: Multiple outputs and multiple losses](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
