@@ -11,6 +11,11 @@
 * [What are the differences between the joint learning and multitask learning?](https://www.quora.com/What-are-the-differences-between-the-joint-learning-and-multitask-learning)
   * Joint Learning: Your task has multiple sub-tasks that you all train together
   * Multitask: learn to do multiple things at ones e.g. multiple outputs
+* [A Commander for modern Go CLI interactions ](https://github.com/spf13/cobra)
+* [Daily - curated dev news](https://www.dailynow.co)
+  * [Curated dev news delivered to your new tab](https://github.com/dailynowco/daily)
+* [Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8](https://github.com/corretto/corretto-8)
+
 
 ## 2019년 7월
 
