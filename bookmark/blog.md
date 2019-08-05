@@ -18,6 +18,8 @@
 * [Stop Using Zip Codes for Geospatial Analysis](https://towardsdatascience.com/stop-using-zip-codes-for-geospatial-analysis-ceacb6e80c38): ZIP 코드는 지역보다는 배송효율을 위한 경로개념.
 * [S2 Geometry](http://s2geometry.io/): Google uses S2 cells
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/)
+* [Scrapy](https://scrapy.org/)
+* [glide](http://glideapp.io): 구글 스프레드시트를 백엔드로 사용하는 웹앱빌더
 
 ## 2019년 7월
 
