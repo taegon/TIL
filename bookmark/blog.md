@@ -15,7 +15,9 @@
 * [Daily - curated dev news](https://www.dailynow.co)
   * [Curated dev news delivered to your new tab](https://github.com/dailynowco/daily)
 * [Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8](https://github.com/corretto/corretto-8)
-
+* [Stop Using Zip Codes for Geospatial Analysis](https://towardsdatascience.com/stop-using-zip-codes-for-geospatial-analysis-ceacb6e80c38): ZIP 코드는 지역보다는 배송효율을 위한 경로개념.
+* [S2 Geometry](http://s2geometry.io/): Google uses S2 cells
+* [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/)
 
 ## 2019년 7월
 
