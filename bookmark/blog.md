@@ -20,6 +20,7 @@
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/)
 * [Scrapy](https://scrapy.org/)
 * [glide](http://glideapp.io): 구글 스프레드시트를 백엔드로 사용하는 웹앱빌더
+* [[Android] 프로젝트에 코틀린을 도입하기 전 알아두면 좋을 5가지](https://medium.com/@sket8993/android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%84-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%84-5%EA%B0%80%EC%A7%80-d8e95076e04)
 
 ## 2019년 7월
 
