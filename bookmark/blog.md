@@ -11,7 +11,7 @@
 * [What are the differences between the joint learning and multitask learning?](https://www.quora.com/What-are-the-differences-between-the-joint-learning-and-multitask-learning)
   * Joint Learning: Your task has multiple sub-tasks that you all train together
   * Multitask: learn to do multiple things at ones e.g. multiple outputs
-* [A Commander for modern Go CLI interactions ](https://github.com/spf13/cobra)
+* [A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 * [Daily - curated dev news](https://www.dailynow.co)
   * [Curated dev news delivered to your new tab](https://github.com/dailynowco/daily)
 * [Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8](https://github.com/corretto/corretto-8)
@@ -23,6 +23,7 @@
 * [[Android] 프로젝트에 코틀린을 도입하기 전 알아두면 좋을 5가지](https://medium.com/@sket8993/android-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%84-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%84-5%EA%B0%80%EC%A7%80-d8e95076e04)
 * [Using Python’s Pathlib Module](https://pbpython.com/pathlib-intro.html)
 * [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
+* [Why Momentum Really Works](https://distill.pub/2017/momentum/)
 
 ## 2019년 7월
 
