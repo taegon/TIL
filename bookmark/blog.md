@@ -24,6 +24,9 @@
 * [Using Python’s Pathlib Module](https://pbpython.com/pathlib-intro.html)
 * [Stylin’ with Pandas](https://pbpython.com/styling-pandas.html)
 * [Why Momentum Really Works](https://distill.pub/2017/momentum/)
+* [news.hada.io](https://news.hada.io): xguru님이 만들어서 서비스하기 시작한 GeekNews. 모아 놓은 글이 굉장히 좋다.
+* [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+* 이동욱님의 [2019년 상반기 회고](https://jojoldu.tistory.com/436)
 
 ## 2019년 7월
 
