@@ -30,6 +30,8 @@
 * [마이크로소프트웨어 ebook](https://play.google.com/store/books/details/%EB%A7%88%EC%86%8C%ED%8C%80_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_396%ED%98%B8?id=7dOgDwAAQBAJ): 구글 플레이 $9.99
 * [유용우님 온라인 레주메](https://resume.yowu.dev/)
 * [박정운 블로그](https://jungwoon.github.io/): "구글 클라우드 플랫폼 뽀개기(비제이퍼블릭 출판)"의 저자
+* [Fast load times](https://web.dev/fast)
+* [13 Tips to Write Faster, Better-Optimized JavaScript](https://medium.com/@bretcameron/13-tips-to-write-faster-better-optimized-javascript-dc1f9ab063d8)
 
 ## 2019년 7월
 
