@@ -27,6 +27,9 @@
 * [news.hada.io](https://news.hada.io): xguru님이 만들어서 서비스하기 시작한 GeekNews. 모아 놓은 글이 굉장히 좋다.
 * [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 * 이동욱님의 [2019년 상반기 회고](https://jojoldu.tistory.com/436)
+* [마이크로소프트웨어 ebook](https://play.google.com/store/books/details/%EB%A7%88%EC%86%8C%ED%8C%80_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_396%ED%98%B8?id=7dOgDwAAQBAJ): 구글 플레이 $9.99
+* [유용우님 온라인 레주메](https://resume.yowu.dev/)
+* [박정운 블로그](https://jungwoon.github.io/): "구글 클라우드 플랫폼 뽀개기(비제이퍼블릭 출판)"의 저자
 
 ## 2019년 7월
 
