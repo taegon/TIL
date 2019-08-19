@@ -32,6 +32,9 @@
 * [박정운 블로그](https://jungwoon.github.io/): "구글 클라우드 플랫폼 뽀개기(비제이퍼블릭 출판)"의 저자
 * [Fast load times](https://web.dev/fast)
 * [13 Tips to Write Faster, Better-Optimized JavaScript](https://medium.com/@bretcameron/13-tips-to-write-faster-better-optimized-javascript-dc1f9ab063d8)
+* [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+* [The Best VS Code Extension List for Full Stack Developers](https://www.jonrcorbin.com/the-best-vs-code-extension-list-for-full-stack-developers/)
 
 ## 2019년 7월
 
