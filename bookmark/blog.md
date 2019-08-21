@@ -35,6 +35,8 @@
 * [사람들이 잘 안알려주는 GitHub 팁](https://medium.com/@kkweon/%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%98-%EC%95%88%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-github-%ED%8C%81-941e4d644402)
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 * [The Best VS Code Extension List for Full Stack Developers](https://www.jonrcorbin.com/the-best-vs-code-extension-list-for-full-stack-developers/)
+* [Matplotlib 3.1 cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
+* [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book)
 
 ## 2019년 7월
 
