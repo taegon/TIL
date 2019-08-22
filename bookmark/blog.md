@@ -37,6 +37,9 @@
 * [The Best VS Code Extension List for Full Stack Developers](https://www.jonrcorbin.com/the-best-vs-code-extension-list-for-full-stack-developers/)
 * [Matplotlib 3.1 cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 * [Scientific Visualization – Python & Matplotlib](https://github.com/rougier/scientific-visualization-book)
+* [Create a Flask Application With Google Login](https://realpython.com/flask-google-login/)
+* [SSH 포트 포워딩(SSH 터널링)의 개념 및 사용 방법](https://m.blog.naver.com/alice_k106/221364560794)
+* [10 simple Linux tips which save 50% of my time in the command line](https://dev.to/javinpaul/10-simple-linux-tips-which-save-50-of-my-time-in-the-command-line-4moo)
 
 ## 2019년 7월
 
