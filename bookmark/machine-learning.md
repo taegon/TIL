@@ -8,6 +8,7 @@
   * 구글의 [머신러닝 엔지니어링 실무지침서](https://developers.google.com/machine-learning/rules-of-ml/) :+1:
 * 구글의 [AI 페이지](https://ai.google/education#?modal_active=none)
 * 앤드류 응 교수의 [코세라 머신러닝 강좌](https:/www.coursera.org/learn/machine-learning): 이제는 고전축에 속하는 강좌. 좋은 강좌로 모두가 추천하나 다 들으려면 꽤 노력이 필요하다.
+* deeplearning.ai의 [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone): 앤드류 응 교수가 운영하는 사이트의 무료강좌
 * 제프리 힌튼 교수의 [신경망과 딥러닝 강좌](https://www.coursera.org/course/neuralnets): 위 엔드류 응 교수 강좌와 비슷한 평
 * 블룸버그의 [ML 기본기](https://bloomberg.github.io/foml/#home)
 * AWS의 [무료 강좌](https://aws.amazon.com/training/learning-paths/machine-learning/)
