@@ -26,6 +26,8 @@
 }
 ```
 
+* [xkcd styled chart lib](https://github.com/timqian/chart.xkcd)
+
 ## 인포그래픽스
 
 * [DataVisProject](http://datavizproject.com/) :+1:
