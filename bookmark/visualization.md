@@ -75,6 +75,8 @@
 * [Google Fonts](https://fonts.google.com/){:target="_blank"}
 * [HTML 문자 코드 레퍼런스](https://www.toptal.com/designers/htmlarrows/arrows/)
 * [콰앙체/타앙체](https://dhqj646.blog.me/221283410959): 한글날에 맞추어 배포하려던 프로젝트가 펀딩실패하고, 제작자께서 무료 공개한 폰트
+* [독립서체 안중근](https://gscaltexmediahub.com/campaign/the-energy-of-independence-fighters-ajg/)
+* [독립서체](https://gscaltexmediahub.com/campaign/the-energy-of-independence-fighters-2/): GS칼텍스에서 윤봉길, 윤동주, 백범 김구, 한용운체를 제공하고 있다.
 
 ## 블로그/사이트
 
