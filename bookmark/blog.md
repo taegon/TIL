@@ -40,6 +40,9 @@
 * [Create a Flask Application With Google Login](https://realpython.com/flask-google-login/)
 * [SSH 포트 포워딩(SSH 터널링)의 개념 및 사용 방법](https://m.blog.naver.com/alice_k106/221364560794)
 * [10 simple Linux tips which save 50% of my time in the command line](https://dev.to/javinpaul/10-simple-linux-tips-which-save-50-of-my-time-in-the-command-line-4moo)
+* [SingleFile](https://github.com/gildas-lormeau/SingleFile): SingleFile is a Web Extension for Firefox and Chrome and a CLI tool to save a complete web page as a single HTML file
+* [Git 커맨드라인 환경에서 GUI 부럽지 않게 사용할 수 있는 몇가지 팁](http://www.mimul.com/pebble/default/2019/08/23/1566550403384.html): zsh에서는 이런 환경 구축이 가능하구나.
+* [GitHub/jmoon018/PacVim](https://github.com/jmoon018/PacVim): 팩맨 타입의 게임으로 익히는 vim 명령어. 라기보다는 vim명령어로 즐기는 팩맨 게임이랄까;
 
 ## 2019년 7월
 
