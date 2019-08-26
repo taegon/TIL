@@ -44,6 +44,8 @@
 * [Git 커맨드라인 환경에서 GUI 부럽지 않게 사용할 수 있는 몇가지 팁](http://www.mimul.com/pebble/default/2019/08/23/1566550403384.html): zsh에서는 이런 환경 구축이 가능하구나.
 * [GitHub/jmoon018/PacVim](https://github.com/jmoon018/PacVim): 팩맨 타입의 게임으로 익히는 vim 명령어. 라기보다는 vim명령어로 즐기는 팩맨 게임이랄까;
 * [Filepond: A flexible and fun JavaScript file upload library](https://pqina.nl/filepond/): 파일업로드 UI/UX를 웹사이트에 수려하게 붙일 수 있겠다.
+* [Software Architecture Guide](https://martinfowler.com/architecture/)
+* [Windows 95 UI Kit - 부트스트랩4 기반의 윈도우95 테마](https://themesberg.com/preview/windows-95-ui-kit)
 
 ## 2019년 7월
 
