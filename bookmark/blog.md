@@ -46,6 +46,10 @@
 * [Filepond: A flexible and fun JavaScript file upload library](https://pqina.nl/filepond/): 파일업로드 UI/UX를 웹사이트에 수려하게 붙일 수 있겠다.
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
 * [Windows 95 UI Kit - 부트스트랩4 기반의 윈도우95 테마](https://themesberg.com/preview/windows-95-ui-kit)
+* [Color Tools For Designers 2019](https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab)
+* [QuillBot](https://quillbot.com/): aims to build an AI with human-level proficiency in paraphrase generation
+* [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
+* [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
 
 ## 2019년 7월
 
