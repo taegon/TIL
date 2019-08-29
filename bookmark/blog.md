@@ -50,6 +50,7 @@
 * [QuillBot](https://quillbot.com/): aims to build an AI with human-level proficiency in paraphrase generation
 * [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
 * [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
+* [Shape Up](https://basecamp.com/shapeup): Basecamp 회사의 기술블로그. 작은 조직이 훌륭하게 일하는 법
 
 ## 2019년 7월
 
