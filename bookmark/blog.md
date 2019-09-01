@@ -51,6 +51,8 @@
 * [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
 * [Things I Learnt from a Senior Software Engineer](https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html)
 * [Shape Up](https://basecamp.com/shapeup): Basecamp 회사의 기술블로그. 작은 조직이 훌륭하게 일하는 법
+* [Inside TensorFlow part 1](https://www.youtube.com/watch?v=UYRBHFAvLSs&feature=youtu.be&fbclid=IwAR0YG4DxKfUL1af3zGs4HGtjxxhG-M5-C0fP_-HXNLGbGBATESMHAP38N8M)
+* [Inside TensorFlow part 2](https://www.youtube.com/watch?v=uhzGTijaw8A&amp=&feature=youtu.be&amp=&fbclid=IwAR3dBRROLonq8egMitr_boPHpOirvyPSri7yj5sc8XQA_qYFnObWouVFmJY)
 
 ## 2019년 7월
 
