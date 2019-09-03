@@ -2,6 +2,13 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 9월
+
+* [APSRU](http://apsrunet.apsim.info/cgi-bin/gds): 전세계 일별 기상자료(최고/최저 온도, 강수량)를 받을 수 있다.
+  * [minneapolis/st.paul](http://apsrunet.apsim.info/cgi-bin/getGDSData.txt?format=txt&station=726580&ddStart=&mmStart=&yyyyStart=&ddFinish=&mmFinish=&yyyyFinish=)
+* [G-FEED](http://www.g-feed.com/): Global Food, Environment and Economic Dynamics
+* [AtlasAI](https://www.atlasai.co/)
+
 ## 2019년 8월
 
 * [Try Puppeteer](https://try-puppeteer.appspot.com/): 구글에서 만든 노드 라이브러리이며, 크롬용 개발 API
