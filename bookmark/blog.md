@@ -8,6 +8,8 @@
   * [minneapolis/st.paul](http://apsrunet.apsim.info/cgi-bin/getGDSData.txt?format=txt&station=726580&ddStart=&mmStart=&yyyyStart=&ddFinish=&mmFinish=&yyyyFinish=)
 * [G-FEED](http://www.g-feed.com/): Global Food, Environment and Economic Dynamics
 * [AtlasAI](https://www.atlasai.co/)
+* [sustainability and artificial intelligence lab](http://sustain.stanford.edu/crop-yield-analysis)
+* [뉴스타파 DATA 포털](https://data.newstapa.org/)
 
 ## 2019년 8월
 
