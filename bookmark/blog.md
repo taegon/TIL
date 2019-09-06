@@ -10,6 +10,8 @@
 * [AtlasAI](https://www.atlasai.co/)
 * [sustainability and artificial intelligence lab](http://sustain.stanford.edu/crop-yield-analysis)
 * [뉴스타파 DATA 포털](https://data.newstapa.org/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
+* [Google's Engineering Practices documentation](https://google.github.io/eng-practices/)
 
 ## 2019년 8월
 
