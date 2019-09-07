@@ -12,6 +12,9 @@
 * [뉴스타파 DATA 포털](https://data.newstapa.org/)
 * [How to learn D3.js](https://wattenberger.com/blog/d3): Want a birds-eye-view of D3.js?
 * [rapidtables - Super fast list of dicts to pre-formatted tables conversion library for Python 2/3](https://github.com/alttch/rapidtables)
+* [Learn Git Branching](https://learngitbranching.js.org/)
+* [Google's Engineering Practices documentation](https://google.github.io/eng-practices/)
+* [[번역] 아무도 말하지 않는 PHP의 좋은 점](https://mytory.net/2018/10/13/good-thing-in-php-nobody-talks-about.html): 꽤나 꾸준히 블로그를 한 개발자인데, 이제서야 발견했다니.
 
 ## 2019년 8월
 
