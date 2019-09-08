@@ -15,6 +15,9 @@
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Google's Engineering Practices documentation](https://google.github.io/eng-practices/)
 * [[번역] 아무도 말하지 않는 PHP의 좋은 점](https://mytory.net/2018/10/13/good-thing-in-php-nobody-talks-about.html): 꽤나 꾸준히 블로그를 한 개발자인데, 이제서야 발견했다니.
+* [A small trick on using console.log to print data in JavaScript ](https://www.pixelstech.net/article/1567523123-A-small-trick-on-using-console-log-to-print-data-in-JavaScript): 자바스크립트 콘솔 로그 찍을 때, `console.log({users});`와 같이 사용.
+* [Everything I googled in a week as a professional software engineer](https://localghost.dev/2019/09/everything-i-googled-in-a-week-as-a-professional-software-engineer/)
+* [What questions should you ask at an engineering interview?](https://localghost.dev/2019/08/what-questions-should-you-ask-at-an-engineering-interview/)
 
 ## 2019년 8월
 
