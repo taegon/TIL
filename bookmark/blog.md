@@ -26,6 +26,8 @@
   * [나이브 베이즈 알고리즘 확률 모델](http://docs.likejazz.com/multinomial-naive-bayes/)
   * [해석 가능한 머신러닝](http://docs.likejazz.com/interpretable-ml/)
   * [코사인 유사도의 의미](http://docs.likejazz.com/cosine-sim/)
+* [MATLAB vs Python: Why and How to Make the Switch](https://realpython.com/matlab-vs-python/)
+* [PyCharm for Productive Python Development (Guide)](https://realpython.com/pycharm-guide/)
 
 ## 2019년 8월
 
