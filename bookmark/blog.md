@@ -18,6 +18,14 @@
 * [A small trick on using console.log to print data in JavaScript ](https://www.pixelstech.net/article/1567523123-A-small-trick-on-using-console-log-to-print-data-in-JavaScript): 자바스크립트 콘솔 로그 찍을 때, `console.log({users});`와 같이 사용.
 * [Everything I googled in a week as a professional software engineer](https://localghost.dev/2019/09/everything-i-googled-in-a-week-as-a-professional-software-engineer/)
 * [What questions should you ask at an engineering interview?](https://localghost.dev/2019/08/what-questions-should-you-ask-at-an-engineering-interview/)
+* [애플 뮤직 웹 플레이어](https://beta.music.apple.com)
+* [차근차근 오픈소스에 기여해보기 (동기부여 편)](https://rinae.dev/posts/how-to-contribute-oss/)
+* [40 Favorite Interview Questions from Some of the Sharpest Folks We Know](https://firstround.com/review/40-favorite-interview-questions-from-some-of-the-sharpest-folks-we-know/)
+* [The Missing Papers](http://docs.likejazz.com/):
+  * [macOS 설치 프로그램 정리](http://docs.likejazz.com/clean-install-os-x/): 블로그를 살펴볼만 하다.
+  * [나이브 베이즈 알고리즘 확률 모델](http://docs.likejazz.com/multinomial-naive-bayes/)
+  * [해석 가능한 머신러닝](http://docs.likejazz.com/interpretable-ml/)
+  * [코사인 유사도의 의미](http://docs.likejazz.com/cosine-sim/)
 
 ## 2019년 8월
 
