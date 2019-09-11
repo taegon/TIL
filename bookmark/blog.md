@@ -15,7 +15,7 @@
 * [Learn Git Branching](https://learngitbranching.js.org/)
 * [Google's Engineering Practices documentation](https://google.github.io/eng-practices/)
 * [[번역] 아무도 말하지 않는 PHP의 좋은 점](https://mytory.net/2018/10/13/good-thing-in-php-nobody-talks-about.html): 꽤나 꾸준히 블로그를 한 개발자인데, 이제서야 발견했다니.
-* [A small trick on using console.log to print data in JavaScript ](https://www.pixelstech.net/article/1567523123-A-small-trick-on-using-console-log-to-print-data-in-JavaScript): 자바스크립트 콘솔 로그 찍을 때, `console.log({users});`와 같이 사용.
+* [A small trick on using console.log to print data in JavaScript](https://www.pixelstech.net/article/1567523123-A-small-trick-on-using-console-log-to-print-data-in-JavaScript): 자바스크립트 콘솔 로그 찍을 때, `console.log({users});`와 같이 사용.
 * [Everything I googled in a week as a professional software engineer](https://localghost.dev/2019/09/everything-i-googled-in-a-week-as-a-professional-software-engineer/)
 * [What questions should you ask at an engineering interview?](https://localghost.dev/2019/08/what-questions-should-you-ask-at-an-engineering-interview/)
 * [애플 뮤직 웹 플레이어](https://beta.music.apple.com)
@@ -26,6 +26,8 @@
   * [나이브 베이즈 알고리즘 확률 모델](http://docs.likejazz.com/multinomial-naive-bayes/)
   * [해석 가능한 머신러닝](http://docs.likejazz.com/interpretable-ml/)
   * [코사인 유사도의 의미](http://docs.likejazz.com/cosine-sim/)
+* [MATLAB vs Python: Why and How to Make the Switch](https://realpython.com/matlab-vs-python/)
+* [PyCharm for Productive Python Development (Guide)](https://realpython.com/pycharm-guide/)
 * [Reverse Interview (번역본)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 * [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
 * [iPhone 11 발표](https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/)
