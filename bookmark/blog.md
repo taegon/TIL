@@ -26,6 +26,11 @@
   * [나이브 베이즈 알고리즘 확률 모델](http://docs.likejazz.com/multinomial-naive-bayes/)
   * [해석 가능한 머신러닝](http://docs.likejazz.com/interpretable-ml/)
   * [코사인 유사도의 의미](http://docs.likejazz.com/cosine-sim/)
+* [Reverse Interview (번역본)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
+* [A Senior Engineer's CheckList](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/)
+* [iPhone 11 발표](https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/)
+* [애플 TV+ 발표](https://www.apple.com/newsroom/2019/09/apple-tv-launches-november-1-featuring-originals-from-the-worlds-greatest-storytellers/)
+* [애플 iPad 7세대 10.2' 발표](https://www.apple.com/newsroom/2019/09/apple-introduces-new-version-of-the-most-popular-ipad-starting-at-329/)
 
 ## 2019년 8월
 
