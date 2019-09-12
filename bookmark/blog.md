@@ -33,6 +33,8 @@
 * [iPhone 11 발표](https://www.apple.com/newsroom/2019/09/iphone-11-pro-and-iphone-11-pro-max-the-most-powerful-and-advanced-smartphones/)
 * [애플 TV+ 발표](https://www.apple.com/newsroom/2019/09/apple-tv-launches-november-1-featuring-originals-from-the-worlds-greatest-storytellers/)
 * [애플 iPad 7세대 10.2' 발표](https://www.apple.com/newsroom/2019/09/apple-introduces-new-version-of-the-most-popular-ipad-starting-at-329/)
+* [9 Data Visualization Tools That You Cannot Miss in 2019](https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927)
+* [Getting started with neo4j in 10 minutes](https://towardsdatascience.com/getting-started-with-neo4j-in-10-minutes-94788d99cc2b)
 
 ## 2019년 8월
 
