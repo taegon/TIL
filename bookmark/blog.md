@@ -34,7 +34,12 @@
 * [애플 TV+ 발표](https://www.apple.com/newsroom/2019/09/apple-tv-launches-november-1-featuring-originals-from-the-worlds-greatest-storytellers/)
 * [애플 iPad 7세대 10.2' 발표](https://www.apple.com/newsroom/2019/09/apple-introduces-new-version-of-the-most-popular-ipad-starting-at-329/)
 * [9 Data Visualization Tools That You Cannot Miss in 2019](https://towardsdatascience.com/9-data-visualization-tools-that-you-cannot-miss-in-2019-3ff23222a927)
+  * [ECHARTS](https://echarts.apache.org/)
+  * [HighCharts](https://www.highcharts.com)
+  * [DECK.GL](https://deck.gl)
 * [Getting started with neo4j in 10 minutes](https://towardsdatascience.com/getting-started-with-neo4j-in-10-minutes-94788d99cc2b)
+* [What is the new Apple U1 chip, and why is it important?](https://www.quora.com/What-is-the-new-Apple-U1-chip-and-why-is-it-important/answer/Brian-Roemmele)
+* [Microsoft announces Surface event on October 2nd in New York City](https://www.theverge.com/2019/8/27/20834766/microsoft-surface-event-new-york-city-october-date-dual-screen-rumors)
 
 ## 2019년 8월
 
