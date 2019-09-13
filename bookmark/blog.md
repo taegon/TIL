@@ -40,6 +40,10 @@
 * [Getting started with neo4j in 10 minutes](https://towardsdatascience.com/getting-started-with-neo4j-in-10-minutes-94788d99cc2b)
 * [What is the new Apple U1 chip, and why is it important?](https://www.quora.com/What-is-the-new-Apple-U1-chip-and-why-is-it-important/answer/Brian-Roemmele)
 * [Microsoft announces Surface event on October 2nd in New York City](https://www.theverge.com/2019/8/27/20834766/microsoft-surface-event-new-york-city-october-date-dual-screen-rumors)
+* [왜 내가 이제 와서 구글 시트를 해야 합니다.](https://www.notion.so/3ca983ad90b94e2abb1263cdaa9446c6)
+* [Dadroit](https://apistudio.dadroit.com): Powerful tool to develop and monitor HTTP APIs with ease.
+* [Clean Architecture 1/2](https://jusths.tistory.com/149): "클린 아키텍처" 요약
+* [Clean Architecture 2/2](https://jusths.tistory.com/150): "클린 아키텍처" 요약
 
 ## 2019년 8월
 
