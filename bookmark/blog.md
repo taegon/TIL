@@ -44,6 +44,9 @@
 * [Dadroit](https://apistudio.dadroit.com): Powerful tool to develop and monitor HTTP APIs with ease.
 * [Clean Architecture 1/2](https://jusths.tistory.com/149): "클린 아키텍처" 요약
 * [Clean Architecture 2/2](https://jusths.tistory.com/150): "클린 아키텍처" 요약
+* [Off-The-Shelf Hacker: Model Your Mechanisms with SolveSpace](https://thenewstack.io/off-the-shelf-hacker-model-your-mechanisms-with-solvespace/)
+* [구글의 코드 리뷰 가이드(번역본)](https://soojin.ro/review/)
+* [ECMAScript 버전별 새 기능 과 예제 정리](https://github.com/daumann/ECMAScript-new-features-list)
 
 ## 2019년 8월
 
