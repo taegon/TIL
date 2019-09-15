@@ -47,6 +47,8 @@
 * [Off-The-Shelf Hacker: Model Your Mechanisms with SolveSpace](https://thenewstack.io/off-the-shelf-hacker-model-your-mechanisms-with-solvespace/)
 * [구글의 코드 리뷰 가이드(번역본)](https://soojin.ro/review/)
 * [ECMAScript 버전별 새 기능 과 예제 정리](https://github.com/daumann/ECMAScript-new-features-list)
+* [Can I Email - 이메일에서 HTML태그 사용가능한지 확인](https://www.caniemail.com/)
+* [Headroom.js - 웹페이지 상단 헤더를 스크롤에 따라 숨겨주는 위젯](http://wicky.nillia.ms/headroom.js/)
 
 ## 2019년 8월
 
