@@ -52,6 +52,7 @@
 * [Learning Machine Learning - An online comic from Google AI](https://cloud.google.com/products/ai/ml-comic-1/)
 * [fselect: Find files with SQL-like queries](https://cli.fan/posts/fselect/)
 * [cli.fan](https://cli.fan/): reviewing and cataloging useful command-line tools
+* [eBay's TSV Utilities](https://ebay.github.io/tsv-utils/)
 
 ## 2019년 8월
 
