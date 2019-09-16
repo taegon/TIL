@@ -49,6 +49,8 @@
 * [ECMAScript 버전별 새 기능 과 예제 정리](https://github.com/daumann/ECMAScript-new-features-list)
 * [Can I Email - 이메일에서 HTML태그 사용가능한지 확인](https://www.caniemail.com/)
 * [Headroom.js - 웹페이지 상단 헤더를 스크롤에 따라 숨겨주는 위젯](http://wicky.nillia.ms/headroom.js/)
+* [Learning Machine Learning - An online comic from Google AI](https://cloud.google.com/products/ai/ml-comic-1/)
+* [fselect: Find files with SQL-like queries](https://cli.fan/posts/fselect/)
 
 ## 2019년 8월
 
