@@ -51,6 +51,7 @@
 * [Headroom.js - 웹페이지 상단 헤더를 스크롤에 따라 숨겨주는 위젯](http://wicky.nillia.ms/headroom.js/)
 * [Learning Machine Learning - An online comic from Google AI](https://cloud.google.com/products/ai/ml-comic-1/)
 * [fselect: Find files with SQL-like queries](https://cli.fan/posts/fselect/)
+* [cli.fan](https://cli.fan/): reviewing and cataloging useful command-line tools
 
 ## 2019년 8월
 
