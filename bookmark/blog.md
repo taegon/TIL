@@ -53,6 +53,9 @@
 * [fselect: Find files with SQL-like queries](https://cli.fan/posts/fselect/)
 * [cli.fan](https://cli.fan/): reviewing and cataloging useful command-line tools
 * [eBay's TSV Utilities](https://ebay.github.io/tsv-utils/)
+* [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
+* [Modern C](https://modernc.gforge.inria.fr/): CC 라이선스로 공개
+* [jsonbox.io: A Free HTTP based JSON storage - GitHub](https://github.com/vasanthv/jsonbox)
 
 ## 2019년 8월
 
