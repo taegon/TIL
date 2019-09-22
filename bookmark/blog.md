@@ -56,6 +56,10 @@
 * [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 * [Modern C](https://modernc.gforge.inria.fr/): CC 라이선스로 공개
 * [jsonbox.io: A Free HTTP based JSON storage - GitHub](https://github.com/vasanthv/jsonbox)
+* [15 things I’ve learned doing serverless for a year and a half](https://medium.com/paul-heintzelman/15-things-i-learned-doing-serverless-for-a-year-and-a-half-8f3a95dd84e6)
+* [if(kakao)dev 2019](https://if.kakao.com/2019/program) 발표모음
+* [See a satellites tonight](https://james.darpinian.com/satellites/)
+  * [James Darpinian](https://james.darpinian.com/resume/): Graphics & Computer Vision Engineer @ Google
 
 ## 2019년 8월
 
