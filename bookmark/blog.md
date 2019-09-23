@@ -60,6 +60,8 @@
 * [if(kakao)dev 2019](https://if.kakao.com/2019/program) 발표모음
 * [See a satellites tonight](https://james.darpinian.com/satellites/)
   * [James Darpinian](https://james.darpinian.com/resume/): Graphics & Computer Vision Engineer @ Google
+* [Notion for educators](https://www.notion.so/educators): notion이 학생 및 교육자용 계정을 무료로 제공하기로 하였다.
+* [Things a First Time PM Should Know About iOS Development](https://www.nickarner.com/blog/2019/9/22/things-a-first-time-pm-should-know-about-ios-development)
 
 ## 2019년 8월
 
