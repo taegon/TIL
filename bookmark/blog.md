@@ -62,6 +62,9 @@
   * [James Darpinian](https://james.darpinian.com/resume/): Graphics & Computer Vision Engineer @ Google
 * [Notion for educators](https://www.notion.so/educators): notion이 학생 및 교육자용 계정을 무료로 제공하기로 하였다.
 * [Things a First Time PM Should Know About iOS Development](https://www.nickarner.com/blog/2019/9/22/things-a-first-time-pm-should-know-about-ios-development)
+* [HPRCC Online Data Services](https://hprcc.unl.edu/onlinedataservices.php#data)
+* [HPRCC county-level weather data](https://hprcc.unl.edu/datasets.php?set=CountyData)
+* [ACIS: Applied Climate Information System](http://www.rcc-acis.org/examples.html)
 
 ## 2019년 8월
 

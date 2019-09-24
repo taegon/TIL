@@ -1,5 +1,14 @@
 # 연구에 관련되어 있는 토픽
 
+## 2019년 9월
+
+* [ACIS: Applied Climate Information System](http://www.rcc-acis.org/examples.html): 기후변화 관련 다양한 자료를 API 형태로 제공하고 있다.
+* [HPRCC Online Data Services](https://hprcc.unl.edu/onlinedataservices.php#data)
+* [HPRCC county-level weather data](https://hprcc.unl.edu/datasets.php?set=CountyData): 특정주의 카운티별 월별 평년치를 제공하고 있는데, 텍스트파일이어서 쉽게 다운로드가 가능해보인다.
+* [SC ACIS](http://scacis.rcc-acis.org/): 미국 측후소별로 자료를 선택하여 받을 수 있다.
+* [#ShowYourStripes](https://showyourstripes.info/)
+* [Show Your Warming Stripes](https://climatecentral.org/outreach/alert-archive/2019/2019WarmingStripesPage.html): 여기에서 rcc-acis.org를 찾았다.
+
 ## 2019년 6월
 
 * [Lifeng Luo](http://drought.geo.msu.edu/group.php)
