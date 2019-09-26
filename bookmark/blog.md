@@ -65,6 +65,9 @@
 * [HPRCC Online Data Services](https://hprcc.unl.edu/onlinedataservices.php#data)
 * [HPRCC county-level weather data](https://hprcc.unl.edu/datasets.php?set=CountyData)
 * [ACIS: Applied Climate Information System](http://www.rcc-acis.org/examples.html)
+* [Using Gooey as a Universal Frontend for any Language or CLI Application](https://chriskiehl.com/article/gooey-as-a-universal-frontend)
+* [Public IP Address API with two lines of Nginx config](https://www.ecalamia.com/blog/show-ip-api-nginx/)
+* [WARP is here (sorry it took so long)](https://blog.cloudflare.com/announcing-warp-plus/): Cloudflare에서 발표한 VPN. 기존 VPN 서비스와 달리 익명화를 지원하지는 않는다. 하지만 단말간 암호화를 하기 때문에 무료로 카페에서 이용할 때 쓰긴 좋을 것 같다.
 
 ## 2019년 8월
 
