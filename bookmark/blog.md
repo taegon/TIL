@@ -68,6 +68,10 @@
 * [Using Gooey as a Universal Frontend for any Language or CLI Application](https://chriskiehl.com/article/gooey-as-a-universal-frontend)
 * [Public IP Address API with two lines of Nginx config](https://www.ecalamia.com/blog/show-ip-api-nginx/)
 * [WARP is here (sorry it took so long)](https://blog.cloudflare.com/announcing-warp-plus/): Cloudflare에서 발표한 VPN. 기존 VPN 서비스와 달리 익명화를 지원하지는 않는다. 하지만 단말간 암호화를 하기 때문에 무료로 카페에서 이용할 때 쓰긴 좋을 것 같다.
+* [My Siri Shortcuts Library](http://www.matthewcassinelli.com/siri-shortcuts/): AirTable를 이용해서 160개 정도의 숏컷을 정리해두었다.
+* [디자이너들을 위한 크롬 확장 10가지](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
+* [Look what you can do with iPadOS — Apple](https://www.youtube.com/watch?v=7Glc2mHLPRM)
+* [OSSU 오픈소스 소사이어티 대학교 - Computer Science 독학하기](https://github.com/ossu/computer-science)
 
 ## 2019년 8월
 
