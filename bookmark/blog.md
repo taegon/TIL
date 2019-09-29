@@ -72,6 +72,8 @@
 * [디자이너들을 위한 크롬 확장 10가지](https://uxdesign.cc/10-best-chrome-extensions-for-designers-a76540b93836)
 * [Look what you can do with iPadOS — Apple](https://www.youtube.com/watch?v=7Glc2mHLPRM)
 * [OSSU 오픈소스 소사이어티 대학교 - Computer Science 독학하기](https://github.com/ossu/computer-science)
+* [10 culture fit interview questions—and what to look for in the answers](https://hire.google.com/articles/culture-fit-interview-questions/)
+* [gpu.js](http://gpu.rocks/): GPU Accelerated JavaScript
 
 ## 2019년 8월
 
