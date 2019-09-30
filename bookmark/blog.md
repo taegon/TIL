@@ -74,6 +74,7 @@
 * [OSSU 오픈소스 소사이어티 대학교 - Computer Science 독학하기](https://github.com/ossu/computer-science)
 * [10 culture fit interview questions—and what to look for in the answers](https://hire.google.com/articles/culture-fit-interview-questions/)
 * [gpu.js](http://gpu.rocks/): GPU Accelerated JavaScript
+* [How Firebase Interviewed Software Engineers](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
 
 ## 2019년 8월
 
