@@ -2,6 +2,13 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 10월
+
+* [createapp.dev](https://createapp.dev/): 웹팩 빌드 스크립트를 온라인에서 자동생성.
+* [document.designMode - 웹 페이지를 맘대로 바꾸기 (twitter.com)](https://twitter.com/sulco/status/1177559150563344384): 크롬에서 document.designMode = "on" 속성을 주면, 해당 페이지를 수정할 수 있다.
+* [Solved by Flexbox (번역)](https://hyunseob.github.io/solved-by-flexbox-kr/): 모던 브라우저에서 지원하는 Flexbox를 이용하여, 레이아웃을 구현하는 좀 더 나은 방법을 소개한 사이트.
+  * [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+
 ## 2019년 9월
 
 * [APSRU](http://apsrunet.apsim.info/cgi-bin/gds): 전세계 일별 기상자료(최고/최저 온도, 강수량)를 받을 수 있다.
