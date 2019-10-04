@@ -8,6 +8,11 @@
 * [document.designMode - 웹 페이지를 맘대로 바꾸기 (twitter.com)](https://twitter.com/sulco/status/1177559150563344384): 크롬에서 document.designMode = "on" 속성을 주면, 해당 페이지를 수정할 수 있다.
 * [Solved by Flexbox (번역)](https://hyunseob.github.io/solved-by-flexbox-kr/): 모던 브라우저에서 지원하는 Flexbox를 이용하여, 레이아웃을 구현하는 좀 더 나은 방법을 소개한 사이트.
   * [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+* [A Day with Vim Tutor (vimtutor)](https://levelup.gitconnected.com/a-day-with-vim-tutor-vimtutor-25aa2e6ce52c)
+* [다크모드 웹 페이지 디자인](https://github.com/tmdgus0084/apple-dark-mode)
+* [A data science approach to personality models](https://towardsdatascience.com/a-data-science-approach-to-personality-models-d3c7e18a377): 분석과정에서 사용한 figures를 살펴볼만 하다.
+* [removebg](https://www.remove.bg/): AI 기술을 이용하여 자동으로 배경 삭제
+* [How to Write Useful Commit Messages (My Commit Message Template)](https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9)
 
 ## 2019년 9월
 
