@@ -134,3 +134,16 @@ Deep Learning Frameworks
   * Joint Learning: Your task has multiple sub-tasks that you all train together
   * Multitask: learn to do multiple things at ones e.g. multiple outputs
 * [Keras: Multiple outputs and multiple losses](https://www.pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/)
+
+## 텐서플로우+케라스 학습 자료 (박찬성님, 2019.10.05)
+
+François Chollet 가 직접 제작한 TF2.0+Keras의 Colab 튜토리얼이 하나 더 공개 되었습니다.
+
+TensorFlow 2.0 + Keras Overview for Deep Learning Researchers
+
+이는 예전에 공개한 "tf.keras for Researchers: Crash Course" 와는 다른 버전의 자료로, 크게 Part 1: TensorFlow basics 와 Part 2: The Keras API로 구성되어 있습니다.
+개인적으론 이전 자료보다 더 알차게 구성되어 있는것 같아 마음에 드네요 :) 다른분들께도 유용한 정보이길 바랍니다!
+
+* [최근 자료 링크](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
+
+* [이전자료 (Crash Course) 링크](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg)
