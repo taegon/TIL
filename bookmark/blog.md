@@ -13,6 +13,9 @@
 * [A data science approach to personality models](https://towardsdatascience.com/a-data-science-approach-to-personality-models-d3c7e18a377): 분석과정에서 사용한 figures를 살펴볼만 하다.
 * [removebg](https://www.remove.bg/): AI 기술을 이용하여 자동으로 배경 삭제
 * [How to Write Useful Commit Messages (My Commit Message Template)](https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9)
+* [crontab guru](https://crontab.guru): 크론탭의 시간표현을 쉽게 확인할 수 있다.
+* [MS Learn](https://docs.microsoft.com/en-us/learn/browse/?term=python)
+* [MS Learn: Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 ## 2019년 9월
 
