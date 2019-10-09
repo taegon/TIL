@@ -16,6 +16,12 @@
 * [crontab guru](https://crontab.guru): 크론탭의 시간표현을 쉽게 확인할 수 있다.
 * [MS Learn](https://docs.microsoft.com/en-us/learn/browse/?term=python)
 * [MS Learn: Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+* [Open API로 구축한 실시간 도쿄 3D 지하철 맵](https://nagix.github.io/mini-tokyo-3d/#16.53/35.678953/139.766254/0/60): OpenStreetMap + MapBox-GL + Turf.js + three.js 로 만든 훌륭한 구현체. "Open Data Challenge for Public Transportation in Tokyo"
+대회용으로 공개한 데이터를 가져와서 개발. from news.hada.io
+* [n8n.io - 오픈소스 워크플로우 자동화 엔진 ( Zapier 대체제 )](https://n8n.io/)
+* [스타트업 아이디어 20,000개](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
+* [MS Flight Simulator 미리보기 - 전 세계를 실제처럼 날아보기](http://inspire.eaa.org/2019/09/30/an-inside-look-at-microsofts-newest-flight-simulator/): 이건 출시되면 꼭 한번 해보고 싶다.
 
 ## 2019년 9월
 
