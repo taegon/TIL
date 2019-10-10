@@ -22,6 +22,8 @@
 * [스타트업 아이디어 20,000개](https://unawaz.github.io/stochastic-hill-climbing/tasks/)
 * [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
 * [MS Flight Simulator 미리보기 - 전 세계를 실제처럼 날아보기](http://inspire.eaa.org/2019/09/30/an-inside-look-at-microsofts-newest-flight-simulator/): 이건 출시되면 꼭 한번 해보고 싶다.
+* [Easy Data Transform](https://www.easydatatransform.com/): 모델러를 만든 적이 있는데, 이런 것들 보면 아쉬운 마음이 든다.
+* [후잉가계부(whooing)](https://whooing.com/)
 
 ## 2019년 9월
 
