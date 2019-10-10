@@ -96,6 +96,8 @@
 * [10 culture fit interview questions—and what to look for in the answers](https://hire.google.com/articles/culture-fit-interview-questions/)
 * [gpu.js](http://gpu.rocks/): GPU Accelerated JavaScript
 * [How Firebase Interviewed Software Engineers](https://startupandrew.com/posts/how-firebase-interviewed-software-engineers/)
+* [Python range() Explained and Visualized](https://blog.soshace.com/en/python/python-range-explained-and-visualized/): 그림을 이렇게 깔끔하게 그리면 좋겠다. 내용이 좀 더 있으면 좋겠는데, 내용 자체는 아주 기본적이다.
+* [14 VSCode Extensions That Will Improve Your Productivity](https://dev.to/x-team/14-vscode-extensions-that-will-improve-your-productivity-27ah)
 
 ## 2019년 8월
 
