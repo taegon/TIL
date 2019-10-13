@@ -24,6 +24,13 @@
 * [MS Flight Simulator 미리보기 - 전 세계를 실제처럼 날아보기](http://inspire.eaa.org/2019/09/30/an-inside-look-at-microsofts-newest-flight-simulator/): 이건 출시되면 꼭 한번 해보고 싶다.
 * [Easy Data Transform](https://www.easydatatransform.com/): 모델러를 만든 적이 있는데, 이런 것들 보면 아쉬운 마음이 든다.
 * [후잉가계부(whooing)](https://whooing.com/)
+* [Convert curl syntax to Python, Ansible URI, Node.js, R, PHP, Strest, Go, Dart, JSON, Rust](https://curl.trillworks.com/)
+* [Able](https://able.bio/): 미디엄을 대체하는 소프트웨어 엔지니어을 위한 블로그 플랫폼
+* [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/m/entry/MSA-Microservice-Architecture-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%9A%8C%EA%B3%A0?utm_source=gaer)
+  * [워드프레스 + AWS = 무료로 홈페이지 만들기](https://bebong.tistory.com/m/entry/%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4-AWS-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0): AWS EC2 무료티어 셋팅하는 법이 잘 나와있다.
+* [PyTorch Mobile](https://pytorch.org/mobile/home/)
+* [uPlot.js - 매우 빠른 시계열 차트 라이브러리](https://github.com/leeoniya/uPlot)
+* [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
 
 ## 2019년 9월
 
