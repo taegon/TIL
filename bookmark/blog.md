@@ -31,6 +31,12 @@
 * [PyTorch Mobile](https://pytorch.org/mobile/home/)
 * [uPlot.js - 매우 빠른 시계열 차트 라이브러리](https://github.com/leeoniya/uPlot)
 * [The State of Machine Learning Frameworks in 2019](https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/)
+* [SandDance (Preview) by Microsoft](https://sanddance.js.org/): MS사의 Visualization 도구
+* [FaceForensics++: Learning to Detect Manipulated Facial Images](http://www.niessnerlab.org/projects/roessler2019faceforensicspp.html)
+* [Stanford CS230 한글판](https://stanford.edu/~shervine/l/ko/teaching/cs-230/)
+* [Hydra](https://cli.dev/): A framework for elegantly configuring complex applications
+* [아틀라시안 취업후기](https://tacogrammer.com/%ec%95%84%ed%8b%80%eb%9d%bc%ec%8b%9c%ec%95%88-%ec%b7%a8%ec%97%85%ed%9b%84%ea%b8%b0/)
+* [Internet Archive](https://archive.org/details/softwarelibrary_msdos_games): 웹에서 플레이 가능한 MS-DOS 게임 2500개 추가
 
 ## 2019년 9월
 
