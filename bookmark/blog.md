@@ -39,6 +39,7 @@
 * [Internet Archive](https://archive.org/details/softwarelibrary_msdos_games): 웹에서 플레이 가능한 MS-DOS 게임 2500개 추가
 * [24 Free Data Science Books](http://www.wzchen.com/data-science-books)
 * [Minimally Sufficient Pandas](https://school.geekwall.in/p/BkXnsC1VH/minimally-sufficient-pandas)
+* [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg): Flutter 강의
 
 ## 2019년 9월
 
