@@ -38,6 +38,7 @@
 * [아틀라시안 취업후기](https://tacogrammer.com/%ec%95%84%ed%8b%80%eb%9d%bc%ec%8b%9c%ec%95%88-%ec%b7%a8%ec%97%85%ed%9b%84%ea%b8%b0/)
 * [Internet Archive](https://archive.org/details/softwarelibrary_msdos_games): 웹에서 플레이 가능한 MS-DOS 게임 2500개 추가
 * [24 Free Data Science Books](http://www.wzchen.com/data-science-books)
+* [Minimally Sufficient Pandas](https://school.geekwall.in/p/BkXnsC1VH/minimally-sufficient-pandas)
 
 ## 2019년 9월
 
