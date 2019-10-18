@@ -40,6 +40,10 @@
 * [24 Free Data Science Books](http://www.wzchen.com/data-science-books)
 * [Minimally Sufficient Pandas](https://school.geekwall.in/p/BkXnsC1VH/minimally-sufficient-pandas)
 * [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg): Flutter 강의
+* [Buffet lines are terrible, but let's try to improve them using computer simulations](https://erikbern.com/2019/10/16/buffet-lines-are-terrible.html): 간만에 찾은 시뮬레이션 관련 글. 특정 프레임워크를 썼는지 궁금했는데, 맨땅에서 시작한 것 같다.
+* [jwilber@GitHub/roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+* [Dapr](https://dapr.io/): 마이크로서비스 앱을 쉽게 만들게 해주는 MS의 오픈소스 프로젝트
+* [pipedream](https://pipedream.com/): IFTTT for developer
 
 ## 2019년 9월
 
