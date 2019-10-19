@@ -44,6 +44,10 @@
 * [jwilber@GitHub/roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [Dapr](https://dapr.io/): 마이크로서비스 앱을 쉽게 만들게 해주는 MS의 오픈소스 프로젝트
 * [pipedream](https://pipedream.com/): IFTTT for developer
+* [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
+* [Open Doodles](https://www.opendoodles.com/): A Free Set of Sketchy Illustrations
+* [cedalo@GitHub/streamsheets](https://github.com/cedalo/streamsheets): The Streamsheets Core Project - IOT 실시간 데이터를 인터랙티브 하게 보여주는 오픈소스 도구
+* [POPPER.JS](https://popper.js.org/): 경량 팝업 js 라이브러리
 
 ## 2019년 9월
 
