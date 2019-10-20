@@ -48,6 +48,9 @@
 * [Open Doodles](https://www.opendoodles.com/): A Free Set of Sketchy Illustrations
 * [cedalo@GitHub/streamsheets](https://github.com/cedalo/streamsheets): The Streamsheets Core Project - IOT 실시간 데이터를 인터랙티브 하게 보여주는 오픈소스 도구
 * [POPPER.JS](https://popper.js.org/): 경량 팝업 js 라이브러리
+* [Mathematics for Machine Learning](https://mml-book.github.io/): The book will be published by Cambridge University Press in early 2020.
+* [인기있는 프로그래밍 언어 1965 - 2019](https://www.youtube.com/watch?v=Og847HVwRSI): 막대그래프 애니메이션이 여러모로 인기가 있는 것 같다.
+* [올바른 유저 스토리 작성을 위한 엔지니어링 가이드](https://wholeman.dev/posts/guide-to-writing-correct-user-stories/)
 
 ## 2019년 9월
 
