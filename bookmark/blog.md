@@ -54,6 +54,7 @@
 * [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/): 실무 가이드로 훑어볼 만 하다.
 * [개발자용 Free Tier를 제공하는 서비스들(+500개) 모음](https://free-for.dev/)
 * [DNS 101: An introduction to Domain Name Servers](https://www.redhat.com/sysadmin/dns-domain-name-servers)
+* [팀원 성장시키기 : 발표 컨설팅](https://zzsza.github.io/diary/2019/10/20/helping-presentation/?fbclid=IwAR1-YgHsGEDsi4F-zGfp8lDKDx4TGUwQkOREuOazIspgOxSvhL87sSIpKAk): 변성윤님의 글
 
 ## 2019년 9월
 
