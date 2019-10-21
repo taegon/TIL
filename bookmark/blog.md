@@ -40,6 +40,7 @@
 * [24 Free Data Science Books](http://www.wzchen.com/data-science-books)
 * [Minimally Sufficient Pandas](https://school.geekwall.in/p/BkXnsC1VH/minimally-sufficient-pandas)
 * [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg): Flutter 강의
+* [raywenderlich.com](https://www.raywenderlich.com/): iOS 강좌
 * [Buffet lines are terrible, but let's try to improve them using computer simulations](https://erikbern.com/2019/10/16/buffet-lines-are-terrible.html): 간만에 찾은 시뮬레이션 관련 글. 특정 프레임워크를 썼는지 궁금했는데, 맨땅에서 시작한 것 같다.
 * [jwilber@GitHub/roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
 * [Dapr](https://dapr.io/): 마이크로서비스 앱을 쉽게 만들게 해주는 MS의 오픈소스 프로젝트
@@ -55,6 +56,9 @@
 * [개발자용 Free Tier를 제공하는 서비스들(+500개) 모음](https://free-for.dev/)
 * [DNS 101: An introduction to Domain Name Servers](https://www.redhat.com/sysadmin/dns-domain-name-servers)
 * [팀원 성장시키기 : 발표 컨설팅](https://zzsza.github.io/diary/2019/10/20/helping-presentation/?fbclid=IwAR1-YgHsGEDsi4F-zGfp8lDKDx4TGUwQkOREuOazIspgOxSvhL87sSIpKAk): 변성윤님의 글
+* [잡동사니 탐구 - 참스터디 iAIDOL: 머신러닝/딥러닝](https://m.blog.naver.com/PostList.nhn?blogId=samsjang&categoryNo=87&currentPage=4&listStyle=style1): "화이트 해커를 위한 암호와 해킹"의 저자 장삼용님 블로그
+* [Untitled 블로그: 지능형시스템/머신 러닝](https://untitledtblog.tistory.com/category/%EC%A7%80%EB%8A%A5%ED%98%95%EC%8B%9C%EC%8A%A4%ED%85%9C/%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D?page=1)
+* [곰가드의 라이브러리](https://gomguard.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D?page=2): 머신러닝 관련 간단한 블로깅
 
 ## 2019년 9월
 
