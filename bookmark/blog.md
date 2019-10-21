@@ -51,6 +51,9 @@
 * [Mathematics for Machine Learning](https://mml-book.github.io/): The book will be published by Cambridge University Press in early 2020.
 * [인기있는 프로그래밍 언어 1965 - 2019](https://www.youtube.com/watch?v=Og847HVwRSI): 막대그래프 애니메이션이 여러모로 인기가 있는 것 같다.
 * [올바른 유저 스토리 작성을 위한 엔지니어링 가이드](https://wholeman.dev/posts/guide-to-writing-correct-user-stories/)
+* [스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들](https://www.mimul.com/blog/linux-server-operations/): 실무 가이드로 훑어볼 만 하다.
+* [개발자용 Free Tier를 제공하는 서비스들(+500개) 모음](https://free-for.dev/)
+* [DNS 101: An introduction to Domain Name Servers](https://www.redhat.com/sysadmin/dns-domain-name-servers)
 
 ## 2019년 9월
 
