@@ -71,6 +71,7 @@
 * [R2D3](http://www.r2d3.us): D3로 머신러닝을 설명하는 페이지였는데, 최근에 파트2가 추가되었다. 스토리텔링이 좋다.
 * [BILLIONS OF BIRDS MIGRATE. WHERE DO THEY GO?](https://www.nationalgeographic.com/magazine/2018/03/bird-migration-interactive-maps/): 네셔날지오그래픽의 2018년 3월 기사
 * [How to learn D3.js](https://wattenberger.com/blog/d3): D3를 잘 정리해두었다. 책을 사볼까 싶은 생각이 든다.
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/): 무료로 공개된 자료인데, 아주 훌륭하게 예제가 정리되었다.
 
 ## 폰트
 

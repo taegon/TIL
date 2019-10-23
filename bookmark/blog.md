@@ -61,6 +61,8 @@
 * [곰가드의 라이브러리](https://gomguard.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D?page=2): 머신러닝 관련 간단한 블로깅
 * [myNoise](https://mynoise.net/)
 * [Unix50](https://www.bell-labs.com/unix50/): Celebrating 50 years of Unix
+* [SUALAB Research Blog](http://research.sualab.com/): AI 전문 중소기업으로 최근 2000억대 투자를 받고 인수되었다.
+* [BOOKDOWN](https://bookdown.org): R 마크다운으로 온라인 책을 저작한 웹사이트인데, 내용이 좋은 책이 많다.
 
 ## 2019년 9월
 
