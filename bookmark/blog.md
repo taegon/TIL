@@ -59,6 +59,8 @@
 * [잡동사니 탐구 - 참스터디 iAIDOL: 머신러닝/딥러닝](https://m.blog.naver.com/PostList.nhn?blogId=samsjang&categoryNo=87&currentPage=4&listStyle=style1): "화이트 해커를 위한 암호와 해킹"의 저자 장삼용님 블로그
 * [Untitled 블로그: 지능형시스템/머신 러닝](https://untitledtblog.tistory.com/category/%EC%A7%80%EB%8A%A5%ED%98%95%EC%8B%9C%EC%8A%A4%ED%85%9C/%EB%A8%B8%EC%8B%A0%20%EB%9F%AC%EB%8B%9D?page=1)
 * [곰가드의 라이브러리](https://gomguard.tistory.com/category/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D?page=2): 머신러닝 관련 간단한 블로깅
+* [myNoise](https://mynoise.net/)
+* [Unix50](https://www.bell-labs.com/unix50/): Celebrating 50 years of Unix
 
 ## 2019년 9월
 
