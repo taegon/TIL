@@ -63,6 +63,8 @@
 * [Unix50](https://www.bell-labs.com/unix50/): Celebrating 50 years of Unix
 * [SUALAB Research Blog](http://research.sualab.com/): AI 전문 중소기업으로 최근 2000억대 투자를 받고 인수되었다.
 * [BOOKDOWN](https://bookdown.org): R 마크다운으로 온라인 책을 저작한 웹사이트인데, 내용이 좋은 책이 많다.
+* [Data Science School](https://datascience-school.com/): 다수의 무료강좌를 제공하고 있다.
+* [github.com/explore](https://github.com/explore): 이메일 뉴스레터도 가능하다.
 
 ## 2019년 9월
 
