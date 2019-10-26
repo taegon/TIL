@@ -65,6 +65,11 @@
 * [BOOKDOWN](https://bookdown.org): R 마크다운으로 온라인 책을 저작한 웹사이트인데, 내용이 좋은 책이 많다.
 * [Data Science School](https://datascience-school.com/): 다수의 무료강좌를 제공하고 있다.
 * [github.com/explore](https://github.com/explore): 이메일 뉴스레터도 가능하다.
+* [Polynote](https://polynote.org/): 넷플릭스가 개발한 폴리글랏 노트북. Joel Gnus가 지적했던 노트북의 많은 문제가 개선되었다.
+* [Intro to Regex for Web Developers](https://dev.to/chrisachard/intro-to-regex-for-web-developers-2fj4)
+* [regex.guide](https://regex.guide/playground/)
+* [github/knsv/mermaid](https://github.com/knsv/mermaid): 올 초에 북마크해두었는데, geeknews에 올라왔길래 다시 한번 포스팅해둔다.
+* [HOW SSH PORT BECAME 22](https://www.ssh.com/ssh/port)
 
 ## 2019년 9월
 
