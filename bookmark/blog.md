@@ -73,6 +73,8 @@
 * [막돼먹은 엔지니어의 머신러닝 개발](https://skettee.github.io/)
 * [AWS Lambda vs. Azure Functions: 10 Major Differences](https://www.iamondemand.com/blog/aws-lambda-vs-azure-functions-ten-major-differences/)
 * [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+* [github/WWolf/korea-election](https://github.com/WWolf/korea-election): 대선득표율을 ternary 그래프로 정리
+* [github/vuski/admdongkor](https://github.com/vuski/admdongkor): 행정구역도를 계속 업데이트하고 계시다.
 
 ## 2019년 9월
 
