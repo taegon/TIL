@@ -70,6 +70,9 @@
 * [regex.guide](https://regex.guide/playground/)
 * [github/knsv/mermaid](https://github.com/knsv/mermaid): 올 초에 북마크해두었는데, geeknews에 올라왔길래 다시 한번 포스팅해둔다.
 * [HOW SSH PORT BECAME 22](https://www.ssh.com/ssh/port)
+* [막돼먹은 엔지니어의 머신러닝 개발](https://skettee.github.io/)
+* [AWS Lambda vs. Azure Functions: 10 Major Differences](https://www.iamondemand.com/blog/aws-lambda-vs-azure-functions-ten-major-differences/)
+* [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
 
 ## 2019년 9월
 
