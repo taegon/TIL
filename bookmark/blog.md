@@ -75,6 +75,11 @@
 * [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
 * [github/WWolf/korea-election](https://github.com/WWolf/korea-election): 대선득표율을 ternary 그래프로 정리
 * [github/vuski/admdongkor](https://github.com/vuski/admdongkor): 행정구역도를 계속 업데이트하고 계시다.
+* [테리엇의 디지털 놀이터](https://tariat.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+  * [파이썬 사이킷런(sklearn) 패키지에서 ROC곡선 쉽게 그리는 방법!](https://tariat.tistory.com/754?category=678799)
+* [Road to Viz Expert (3) - Geo with Plotly Express](https://www.kaggle.com/subinium/road-to-viz-expert-3-geo-with-plotly-express): subinium님 케글페이지
+* [파이썬 시각화 - cufflinks](https://nbviewer.jupyter.org/github/zzsza/TIL/blob/master/python/visualization%28cufflinks%29.ipynb): 변성윤님이 cufflinks 이용하여 그래프 테스트
+* [github/santosjorge/cufflinks](https://github.com/santosjorge/cufflinks): Productivity Tools for Plotly + Pandas
 
 ## 2019년 9월
 
