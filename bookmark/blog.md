@@ -80,6 +80,11 @@
 * [Road to Viz Expert (3) - Geo with Plotly Express](https://www.kaggle.com/subinium/road-to-viz-expert-3-geo-with-plotly-express): subinium님 케글페이지
 * [파이썬 시각화 - cufflinks](https://nbviewer.jupyter.org/github/zzsza/TIL/blob/master/python/visualization%28cufflinks%29.ipynb): 변성윤님이 cufflinks 이용하여 그래프 테스트
 * [github/santosjorge/cufflinks](https://github.com/santosjorge/cufflinks): Productivity Tools for Plotly + Pandas
+* [Google brings its ‘.new’ domains to the rest of the web, including to Spotify, Microsoft & others](https://techcrunch.com/2019/10/29/google-brings-its-new-domains-to-the-rest-of-the-web-including-to-spotify-microsoft-others/)
+* [Adopting Erlang](https://adoptingerlang.org/)
+* [github/microsoft/PowerToys](https://github.com/microsoft/PowerToys/tree/master/src/modules/powerrename)
+* [github/migueldeicaza/gui.cs](https://github.com/migueldeicaza/gui.cs): DOS 시절이 떠오르는 UI 툴킷
+* [이력서 - 1분의 싸움](https://blog.naver.com/wodory/221676841351)
 
 ## 2019년 9월
 
