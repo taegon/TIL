@@ -85,6 +85,7 @@
 * [github/microsoft/PowerToys](https://github.com/microsoft/PowerToys/tree/master/src/modules/powerrename)
 * [github/migueldeicaza/gui.cs](https://github.com/migueldeicaza/gui.cs): DOS 시절이 떠오르는 UI 툴킷
 * [이력서 - 1분의 싸움](https://blog.naver.com/wodory/221676841351)
+* [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 
 ## 2019년 9월
 
