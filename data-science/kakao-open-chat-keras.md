@@ -147,3 +147,8 @@ TensorFlow 2.0 + Keras Overview for Deep Learning Researchers
 * [최근 자료 링크](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
 
 * [이전자료 (Crash Course) 링크](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg)
+
+## L1과 L2 Regularization
+
+* l1-> 변수 각각에 걸리는 가중치 중 일부가 아예 0이 되어버리길 원할 때 (그래서 feature selection으로도 사용됨)
+l2-> 변수 각각에 걸리는 가중치 전부가 엇비슷하게 되길 바랄때 (튀는 값이 없도록; shrinkage method)

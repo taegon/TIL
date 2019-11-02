@@ -2,6 +2,11 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 11월
+
+* [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952)
+* [How to use Different Batch Sizes when Training and Predicting with LSTMs](https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/)
+
 ## 2019년 10월
 
 * [createapp.dev](https://createapp.dev/): 웹팩 빌드 스크립트를 온라인에서 자동생성.
