@@ -11,6 +11,11 @@
 * [Twelve-Factor app](https://12factor.net/ko/): Twelve-Factor app은 아래 특징을 가진 SaaS 앱을 만들기 위한 방법론
 * [Simple scraper](https://simplescraper.io/): 웹사이트에서 데이터를 선택하면 json으로 변환하여 제공함.
 * [AI 연구자를 위한 클린코드 - GDG DevFest Seoul 2019](https://www.slideshare.net/KennethCeyer/ai-gdg-devfest-seoul-2019-187630418): PIGNOSE (KennethanCeyer@GitHub, 네이버 클로바)님 발표자료
+* [DevFest Seoul 2019 발표자료](https://docs.google.com/spreadsheets/d/1cTg1DN7ELfrkxpFl6_WK8S-LYPmf2o2boVPNXe-xva0/edit)
+* [alf.io](https://alf.io/): The open source ticket reservation system
+  * [github/alfio-event/alf.io](https://github.com/alfio-event/alf.io)
+* [We need new data books - so we started one](https://chartio.com/blog/cloud-data-management-book-launch/): Cloud Data Management (4 Stages for Informed Companies)
+* [Quiet.js](https://quiet.github.io/quiet-js/): Quiet.js - 웹브라우저 상에서 44.1kHz 소리로 데이터 전송하기
 
 ## 2019년 10월
 
