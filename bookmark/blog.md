@@ -6,6 +6,11 @@
 
 * [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952)
 * [How to use Different Batch Sizes when Training and Predicting with LSTMs](https://machinelearningmastery.com/use-different-batch-sizes-training-predicting-python-keras/)
+* [Collection of GitHub repos, blogs and websites to learn cool things](https://github.com/rsapkf/goodies): over 2000+ sites and resources
+* [PlantUML](http://plantuml.com/ko/): PlantUML 은 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트입니다.
+* [Twelve-Factor app](https://12factor.net/ko/): Twelve-Factor app은 아래 특징을 가진 SaaS 앱을 만들기 위한 방법론
+* [Simple scraper](https://simplescraper.io/): 웹사이트에서 데이터를 선택하면 json으로 변환하여 제공함.
+* [AI 연구자를 위한 클린코드 - GDG DevFest Seoul 2019](https://www.slideshare.net/KennethCeyer/ai-gdg-devfest-seoul-2019-187630418): PIGNOSE (KennethanCeyer@GitHub, 네이버 클로바)님 발표자료
 
 ## 2019년 10월
 

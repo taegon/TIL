@@ -29,6 +29,7 @@
 * [Tackling Climate Change with Machine Learning](https://arxiv.org/abs/1906.05433)
 * [ROC와 AUC](http://shinhanlife.ml/public/ml/교차%20검증법과%20ROC%20AUC.html)
 * [분류성능평가지표 - Precision(정밀도), Recall(재현율) and Accuracy(정확도)](https://sumniya.tistory.com/26)
+* [쉽게 따라할 수 있는 임베딩 활용](https://drive.google.com/file/d/1cbtrsgaZi3qNRjazWkiAZy9FPc4Ru2Ss/view): DevFest 2019 Seoul - 이기창님
 
 ## 라이브러리
 
