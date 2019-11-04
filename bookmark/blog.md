@@ -16,6 +16,8 @@
   * [github/alfio-event/alf.io](https://github.com/alfio-event/alf.io)
 * [We need new data books - so we started one](https://chartio.com/blog/cloud-data-management-book-launch/): Cloud Data Management (4 Stages for Informed Companies)
 * [Quiet.js](https://quiet.github.io/quiet-js/): Quiet.js - 웹브라우저 상에서 44.1kHz 소리로 데이터 전송하기
+* [github/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 직접 만들어보기 시리즈. 도전적인 과제이다.
+* [spleeter](https://github.com/deezer/spleeter): 노래에서 보컬/드럼/베이스/피아노를 분리 추출해주는 오픈소스 
 
 ## 2019년 10월
 
