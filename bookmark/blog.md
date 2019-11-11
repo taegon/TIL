@@ -28,6 +28,8 @@
 * [Quantum Computer](https://teamdable.github.io/techblog/Quantum-Computer)
 * [PostgRest](https://postgrest.org/): PostgreSQL DB를 RESTful API로 직접 접근하게 만들어주는 웹서버 (postgrest.org)
 * [1,300 Free Online Courses from Top Universities](http://www.openculture.com/freeonlinecourses)
+* [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
+* [Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
 
 ## 2019년 10월
 
