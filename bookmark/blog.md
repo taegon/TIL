@@ -18,6 +18,20 @@
 * [Quiet.js](https://quiet.github.io/quiet-js/): Quiet.js - 웹브라우저 상에서 44.1kHz 소리로 데이터 전송하기
 * [github/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 직접 만들어보기 시리즈. 도전적인 과제이다.
 * [spleeter](https://github.com/deezer/spleeter): 노래에서 보컬/드럼/베이스/피아노를 분리 추출해주는 오픈소스 
+* [Teachable Machine 2.0 makes AI easier for everyone](https://blog.google/technology/ai/teachable-machine/)
+* [Infer](https://fbinfer.com/): 코드 정적 분석툴
+* [How Discord achieves native iOS performance with React Native](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502)
+* [20 Years of Wi-Fi](https://www.wi-fi.org/discover-wi-fi/20-years-of-wi-fi)
+* [Web Extension starter to build "Write Once Write on any Browser" extension](https://github.com/abhijithvijayan/web-extension-starter)
+* [Proton](https://a-jie.github.io/Proton/): Javascript particle animation engine
+* [TOAST UI](https://ui.toast.com/tui-chart/): The visuals of the charts in IE8 are exactly as it looks in Chrome. 네이버의 오픈소스.
+* [The Holloway Syllabus on Company Culture](https://www.holloway.com/s/syllabus-company-culture)
+* [10 Good Practices for Building and Maintaining Large Vue.js Projects](https://www.telerik.com/blogs/10-good-practices-building-maintaining-large-vuejs-projects)
+* [Quantum Computer](https://teamdable.github.io/techblog/Quantum-Computer)
+* [PostgRest](https://postgrest.org/): PostgreSQL DB를 RESTful API로 직접 접근하게 만들어주는 웹서버 (postgrest.org)
+* [1,300 Free Online Courses from Top Universities](http://www.openculture.com/freeonlinecourses)
+* [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
+* [Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
 
 ## 2019년 10월
 
