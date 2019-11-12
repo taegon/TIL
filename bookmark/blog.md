@@ -36,6 +36,9 @@
 * [DevShop](https://secretgeek.github.io/devShop/): 칸반을 배우면서 익히는 게임
   * [secretGeek.net](http://secretgeek.net/)
   * [GitHub](https://github.com/secretgeek)
+* [CS 230 - 딥러닝: 합성곱 신경망 치트시트](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+* [Kaggle Winning Solutions](http://kagglesolutions.com)
+* [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 
 ## 2019년 10월
 
