@@ -32,6 +32,10 @@
 * [1,300 Free Online Courses from Top Universities](http://www.openculture.com/freeonlinecourses)
 * [Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning)
 * [Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
+* [2019 Jeju BigData Competition - 퇴근시간 버스승차인원 예측](https://dacon.io/cpt13/230432): 초심자용 코드
+* [DevShop](https://secretgeek.github.io/devShop/): 칸반을 배우면서 익히는 게임
+  * [secretGeek.net](http://secretgeek.net/)
+  * [GitHub](https://github.com/secretgeek)
 
 ## 2019년 10월
 
