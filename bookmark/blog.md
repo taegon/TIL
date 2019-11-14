@@ -17,7 +17,7 @@
 * [We need new data books - so we started one](https://chartio.com/blog/cloud-data-management-book-launch/): Cloud Data Management (4 Stages for Informed Companies)
 * [Quiet.js](https://quiet.github.io/quiet-js/): Quiet.js - 웹브라우저 상에서 44.1kHz 소리로 데이터 전송하기
 * [github/danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x): 직접 만들어보기 시리즈. 도전적인 과제이다.
-* [spleeter](https://github.com/deezer/spleeter): 노래에서 보컬/드럼/베이스/피아노를 분리 추출해주는 오픈소스 
+* [spleeter](https://github.com/deezer/spleeter): 노래에서 보컬/드럼/베이스/피아노를 분리 추출해주는 오픈소스
 * [Teachable Machine 2.0 makes AI easier for everyone](https://blog.google/technology/ai/teachable-machine/)
 * [Infer](https://fbinfer.com/): 코드 정적 분석툴
 * [How Discord achieves native iOS performance with React Native](https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502)
@@ -41,6 +41,9 @@
 * [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
 * [Top Tools for Vue.js Development](https://levelup.gitconnected.com/dev-tips-top-tools-for-vue-js-development-7cf2f71137fe)
   * [Vue CLI](https://cli.vuejs.org/), [Storybook](https://storybook.js.org/), [Vuetify](https://vuetifyjs.com/en/), [VuePress](https://vuepress.vuejs.org/), [VueX](https://vuex.vuejs.org/), [Nuxt](https://nuxtjs.org/), [Gridsome](https://gridsome.org/)
+* [Sketchviz](https://sketchviz.com/new): 스케치 스타일로 다이어그램을 생성해주는 웹사이트.
+* [Announcing .NET Jupyter Notebooks](https://www.hanselman.com/blog/AnnouncingNETJupyterNotebooks.aspx)
+* [CyberGIS Center](https://cybergis.illinois.edu/project/cybergis-jupyter/): [2019 UMN Spatial Forum](https://research.umn.edu/units/uspatial/events/2019-umn-spatial-forum)의 초청 강사였던 [Shaowen Wang](https://www.geog.illinois.edu/people/shaowen) 교수의 프로젝트 페이지. 강연을 듣지 못하고 온 점이 아쉽다. 한국분이 포닥을 하고 있고, 그 분 전공이 ABM인 것이 인상적이다.
 
 ## 2019년 10월
 
