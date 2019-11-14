@@ -39,6 +39,8 @@
 * [CS 230 - 딥러닝: 합성곱 신경망 치트시트](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 * [Kaggle Winning Solutions](http://kagglesolutions.com)
 * [Winning solutions of kaggle competitions](https://www.kaggle.com/sudalairajkumar/winning-solutions-of-kaggle-competitions)
+* [Top Tools for Vue.js Development](https://levelup.gitconnected.com/dev-tips-top-tools-for-vue-js-development-7cf2f71137fe)
+  * [Vue CLI](https://cli.vuejs.org/), [Storybook](https://storybook.js.org/), [Vuetify](https://vuetifyjs.com/en/), [VuePress](https://vuepress.vuejs.org/), [VueX](https://vuex.vuejs.org/), [Nuxt](https://nuxtjs.org/), [Gridsome](https://gridsome.org/)
 
 ## 2019년 10월
 
