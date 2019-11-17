@@ -44,6 +44,11 @@
 * [Sketchviz](https://sketchviz.com/new): 스케치 스타일로 다이어그램을 생성해주는 웹사이트.
 * [Announcing .NET Jupyter Notebooks](https://www.hanselman.com/blog/AnnouncingNETJupyterNotebooks.aspx)
 * [CyberGIS Center](https://cybergis.illinois.edu/project/cybergis-jupyter/): [2019 UMN Spatial Forum](https://research.umn.edu/units/uspatial/events/2019-umn-spatial-forum)의 초청 강사였던 [Shaowen Wang](https://www.geog.illinois.edu/people/shaowen) 교수의 프로젝트 페이지. 강연을 듣지 못하고 온 점이 아쉽다. 한국분이 포닥을 하고 있고, 그 분 전공이 ABM인 것이 인상적이다.
+* [Play Academy](https://playacademy.exceedlms.com/student/catalog?locale=ko): Google Play 비즈니스 및 개발자들을 위한 무료 교육 플랫폼
+* [WT:Social](https://wt.social/): 위키피디아 공동창업자가 만든 새로운 소셜 네트워크. 가짜 뉴스를 배제하고, 광고없이 사용자에게 구독료를 받는 구조. 얼마나 성공할 수 있을지 모르겠다.
+* [htop explained](https://peteris.rocks/blog/htop/)
+* [나만의 React 만들기](https://pomb.us/build-your-own-react/)
+* [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/) by 기계인간 님
 
 ## 2019년 10월
 
