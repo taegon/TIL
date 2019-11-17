@@ -49,6 +49,8 @@
 * [htop explained](https://peteris.rocks/blog/htop/)
 * [나만의 React 만들기](https://pomb.us/build-your-own-react/)
 * [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/) by 기계인간 님
+* [Keras_Tutorial_PCJ](https://github.com/Parkchanjun/Keras_Tutorial_PCJ): 고려대학교 자연언어처리&인공지능 연구실 박찬준님.
+* [이제현님 도커 문서](https://github.com/jehyunlee/docker)
 
 ## 2019년 10월
 

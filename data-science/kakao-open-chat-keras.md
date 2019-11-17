@@ -152,3 +152,38 @@ TensorFlow 2.0 + Keras Overview for Deep Learning Researchers
 
 * l1-> 변수 각각에 걸리는 가중치 중 일부가 아예 0이 되어버리길 원할 때 (그래서 feature selection으로도 사용됨)
 l2-> 변수 각각에 걸리는 가중치 전부가 엇비슷하게 되길 바랄때 (튀는 값이 없도록; shrinkage method)
+
+## 맥에서 딥러닝 사용 (박찬성님, 2019. 10.31)
+
+약간 뒷북성 내용이긴 하지만, Mac 사용 유저에게 도움이 되는 내용을 알게 되어 공유 드립니다.
+
+mac 에서 딥러닝을 하는 방법은 크게, 1. **CPU** 이용, 2. **PlaidML + OpenCL** 이용, 3. **ROCm** (RadeonOpenCompute) 이용, 4. **eGPU enclosure + NVIDIA GPU** 이용 정도가 있습니다.
+
+CPU는 속도가 느리니 고려 대상이 아닐 것이고, 3번과 4번의 경우 셋업이 너무 어려울 뿐만 아니라 macos 버전을 타서, mavericks 및 catalina 버전에서는 사실상 불가능한 옵션입니다.
+
+2번에 대해서 좀 더 소개해 드리겠습니다. PlaidML 은 Intel 에서 리드하는 프레임워크로, NVIDIA/AMD 및 CPU 하드웨어가 각각에 맞는 OpenCL로 추상화 된 것을 다시한번 통합 추상화 하여 딥러닝을 가능하게 해 주는 프로젝트 입니다. [그림 1]
+
+여기에 PlaidML-Keras 라는 프로젝트가 있어서, PlaidML를 백엔드로 동작하는 Keras의 사용이 2017년경 부터 가능해 왔습니다. 현재까지도 지속적으로 업데이트 되어 Keras 2.x 까지의 지원이 됩니다.
+
+중요한 사실은 Apple/macos 진영에서는 수년 전 부터 Metal 이라는 프레임워크를 개발해 왔습니다. Metal 은 AMD GPU를 제어하기 위한 API를 제공하는 매우 저 수준의 프레임워크 입니다. 현재 애플의 모든 상품에 적용이 되어 왔고, OpenCL은 사실상 Deprecated 되었다고 보시면 됩니다. 
+
+그간의 상황을 살펴보면, Metal이 적용된 여러가지 killing 애플리케이션의 성능이 OpenCL에 비해서 월등히 좋아진 사례를 많이 목격할 수 있습니다. 대부분 전환 하고 있고, 이는 iOS 애플리케이션 또한 마찬가지 입니다.
+
+PlaidML-Keras 프로젝트에서는 2018년 5월경 부터 OpenCL과 더불이 Metal 의 지원을 런칭 했다는 사실을 알게 되었습니다. AMD Radeon GPU 를 활용하여, Metal의 고성능 프레임워크를 백엔드로,  Keras API를 사용한 딥러닝이 가능하다는 것이죠. [그림 2] (더불어, Mac 컴퓨터에 eGPU를 연결해서 하이엔드급 Radeon GPU의 연결도 가능합니다)
+
+제가 보유한 iMac 2017 (Radeon Pro 580 8GB) 기준, 테스트를 해본 결과 , CIFAR10 데이터셋을 VGG16 모델로 256 배치사이즈 기준, 1 epoch 당 약 90초 정도 소요 됩니다. Colab에서 제공하는 K80 대비 절반 수준의 성능입니다. 하지만, 충분히 활용 가치가 있다고 판단됩니다.
+
+사용 방법은 매우 간단합니다.
+
+1. pip install -U plaidml-keras
+2. plaidml-setup
+    여기서 OpenCL 대신, metal 을 선택하시면 됩니다 [그림2]
+3. Python 코드 작성
+    import os
+    os.environ["KERAS_BACKEND"] = "plaidml.keras.backend"
+    위의 내용 입력 후, import keras 하여 평소 쓰던대로 사용
+
+PlaidML은 현재 버전 0.6 이기 때문에, 여러가지 실험을 해 봐야 겠지만, 일단 비싼 mac 을 활용 해볼만한 좋은 수단이 될 것 같습니다. eGPU등 여러가지 환경의 벤치마크가 부족하기 때문에, 혹시 시도하시는 분이 계시다면, 결과를 공유해 주시면 좋을것 같습니다.
+
+plaidml: [https://github.com/plaidml/plaidml](https://github.com/plaidml/plaidml)
+plaidml-keras: [https://vertexai-plaidml.readthedocs-hosted.com/en/latest/index.html](https://vertexai-plaidml.readthedocs-hosted.com/en/latest/index.html)
