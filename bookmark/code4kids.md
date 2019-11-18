@@ -7,6 +7,7 @@
 * iOS앱: [Hopscotch: Coding for kids](https://itunes.apple.com/us/app/hopscotch-hd/id617098629?mt=8)
 * 구글 [grasshopper](https://grasshopper.codes/)
 * [SnappyCode](https://snappycode.org): pycon cleveland 2019 동영상에서 발견
+* [code.org](https://code.org/): 교육자료가 아주 잘 정리되어 있다. :+1:
 
 ## 관련 블로그
 
