@@ -58,3 +58,18 @@
 * [딥러닝의 정석: 텐서플로와 최신 기법으로 배우는 딥러닝 알고리즘 설계](http://www.yes24.com/Product/Goods/58707156): 임백준 작가님이 추천해준 책.
 * [핸즈온 머신러닝: 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무](http://www.yes24.com/Product/Goods/59878826): 역자인 박해선님 블로그에도 좋은 자료가 많다.
   * [텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/): 박해선님 개인 블로그.
+
+## 관련 도구
+
+* [Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/LeNet.html)
+* [Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
+* [Netron](https://github.com/lutzroeder/netron): Netron is a viewer for neural network, deep learning and machine learning models.
+
+## 모델 구현 예제
+
+* [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
+
+## 관련 블로그
+
+* [Applying CNN over Titanic Data-set using Keras](https://medium.com/analytics-army/applying-cnn-over-titanic-data-set-using-keras-ee07d70b0222): CNN is not a proper method of solving problems like that of Titanic Data-set, but there is nothing wrong in experimenting.
+* [Self-training with Noisy Student improves ImageNet classification Review](https://hoya012.github.io/blog/Self-training-with-Noisy-Student-improves-ImageNet-classification-Review/?fbclid=IwAR2Z3v3aBDS1Zc-UEG2YCdmrdlqJG3qn4_qubVoLYvJPjXNYZKsLklXTA1s) by Hoya012
