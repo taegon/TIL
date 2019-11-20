@@ -51,6 +51,11 @@
 * [macOS 초심자를 위한 터미널 공부 가이드](https://johngrib.github.io/wiki/my-mac-os-terminal/) by 기계인간 님
 * [Keras_Tutorial_PCJ](https://github.com/Parkchanjun/Keras_Tutorial_PCJ): 고려대학교 자연언어처리&인공지능 연구실 박찬준님.
 * [이제현님 도커 문서](https://github.com/jehyunlee/docker)
+* [Joplin](https://joplinapp.org): a note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS
+  * [github/laurent22/joplin](https://github.com/laurent22/joplin)
+* [널 오브젝트 패턴 (Null Object Pattern)](https://johngrib.github.io/wiki/null-object-pattern/):인터페이스는 구현하지만 아무 일도 하지 않는 객체 by 기계인간님
+* [Gource](https://gource.io/): 소프트웨어 버전관리 시각화 도구
+* [Play Academy](https://playacademy.exceedlms.com/student/catalog?locale=ko)
 
 ## 2019년 10월
 
