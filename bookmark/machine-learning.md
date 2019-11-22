@@ -21,6 +21,8 @@
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html): 논문에 사용된 코드를 공개하고 노트북형식으로 단계별로 해석하고 있다.
 * [Deep Learning.net](http://deeplearning.net/)
 * [Papers with Code](https://www.paperswithcode.com/)
+* [TOP AI & MACHINE LEARNING RESEARCH PAPERS FROM 2019](https://www.topbots.com/top-ml-research-papers-2019/)
+* [[Updated] BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
 
 ## ML 관련 자료
 
