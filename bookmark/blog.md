@@ -56,6 +56,14 @@
 * [널 오브젝트 패턴 (Null Object Pattern)](https://johngrib.github.io/wiki/null-object-pattern/):인터페이스는 구현하지만 아무 일도 하지 않는 객체 by 기계인간님
 * [Gource](https://gource.io/): 소프트웨어 버전관리 시각화 도구
 * [Play Academy](https://playacademy.exceedlms.com/student/catalog?locale=ko)
+* [HTTP Headers for the Responsible Developer](https://gotober.com/2019/sessions/1117/http-headers-for-the-responsible-developer)
+* [Email Marketing Resources](https://thebetter.email/resources)
+* [HERO35](https://hero35.com/): 개발자 컨퍼런스 동영상을 모아놓은 사이트. 현재 알파버전이고, React가 대부분이지만, AWS, 백엔드, 머신러닝 등이 추가중.
+* [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
+* [HACKS-웹기술블로그](http://hacks.mozilla.or.kr/)
+* [geolib](https://github.com/manuelbieh/geolib): Zero dependency library to provide some basic geo functions
+* [Sourcetrail is now free and open-source software](https://www.sourcetrail.com/blog/open_source/): 정적분석에 기반한 C,C++,Java,Python 소스 시각화 도구.
+* [Open source illustrations kit](https://illlustrations.co/)
 
 ## 2019년 10월
 
