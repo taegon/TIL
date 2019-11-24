@@ -64,6 +64,11 @@
 * [geolib](https://github.com/manuelbieh/geolib): Zero dependency library to provide some basic geo functions
 * [Sourcetrail is now free and open-source software](https://www.sourcetrail.com/blog/open_source/): 정적분석에 기반한 C,C++,Java,Python 소스 시각화 도구.
 * [Open source illustrations kit](https://illlustrations.co/)
+* [handbook_of_stimulus](https://luciuschoi.github.io/handbook_of_stimulus/): Basecamp에서 만든 자바스크립트 프레임워크 Stimulus의 한글 번역문서
+* [Microsoft REST API 가이드라인](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+* [PyTorch 로 배우는 Deep Learning](https://pytorch.org/deep-learning-with-pytorch)
+* [Hacker-Laws](https://github.com/codeanddonuts/hacker-laws-kr): 개발자에게 유용한 법칙, 이론, 원칙 그리고 패턴들 정리
+* [insomnia: Cross-platform HTTP and GraphQL Client](https://github.com/getinsomnia/insomnia)
 
 ## 2019년 10월
 
