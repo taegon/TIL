@@ -69,6 +69,10 @@
 * [PyTorch 로 배우는 Deep Learning](https://pytorch.org/deep-learning-with-pytorch)
 * [Hacker-Laws](https://github.com/codeanddonuts/hacker-laws-kr): 개발자에게 유용한 법칙, 이론, 원칙 그리고 패턴들 정리
 * [insomnia: Cross-platform HTTP and GraphQL Client](https://github.com/getinsomnia/insomnia)
+* [Moonlight: Remote Work Encyclopedia](https://www.remoteworkencyclopedia.com/): 원격근무 일자리 중개 서비스인 Moonlight에서 공개한 리모트 백과사전
+* [Markdeep](https://casual-effects.com/markdeep/): a technology for writing plain text documents that will look good in any web browser, whether local or remote.
+* [나만의 리액트 라이브러리 만들기](https://velog.io/@godori/build-your-own-react)
+* [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html) by Paul Graham
 
 ## 2019년 10월
 
