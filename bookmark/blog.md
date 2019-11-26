@@ -73,6 +73,9 @@
 * [Markdeep](https://casual-effects.com/markdeep/): a technology for writing plain text documents that will look good in any web browser, whether local or remote.
 * [나만의 리액트 라이브러리 만들기](https://velog.io/@godori/build-your-own-react)
 * [The Bus Ticket Theory of Genius](http://paulgraham.com/genius.html) by Paul Graham
+* [Command line apps in Rust](https://rust-lang-nursery.github.io/cli-wg/index.html)
+* [Single Page App에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
+* [ThoughtWorks: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
 
 ## 2019년 10월
 
