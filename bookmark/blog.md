@@ -76,6 +76,9 @@
 * [Command line apps in Rust](https://rust-lang-nursery.github.io/cli-wg/index.html)
 * [Single Page App에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
 * [ThoughtWorks: TECHNOLOGY RADAR](https://www.thoughtworks.com/radar)
+* [Nerd Fonts](https://www.nerdfonts.com/)
+* [Google Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci)
+* [The Smallest Difference](https://www.robinrendle.com/notes/the-smallest-difference.html): CSS 한줄로 숫자 정렬 맞추기. `font-variant-numeric: tabular-nums;`
 
 ## 2019년 10월
 
