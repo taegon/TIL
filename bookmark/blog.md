@@ -79,6 +79,11 @@
 * [Nerd Fonts](https://www.nerdfonts.com/)
 * [Google Lighthouse CI](https://github.com/GoogleChrome/lighthouse-ci)
 * [The Smallest Difference](https://www.robinrendle.com/notes/the-smallest-difference.html): CSS 한줄로 숫자 정렬 맞추기. `font-variant-numeric: tabular-nums;`
+* [좋은 git 커밋 메시지를 작성하기 위한 7가지 약속](https://meetup.toast.com/posts/106)
+* [2020년 트렌드 키워드 정리](https://drive.google.com/file/d/1FNtbJ1FcC3NMaJYk6T0e6OF-zfwaIaLL/view)
+* [FECONF 2019 Highlight](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA)
+* [더북 - 모두의 딥러닝](https://thebook.io/006958/part03/ch06/01/)
+* [[딥러닝] 뉴럴 네트워크 Part. 8 - 옵티마이저 (Optimizer)](https://gomguard.tistory.com/m/187)
 
 ## 2019년 10월
 
