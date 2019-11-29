@@ -84,6 +84,9 @@
 * [FECONF 2019 Highlight](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA)
 * [더북 - 모두의 딥러닝](https://thebook.io/006958/part03/ch06/01/)
 * [[딥러닝] 뉴럴 네트워크 Part. 8 - 옵티마이저 (Optimizer)](https://gomguard.tistory.com/m/187)
+* [Computer Architecture – Fall 2019 (263-2210-00L)](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule)
+* [Eternal Terminal](https://eternalterminal.dev/)
+* [browserless](https://github.com/browserless/chrome): Chrome as a service in docker. Run on our cloud, or bring your own
 
 ## 2019년 10월
 
