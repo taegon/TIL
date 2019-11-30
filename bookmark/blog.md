@@ -87,6 +87,9 @@
 * [Computer Architecture – Fall 2019 (263-2210-00L)](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule)
 * [Eternal Terminal](https://eternalterminal.dev/)
 * [browserless](https://github.com/browserless/chrome): Chrome as a service in docker. Run on our cloud, or bring your own
+* [webglstudio.js](https://github.com/jagenjo/webglstudio.js): A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
+* [DISCOVERING LESS-KNOWN POSTGRESQL V12 FEATURES](https://www.cybertec-postgresql.com/en/discovering-less-known-postgresql-12-features/)
+* [Home Assistant](https://www.home-assistant.io/): 라즈베리 파이에 설치하여 홈 자동화 구현
 
 ## 2019년 10월
 
