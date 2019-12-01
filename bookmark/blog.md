@@ -90,6 +90,11 @@
 * [webglstudio.js](https://github.com/jagenjo/webglstudio.js): A full open source 3D graphics editor in the browser, with scene editor, coding pad, graph editor, virtual file system, and many features more.
 * [DISCOVERING LESS-KNOWN POSTGRESQL V12 FEATURES](https://www.cybertec-postgresql.com/en/discovering-less-known-postgresql-12-features/)
 * [Home Assistant](https://www.home-assistant.io/): 라즈베리 파이에 설치하여 홈 자동화 구현
+* [러스트의 멋짐을 모르는 당신은 불쌍해요](https://parksb.github.io/article/35.html): 박성범씨 블로그인데, 좋은 글이 많다.
+  * [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
+* [mal - Make a Lisp](https://github.com/kanaka/mal/)
+* [Zephyr](https://www.zephyrproject.org/): A SMALL, SCALABLE OPEN SOURCE RTOS FOR IOT EMBEDDED DEVICES
+* [Advent of Code 2019](https://adventofcode.com/2019)
 
 ## 2019년 10월
 
