@@ -5,7 +5,7 @@
 ## 2019년 12월
 
 * [No Time For Books](https://notimeforbooks.com/): One page per day of a classic book, emailed direct to your inbox.
-* [HTTPie](https://github.com/jakubroztocil/httpie): As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+* [HTTPie](https://github.com/jakubroztocil/httpie): As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. Curl를 대신하여 HTTP API를 테스트할 수 있는 좋은 도구라고 생각된다.
   * [httpie.org](https://httpie.org/)
 * [CoScreen](https://www.coscreen.co/): 화면 공유 솔루션
 * [Django 3.0 release notes](https://docs.djangoproject.com/ko/3.0/releases/3.0/)
@@ -15,6 +15,12 @@
 * [Diagram.codes](https://www.diagram.codes/): 코드로 다이어그램 그리기
 * [Plain Text Project](https://plaintextproject.online/tools.html): 글쓰기 자체에 집중할 수 있는 방법이나 툴 소개
 * [How DNS works](https://howdns.works/)
+* [AWS CodeGuru](https://aws.amazon.com/ko/codeguru/): 머신러닝 기반 자동화된 코드리뷰 및 어플리케이션 성능 개선 추천 도구
+* [AWS Kendra](https://aws.amazon.com/ko/kendra/): 파일시스템,웹사이트부터 드롭박스,S3,RDS,Salesforce 를 비롯한 회사내의 모든 것을 통합 검색할 수 있는 서비스
+* [Metaflow](https://metaflow.org/): 넷플릭스가 만든 데이터 사이언스용 파이썬 프레임워크 오픈소스
+* [1.1.1.1 WARP 가 도대체 무엇인가](https://www.clien.net/service/board/cm_iphonien/14353306)
+* [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+* [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes): MS사가 공개한 NLP 관련 end-to-end 예제들과 시나리오
 
 ## 2019년 11월
 
