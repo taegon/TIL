@@ -2,6 +2,20 @@
 
 눈에 띄는 자원이 있으면 일단 모아놓자.
 
+## 2019년 12월
+
+* [No Time For Books](https://notimeforbooks.com/): One page per day of a classic book, emailed direct to your inbox.
+* [HTTPie](https://github.com/jakubroztocil/httpie): As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+  * [httpie.org](https://httpie.org/)
+* [CoScreen](https://www.coscreen.co/): 화면 공유 솔루션
+* [Django 3.0 release notes](https://docs.djangoproject.com/ko/3.0/releases/3.0/)
+* [Floating Point Math](https://0.30000000000000004.com/): 각 언어별로 부동소수점 계산 비교
+* [RiiR(Rewrite it in Rust)](http://adventures.michaelfbryan.com/posts/how-to-riir/index.html)
+* [Learn Awesome](https://learnawesome.org/)
+* [Diagram.codes](https://www.diagram.codes/): 코드로 다이어그램 그리기
+* [Plain Text Project](https://plaintextproject.online/tools.html): 글쓰기 자체에 집중할 수 있는 방법이나 툴 소개
+* [How DNS works](https://howdns.works/)
+
 ## 2019년 11월
 
 * [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952)
