@@ -23,6 +23,7 @@
 * [Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes): MS사가 공개한 NLP 관련 end-to-end 예제들과 시나리오
 * [SwiftLaTeX](https://github.com/SwiftLaTeX/SwiftLaTeX): WYSIWYG 지원되는 브라우저 기반의 비주얼 라텍스 에디터
 * [NanoNeuron](https://github.com/trekhleb/nano-neuron): 자바스크립트 함수 7개로 머신러닝을 설명하기
+* [AWS re:Invent 2019 새 서비스 소개](https://aws.amazon.com/ko/blogs/korea/aws-launches-previews-at-reinvent-2019-tuesday-december-3rd/)
 
 ## 2019년 11월
 
