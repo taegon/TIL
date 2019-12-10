@@ -33,6 +33,9 @@
 * [Dropbox: Thank you, Guido](https://blog.dropbox.com/topics/company/thank-you--guido)
 * [44BITS: 파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 * [44BITS: Django 3.0 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
+* [기억보다 기록을](https://jojoldu.tistory.com/): 배달의민족에서 정산 시스템을 담당하는 리드 개발자 이동욱님 블로그. 담백한 개발자 인터뷰.
+  * [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU)
+* [Learning Modern JavaScript with Tetris](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
 
 ## 2019년 11월
 
