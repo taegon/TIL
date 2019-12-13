@@ -27,7 +27,7 @@
 * [폴 그레이엄 – 천재에 대한 버스표 이론(1/2)](https://newspeppermint.com/2019/12/05/m-ticket1/): 번역본이 업데이트되었다.
 * [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703): PyTorch의 공식 논문
 * [practicalAI](https://practicalai.me/): A practical approach to machine learning. colab 노트북을 제공하고 있다.
-* [](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md): JavaScript 알고리즘 및 자료 구조
+* [github/trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md): JavaScript 알고리즘 및 자료 구조
 * [JavaScript ‪Module Cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
 * [코드스쿼드: 창업 3주년 회고](https://medium.com/@codesquad_yoda/%EC%B0%BD%EC%97%85-3%EC%A3%BC%EB%85%84-%ED%9A%8C%EA%B3%A0-9042f38bda67): 소프트웨어 교육 업체인 [코드스쿼드](https://codesquad.kr/)의 회고 글
 * [Dropbox: Thank you, Guido](https://blog.dropbox.com/topics/company/thank-you--guido)
@@ -36,6 +36,8 @@
 * [기억보다 기록을](https://jojoldu.tistory.com/): 배달의민족에서 정산 시스템을 담당하는 리드 개발자 이동욱님 블로그. 담백한 개발자 인터뷰.
   * [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU)
 * [Learning Modern JavaScript with Tetris](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
+* [asciinema](https://asciinema.org/): 터미널 화면을 녹화하고, 녹화된 자료를 재생하여 보여주는 라이브러리. 오래전부터 알고 있던 서비스인데, 북마크에 누락되어있어서 추가한다.
+* [fivebooks.com](https://fivebooks.com/books/best-books-of-2019/): 올해(2019)의 책 5권을 분야별로 선정하여 정리하였다.
 
 ## 2019년 11월
 
