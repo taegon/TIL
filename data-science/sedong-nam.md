@@ -62,3 +62,17 @@ c. [https://www.facebook.com/dgtgrade/posts/2027717967287059](https://www.facebo
 
 a. [https://www.facebook.com/dgtgrade/posts/1988449507880572](https://www.facebook.com/dgtgrade/posts/1988449507880572)
     - 2007년에 NIPS에서 딥러닝 워크샵을 지원해 주지 않아서 딥러닝 워크샵을 NIPS 컨퍼런스 장소 옆에서 해적 워크샵으로 열었을 때의 이야기
+
+### Deep Double Descent (2019.12.07)
+
+딥러닝에서는 모델이 커도 오버피팅 안 되고 괜찮다 하는 전통적인 관점에서는 도저히 이해하기 힘든 썰을 얼마전에 소개 했었는데요.
+
+얼마전 썰:
+[https://www.facebook.com/dgtgrade/posts/2671475662911283](https://www.facebook.com/dgtgrade/posts/2671475662911283)
+
+그런데 바로 엊그제 OpenAI에서 그 썰에 대해 훨씬 더 큰 규모로 실험해 본 결과를 발표 했네요. 그 썰이 맞을 뿐 아니라 훨씬 더 광범위 하게 적용된다는 결과입니다.
+
+OpenAI 썰: 
+[https://openai.com/blog/deep-double-descent/](https://openai.com/blog/deep-double-descent/)
+
+여러모로 당황스럽네요. 연구자들도 We don't understand라고 하는 것으로 봐서는 같은 기분인 듯 합니다.
