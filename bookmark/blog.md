@@ -38,6 +38,10 @@
 * [Learning Modern JavaScript with Tetris](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
 * [asciinema](https://asciinema.org/): 터미널 화면을 녹화하고, 녹화된 자료를 재생하여 보여주는 라이브러리. 오래전부터 알고 있던 서비스인데, 북마크에 누락되어있어서 추가한다.
 * [fivebooks.com](https://fivebooks.com/books/best-books-of-2019/): 올해(2019)의 책 5권을 분야별로 선정하여 정리하였다.
+* [github/jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h): Single header library for writing non-blocking HTTP servers in C. 테스트용이나 간단하게 서비스하기에 좋아보임. 단순 서비스는 ngix보다 성능이 나음.
+* [CSS Layout](https://csslayout.io/): CSS layout 템플릿 모음
+* [DockerSlim](https://github.com/docker-slim/docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+* [Distribution Explorer](http://bois.caltech.edu/software.html): 칼텍 강사인 Justin Bois의 홈페이지
 
 ## 2019년 11월
 
