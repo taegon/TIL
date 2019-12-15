@@ -42,6 +42,11 @@
 * [CSS Layout](https://csslayout.io/): CSS layout 템플릿 모음
 * [DockerSlim](https://github.com/docker-slim/docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 * [Distribution Explorer](http://bois.caltech.edu/software.html): 칼텍 강사인 Justin Bois의 홈페이지
+* [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+* [Flowy](https://github.com/alyssaxuu/flowy): The minimal javascript library to create flowcharts
+* [simplePARALLAX](https://simpleparallax.com/): the easiest way to get a parallax effect with javascript
+* [fx](https://github.com/antonmedv/fx): Command-line tool and terminal JSON viewer
+* [BBC LogoSound Effects](http://bbcsfx.acropolis.org.uk/)
 
 ## 2019년 11월
 
