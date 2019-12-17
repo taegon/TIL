@@ -47,6 +47,9 @@
 * [simplePARALLAX](https://simpleparallax.com/): the easiest way to get a parallax effect with javascript
 * [fx](https://github.com/antonmedv/fx): Command-line tool and terminal JSON viewer
 * [BBC LogoSound Effects](http://bbcsfx.acropolis.org.uk/)
+* [Keras와 CoLab을 활용한 간단한 딥러닝 모델 훈련, 모델 저장 및 재사용](https://daddynkidsmakers.blogspot.com/2019/06/blog-post_5.html): 건설쪽 전공이어서 소프트웨어쪽으로 깊이 다루고 있지 않지만, 전반적으로 읽을만한 글이 많다. [`세상을 바꾸는 코딩`](https://book.naver.com/bookdb/book_detail.nhn?bid=15041565)이라는 책의 저자.
+* [Idiomatic Rust](https://github.com/mre/idiomatic-rust): A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.
+* [Hammerspoon](https://www.hammerspoon.org/)
 
 ## 2019년 11월
 
