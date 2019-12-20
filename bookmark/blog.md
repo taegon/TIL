@@ -53,6 +53,13 @@
 * [No Code is New Programming](https://jeremyqho.com/no-code-is-new-programming): 내년도 트렌드로 예상되는 "No Code"
 * [Kotlin vs Java](https://www.kotlinvsjava.com/)
 * [Khan Academy: Pixar in a Box](https://ko.khanacademy.org/partner-content/pixar)
+* [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
+* [유튜브 추천 알고리즘과 저널리즘](http://www.kpf.or.kr/site/kpf/research/selectMediaPdsView.do?seq=575347)
+* [라면 비즈니스에서 라이프스타일 비즈니스로](https://xguru.net/2186): xguru 권정혁님 글.
+* [자바스크립트로 살펴보는 SICP](https://sicp.comp.nus.edu.sg/index.html)
+* [우아한형제들: 메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html)
+* [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/)
+* [State of Javascript 2019](https://2019.stateofjs.com/): 2019년 Javascript 동향
 
 ## 2019년 11월
 
