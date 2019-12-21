@@ -60,6 +60,12 @@
 * [우아한형제들: 메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html)
 * [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/)
 * [State of Javascript 2019](https://2019.stateofjs.com/): 2019년 Javascript 동향
+* [Visualizing Every Pantone Color of the Year](https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year)
+* [100 Days of DevOps — Day 1(Introduction to CloudWatch Metrics)](https://medium.com/faun/100-days-of-devops-day-1-introduction-to-cloudwatch-metrics-b04be36307a8)
+* [[번역] 2020년에 봐야하는 6가지 웹성능 기술](https://brunch.co.kr/@jowlee/98)
+* [Tesseract.js: Pure Javascript Multilingual OCR](https://tesseract.projectnaptha.com/)
+* [Google Cloud Platform (GCP) Security Best Practices](https://www.assured.se/2019/12/19/gcp-security/)
+* [BugJail](https://bugjail.com/): 시간순으로 모든걸 기록후 재생가능한 새로운 방식의 Java 디버거
 
 ## 2019년 11월
 
