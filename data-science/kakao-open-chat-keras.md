@@ -187,3 +187,12 @@ PlaidML은 현재 버전 0.6 이기 때문에, 여러가지 실험을 해 봐야
 
 plaidml: [https://github.com/plaidml/plaidml](https://github.com/plaidml/plaidml)
 plaidml-keras: [https://vertexai-plaidml.readthedocs-hosted.com/en/latest/index.html](https://vertexai-plaidml.readthedocs-hosted.com/en/latest/index.html)
+
+## 임밸런스한 멀티레이블 데이터의 오버샘플링
+
+혹시 멀티레이블 데이터가 임밸런스할때, 오버샘플링하기 위한 방법이나 관련된 방법이 제안된 논문이 있을까요?
+
+이제현님
+2019년 논문: [https://ecmlpkdd2019.org/downloads/paper/624.pdf](https://ecmlpkdd2019.org/downloads/paper/624.pdf)
+2013년 논문: [https://link.springer.com/content/pdf/10.1007/978-3-642-41822-8_42.pdf](https://link.springer.com/content/pdf/10.1007/978-3-642-41822-8_42.pdf)
+2015년 논문인데, 인용이 좀 많이 됐네요: [https://www.sciencedirect.com/science/article/abs/pii/S0950705115002737](https://www.sciencedirect.com/science/article/abs/pii/S0950705115002737)
