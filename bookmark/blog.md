@@ -66,6 +66,14 @@
 * [Tesseract.js: Pure Javascript Multilingual OCR](https://tesseract.projectnaptha.com/)
 * [Google Cloud Platform (GCP) Security Best Practices](https://www.assured.se/2019/12/19/gcp-security/)
 * [BugJail](https://bugjail.com/): 시간순으로 모든걸 기록후 재생가능한 새로운 방식의 Java 디버거
+* [Go + Services = One Goliath Project](https://engineering.khanacademy.org/posts/goliath.htm): Khan Academy가 기존 백엔드 언어를 Python 2에서 Go로 변경하기로 결정.
+* [Progressive React - 리액트 사이트 성능개선을 위한 체크리스트](https://houssein.me/progressive-react)
+* [What's new in Java 12, 13 and 14, part I](https://java.christmas/2019/17): 자바의 문법이 점점 편해지고 있는 것 같긴 한데, 더 이상 따라가기가 어렵다.
+* [500+ CSS Icons](https://css.gg/)
+* [PRODUCTION CHECKLIST FOR WEB APPS ON KUBERNETES](https://srcco.de/posts/web-service-on-kubernetes-production-checklist-2019.html)
+* [github/satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): 이상한 문법을 통해 파이썬을 더 깊게 배우기
+* [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8선 [번역본]](https://tagilog.tistory.com/579)
+  * [5 Front-End Challenges to Code (Dec. 2019 Edition)](https://medium.com/better-programming/here-are-5-front-end-challenges-to-code-dec-2019-edition-7d691c4b023)
 
 ## 2019년 11월
 
