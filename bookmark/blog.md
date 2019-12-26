@@ -80,6 +80,10 @@
 * [만들면서 이해하는 도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work): 44bits에서 쓴 도커 강좌글
 * [Grumpy Website](https://grumpy.website/): 웹&기술 관련하여 이상한 것들만 모아놓은 웹페이지
 * [Rust 한글문서](https://rinthel.github.io/rust-lang-book-ko/)
+* [Bayes theorem, and making probability intuitive](https://www.youtube.com/watch?v=HZGCoVF3YvM) by 3Blue1Brown
+* [프로그래머를 위한 머신러닝](https://m.edwith.org/machinelearningforcoders/lectures/26716) by 커넥트재단 (edwith)
+* [Ubuntu Device Status Check](https://medium.com/@jjeaby/ubuntu-device-status-check-3ae08197f5db)
+* [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/)
 
 ## 2019년 11월
 
