@@ -74,6 +74,12 @@
 * [github/satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython): 이상한 문법을 통해 파이썬을 더 깊게 배우기
 * [훌륭한 프로그래머가 되고 싶다면 만들어야할 앱 8선 [번역본]](https://tagilog.tistory.com/579)
   * [5 Front-End Challenges to Code (Dec. 2019 Edition)](https://medium.com/better-programming/here-are-5-front-end-challenges-to-code-dec-2019-edition-7d691c4b023)
+* [체대 출신 개발자의 2019년 회고](https://ryan-han.com/post/memoirs/memoirs2019/): 개발자 한정수님의 글. 2018년에 이어서 2019년에도 좋은 회고를 썼다. 그 열정이 놀랍다.
+* [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
+* [나쁜 소프트웨어 디자인은 군함도 충돌하게 만든다](https://imseongkang.wordpress.com/2019/08/30/ussdesign/): 다소 긴 글이지만, 재미있게 읽을 수 있었다.
+* [만들면서 이해하는 도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work): 44bits에서 쓴 도커 강좌글
+* [Grumpy Website](https://grumpy.website/): 웹&기술 관련하여 이상한 것들만 모아놓은 웹페이지
+* [Rust 한글문서](https://rinthel.github.io/rust-lang-book-ko/)
 
 ## 2019년 11월
 
