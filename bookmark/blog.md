@@ -84,6 +84,9 @@
 * [프로그래머를 위한 머신러닝](https://m.edwith.org/machinelearningforcoders/lectures/26716) by 커넥트재단 (edwith)
 * [Ubuntu Device Status Check](https://medium.com/@jjeaby/ubuntu-device-status-check-3ae08197f5db)
 * [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/)
+* [Super Creative](https://supercreative.design)
+  * [@samuel](https://supercreative.design/me/samuel)
+  * [@jake](https://supercreative.design/me/jake)
 
 ## 2019년 11월
 
