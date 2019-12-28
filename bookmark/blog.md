@@ -87,6 +87,10 @@
 * [Super Creative](https://supercreative.design)
   * [@samuel](https://supercreative.design/me/samuel)
   * [@jake](https://supercreative.design/me/jake)
+* [A Gentle Introduction to Imbalanced Classification](https://machinelearningmastery.com/what-is-imbalanced-classification/)
+* [CoreUI icons](https://coreui.io/icons/)
+* [github/charmbracelet/glow](https://github.com/charmbracelet/glow): Render markdown on the CLI, with pizzazz! 💅🏻
+* [Software Tools for Hobby-Scale Projects](https://rickcarlino.com/2019/11/02/software-tools-for-hobby-sized-projects-html.html)
 
 ## 2019년 11월
 
