@@ -91,6 +91,10 @@
 * [CoreUI icons](https://coreui.io/icons/)
 * [github/charmbracelet/glow](https://github.com/charmbracelet/glow): Render markdown on the CLI, with pizzazz! 💅🏻
 * [Software Tools for Hobby-Scale Projects](https://rickcarlino.com/2019/11/02/software-tools-for-hobby-sized-projects-html.html)
+* [Go Slice Tricks](https://jusths.tistory.com/m/155)
+* [gitlab/timvisee/ffsend](https://gitlab.com/timvisee/ffsend): Easily and securely share files from the command line. A fully featured Firefox Send client.
+* [github/FPurchess/preview-service](https://github.com/fpurchess/preview-service): 썸네일 이미지를 만들어 주는 서비스. 도커 이미지로 제공된다.
+* [LastingPaper](https://www.lastingpaper.com/): 웹페이지를 이북포맷으로 만들어서 아마존 킨들에 넣어주는 도우미 앱.
 
 ## 2019년 11월
 
