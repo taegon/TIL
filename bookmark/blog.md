@@ -101,6 +101,8 @@
 * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 * [SERVERLESS PATTERNS](https://serverlesspatterns.io/)
 * [Tips I use to avoid burnout](https://addyosmani.com/blog/burnout/)
+* [GitHub Actions로 간단히 CI 서버 대신하기](https://huns.me/posts/2019-12-17-34)
+* [일기 앱 – Drafts & Bear : 한 줄씩 써서 한 달 치 노트로](https://seoulrain.net/2019/12/29/journal-ios-app-drafts-bear/)
 
 ## 2019년 11월
 
