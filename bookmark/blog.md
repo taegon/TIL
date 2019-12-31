@@ -96,6 +96,11 @@
 * [github/FPurchess/preview-service](https://github.com/fpurchess/preview-service): 썸네일 이미지를 만들어 주는 서비스. 도커 이미지로 제공된다.
 * [LastingPaper](https://www.lastingpaper.com/): 웹페이지를 이북포맷으로 만들어서 아마존 킨들에 넣어주는 도우미 앱.
 * [ASCII QR](http://asciiqr.com/): ASCII 코드로 QR코드를 생성해준다.
+* [Codetorial](http://codetorial.net/)
+* [WikiDocs](https://wikidocs.net/)
+* [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+* [SERVERLESS PATTERNS](https://serverlesspatterns.io/)
+* [Tips I use to avoid burnout](https://addyosmani.com/blog/burnout/)
 
 ## 2019년 11월
 
