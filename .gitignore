@@ -1,3 +1,4 @@
 .ftpconfig
 .Ulysses-favorites.plist
 node_modules
+docs/.vuepress/dist
