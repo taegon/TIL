@@ -18,3 +18,7 @@ exports.BookList = [
     '[Book]Handson-ML/',
     '[Book]Fundamentals-of-Deep-Learning/'
 ]
+
+exports.BlogList = [
+    'howto/deploy-vuepres-github-pages',
+]

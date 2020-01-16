@@ -16,7 +16,10 @@ module.exports = {
         title: '1. Bookmarks',
         children: CONST.BookmarkList
       },{
-        title: '2. Python',
+        title: '2. Blog',
+        children: CONST.BlogList
+      },{
+        title: '3. Python',
         children: CONST.PythonList
       }
     ],
