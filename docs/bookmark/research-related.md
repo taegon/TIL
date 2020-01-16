@@ -3,6 +3,7 @@
 ## 2020년 1월
 
 * [종관기상관측 일자료 API](https://data.kma.go.kr/api/selectApiDetail.do?openApiNo=242): 기상청 웹사이트가 업데이트되면서, 기존 링크가 바뀌었다. 일단 업데이트 상황을 지켜보자.
+* [The National Land Cover Database (NLCD)](https://www.mrlc.gov/data)
 
 ## 2019년 9월
 
