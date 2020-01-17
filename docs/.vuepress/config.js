@@ -13,7 +13,8 @@ module.exports = {
     '@vuepress/google-analytics': {
       'ga': 'UA-97091494-1' // UA-00000000-0
     },
-    '@vuepress/back-to-top': {}
+    '@vuepress/back-to-top': {},
+    '@vuepress/last-updated': {}
   },
   head: [
     ['link', {
