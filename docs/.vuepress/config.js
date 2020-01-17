@@ -8,7 +8,7 @@ module.exports = {
     "vuepress-plugin-disqus-comment":
     {
       /* options */
-      'shortname': 'TIL'
+      'shortname': 'taegon-TIL' 
     },
     '@vuepress/google-analytics': {
       'ga': 'UA-97091494-1' // UA-00000000-0
