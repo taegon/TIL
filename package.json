@@ -1,6 +1,9 @@
 {
   "devDependencies": {
-    "vuepress": "^1.1.0"
+    "vuepress": "^1.1.0",
+    "@vuepress/plugin-back-to-top": "^1.1.0",
+    "@vuepress/plugin-google-analytics": "^1.1.0",
+    "vuepress-plugin-disqus-comment": "^0.2.0"
   },
   "scripts": {
     "docs:build": "vuepress build docs"

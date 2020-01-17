@@ -17,3 +17,5 @@ $ git commit -m "Deploy"
 ## 히스토리
 
 * (2020.01.14) 문서 업데이트. 참조했던 링크를 최신링크로 수정하고, `gh-pages`로 푸시하는 방식을 vuepress에서 사용한 방식을 옮겨놓았다.
+
+<vue-disqus/>

@@ -13,3 +13,5 @@ d3-book에서 소스코드를 받아서 테스트를 하려고 하는데, 로컬
 ```bash
 python -m http.server 8000
 ```
+
+<vue-disqus/>
