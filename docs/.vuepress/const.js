@@ -21,4 +21,5 @@ exports.BookList = [
 
 exports.BlogList = [
     'howto/deploy-vuepres-github-pages',
+    'setup/recommendations-for-beginners'
 ]

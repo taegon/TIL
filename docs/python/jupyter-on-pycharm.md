@@ -24,3 +24,5 @@ python -m ipykernel install --user
 ## 관련링크
 
 - [PyCharm 공식홈 튜토리얼](https://www.jetbrains.com/help/pycharm/2016.1/tutorial-using-ipython-jupyter-notebook-with-pycharm.html)
+
+<vue-disqus/>
