@@ -4,6 +4,7 @@
 
 * [GitHub](https://github.com): 개발자라면 필수. GitLab, BitBucket도 있지만, 대세는 당연 GitHub.
 * [GitHub Student Developer Pack](https://education.github.com/pack): 학생이라면 무조건 신청해야할 프로그램. 많은 서비스를 무료로 사용할 수 있도록 도와준다.
+* [Home of student developers](https://dormdev.com): 학생 개발자를 위한 자원을 한 곳에 모아두었다.
 
 ## 인터넷으로 코딩하려면
 
