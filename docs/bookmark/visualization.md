@@ -42,6 +42,30 @@
 * [Flourish](https://app.flourish.studio/projects): 2016년 [전세계 해상물류 지도](https://www.shipmap.org/)를 그렸던 그룹 :+1:
 * [ResourceTrade.earth](https://resourcetrade.earth/data): 전세계 무역을 잘 시각화한 사이트
 
+### 공공데이터
+
+* [Data USA](https://datausa.io)
+* [데이지(DAISY)](https://daisy.newsjel.ly/solution) by newsjel.ly
+* [ODPia](https://odpia.org)
+
+### 데이터 저널리즘
+
+* [SBS 마부작침](http://news.sbs.co.kr/news/newsPlusList.do?themeId=10000000114)
+* [KBS 데이터룸](http://u20worldcup.kbs.co.kr/news/list.do?mcd=0909)
+* [ProPublica](https://www.propublica.org/)
+* [TheUpshot, The NY Times](https://www.nytimes.com/section/upshot)
+
+### 자체 데이터 시각화 툴 보유
+
+* [inforgr.am](https://infogram.com/)
+* [Tableau Gallery](https://public.tableau.com/gallery)
+
+### 콘텐츠 자체제작 및 아카이빙
+
+* [Flowingdata](https://flowingdata.com/)
+* [visualising data](https://www.visualisingdata.com/) :+1:
+* [News Jelly](http://contents.newsjel.ly/)
+
 ## 파이썬 라이브러리
 
 * [seaborn](https://seaborn.pydata.org/examples/index.html): R의 ggplot2 수준으로 고퀄 그래프 제공
