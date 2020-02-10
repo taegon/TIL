@@ -8,3 +8,4 @@
 
 * [Deep Learning – SP20](bit.ly/DLSP20) - Yann LeCun (NYU)
 * [Dive into Deep Learning](https://d2l.ai): UC버클리 수업교재. 딥러닝을 배울 수 있는 인터랙티브 북
+* [[부스트코스] 파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch)
