@@ -13,3 +13,7 @@
 ## GUI
 
 * [GUI Applications](https://docs.python-guide.org/scenarios/gui/) by 히치하이커를 위한 파이썬 가이드
+
+## plot
+
+* [Multiple Subplots](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html) from the Python Data Science Handbook by Jake VanderPlas
