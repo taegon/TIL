@@ -7,3 +7,5 @@
 * [Time series on Landsat data with Google Earth Engine](http://www.acgeospatial.co.uk/time-series-on-landsat-data-gee/)
 * [GeoHackWeek - Google Earth Engine Workshop](https://geohackweek.github.io/GoogleEarthEngine/)
 * [GeoHackWeek](https://geohackweek.github.io): WORKSHOP ON GEOSPATIAL DATA SCIENCE
+* [github.com/gee-community/ee-palettes](https://github.com/gee-community/ee-palettes)
+  * [Jin's example for palette](https://code.earthengine.google.com/f1d563fd7afdab1114fdfd3ccdc2e426)
