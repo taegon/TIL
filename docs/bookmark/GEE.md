@@ -9,3 +9,4 @@
 * [GeoHackWeek](https://geohackweek.github.io): WORKSHOP ON GEOSPATIAL DATA SCIENCE
 * [github.com/gee-community/ee-palettes](https://github.com/gee-community/ee-palettes)
   * [Jin's example for palette](https://code.earthengine.google.com/f1d563fd7afdab1114fdfd3ccdc2e426)
+* [LAI (leaf Area Index)](https://code.earthengine.google.com/42e7a65e9d5683dc0b303cf6ce05ac42)
