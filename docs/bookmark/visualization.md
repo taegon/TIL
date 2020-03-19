@@ -98,6 +98,8 @@
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/): 무료로 공개된 자료인데, 아주 훌륭하게 예제가 정리되었다.
 * [Road to Visualization Expert (keggle)](https://www.kaggle.com/subinium/road-to-viz-expert-2-plotly-seaborn)
 * [Interactive Viz (1) - UFC with Altair (keggle)](https://www.kaggle.com/subinium/interactive-viz-1-ufc-with-altair)
+* [Coronavirus tracked: the latest figures as the pandemic spreads](https://www.ft.com/content/a26fbf7e-48f8-11ea-aeb3-955839e06441): 국가별 COVID-19 확진자 수를 로그스케일로 그려서 비교하고 있다.
+* [Epidemic Calculator](http://gabgoh.github.io/COVID/index.html): SEIR (Susceptible - Exposed - Infectious - Recovered) 모델을 이용하여 인터렉티브한 감염병 확산수준을 보여주고 있다.
 
 ## 폰트
 
