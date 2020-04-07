@@ -52,6 +52,7 @@
 * [머신러닝 블로그 리스트](http://goo.gl/GwtU3A)
 * [머신러닝 모델선택 by scikit-learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+* [Stanford CS230 Blog](https://cs230.stanford.edu/blog/)
 
 ## 봇 관련
 
