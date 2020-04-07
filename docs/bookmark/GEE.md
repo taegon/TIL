@@ -17,3 +17,4 @@
 * [Sentinel-5P를 이용한 동영상](https://code.earthengine.google.com/679132884bc056fbc3ed1cfaba70083c)
 * [Sentinel-5P를 이용한 night light 동영상](https://code.earthengine.google.com/?scriptPath=users%2Ftaegon%2FTIL%3Anight_light_animation)
 * [Mean Composite Fire Severity Metrics Computed with Google Earth Engine Offer Improved Accuracy and Expanded Mapping Potential](https://doi.org/10.3390/rs10060879): GEE를 이용한 논문
+* [remote sensing: Google Earth Engine Applications](https://www.mdpi.com/journal/remotesensing/special_issues/GEE)
