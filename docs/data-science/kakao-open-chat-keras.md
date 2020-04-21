@@ -310,3 +310,13 @@ PlaidML은 현재 버전 0.6 이기 때문에, 여러가지 실험을 해 봐야
 * AI 초보   데이터 사이언스 스쿨    [https://datascienceschool.net/notebook/PYTHON/](https://datascienceschool.net/notebook/PYTHON/)
 * AI 초보   Deep Learning Drizzle     [https://deep-learning-drizzle.github.io/index.html#dldnn](https://deep-learning-drizzle.github.io/index.html#dldnn)
 * AI 초보   모두를 위한 프로그래밍 : 파이썬     [https://www.edwith.org/pythonforeverybody/](https://www.edwith.org/pythonforeverybody/)
+
+## 시계열 분석
+
+이에 대해 facebook에서 제공하는 prophet은 ARIMA의 대용으로 매우 훌륭한 forecasting을 제공합니다. prophet과 RNN을 같이 사용하면 꽤 좋은 결과를 줍니다.
+
+장기적 예측은 prohet 단기적 예측은 RNN.
+
+prophet 예측 결과의 잔차는 RNN으로... 등의 여러 활용법이 있습니다.
+
+* [시계열 분석](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=977301): 한양대 이기천 교수님의 강의
