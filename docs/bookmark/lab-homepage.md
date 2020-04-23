@@ -9,6 +9,7 @@
 * [HADLEY WICKHAM](http://hadley.nz/): Chief Scientist at RStudio. 콘텐츠가 좋아야 한다.
   * [Academic portfolio](https://vita.had.co.nz/)
   * [hadley.github.io](https://hadley.github.io/)
+* [Climatology Lab](http://www.climatologylab.org/tools.html): University of Idaho의 John Abatzoglou 교수. 주로 기후변화 연구를 수행하고 있으며, 데이터와 툴에 접근가능한 도구들을 제공하고 있다. 위블리로 만들었으며, 디자인 자체는 잘 만들었다고 보기 힘드나, "Products" 메뉴 때문에 잘 만든 홈페이지로 분류하였다.
 
 ## 요정도는 만들자
 
