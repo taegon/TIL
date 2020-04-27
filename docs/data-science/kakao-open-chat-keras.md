@@ -320,3 +320,7 @@ PlaidML은 현재 버전 0.6 이기 때문에, 여러가지 실험을 해 봐야
 prophet 예측 결과의 잔차는 RNN으로... 등의 여러 활용법이 있습니다.
 
 * [시계열 분석](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=977301): 한양대 이기천 교수님의 강의
+
+## 비용함수
+
+* [Why Using Mean Squared Error(MSE) Cost Function for Binary Classification is a Bad Idea?](https://towardsdatascience.com/why-using-mean-squared-error-mse-cost-function-for-binary-classification-is-a-bad-idea-933089e90df7)
