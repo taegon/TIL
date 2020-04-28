@@ -121,3 +121,10 @@
 ## 노트북 (연습예제)
 
 * [정부혁신1번가 - 정부혁신 홈페이지 분석](https://github.com/innogovKOR/innogov_suggestion/blob/master/02-EDA.ipynb): 간단하게 seaborn를 이용한 그래프와 워드 클라우드를 사용하고 있다.
+
+## Art
+
+* [일본 국립과학박물관, 내부를 3D/VR로 공개](https://www.kahaku.go.jp/VR/)
+* [A one-take journey through Russia’s iconic Hermitage museum](https://www.youtube.com/watch?v=49YeFsx1rIw) by Apple
+* [Google Arts & Culture](https://artsandculture.google.com/)
+* [Google Arts & Culture - Zoom Views](https://artsandculture.google.com/project/gigapixels): 명화를 초고화질 이미지로 볼 수 있다.

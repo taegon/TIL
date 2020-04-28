@@ -10,3 +10,8 @@
 * [Dive into Deep Learning](https://d2l.ai): UC버클리 수업교재. 딥러닝을 배울 수 있는 인터랙티브 북
 * [[부스트코스] 파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch)
 * [deeplizard](https://deeplizard.com/)
+
+## 지구 데이터 과학
+
+* [Intermediate earth data science textbook](https://www.earthdatascience.org/courses/use-data-open-source-python/use-time-series-data-in-python/date-time-types-in-pandas-python/): 잘 정리된 학습자료
+* [Earth Data Science Courses & Workshops](https://www.earthdatascience.org/courses/): 다른 강좌도 훌륭하다.
