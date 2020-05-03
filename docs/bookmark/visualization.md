@@ -128,3 +128,5 @@
 * [A one-take journey through Russia’s iconic Hermitage museum](https://www.youtube.com/watch?v=49YeFsx1rIw) by Apple
 * [Google Arts & Culture](https://artsandculture.google.com/)
 * [Google Arts & Culture - Zoom Views](https://artsandculture.google.com/project/gigapixels): 명화를 초고화질 이미지로 볼 수 있다.
+* [하버드대 와이드너 도서관, 내부를 3D/VR로 공개](https://my.matterport.com/show/?m=fs3gQv7n1QG)
+* [이집트 가상투어 : 파라오 람세스 6세의 무덤과 피라미드들](https://news.hada.io/topic?id=2004)
