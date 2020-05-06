@@ -32,3 +32,7 @@
   * grid 관련 패키지
   * [grid example](https://code.earthengine.google.com/466a9e35725bcabebeb1a82843cbbc7e)
 * [georgeazzari](https://earthengine.googlesource.com/users/georgeazzari/EETools): exporting tools
+
+## read it later
+
+* [to identify the greatest NDVI decrease per pixel and creates an image with its relevant loss year](https://code.earthengine.google.com/a6d8f3b21f8a1e6fad66c64c7a4ec680)
