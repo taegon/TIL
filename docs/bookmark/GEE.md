@@ -36,3 +36,11 @@
 ## read it later
 
 * [to identify the greatest NDVI decrease per pixel and creates an image with its relevant loss year](https://code.earthengine.google.com/a6d8f3b21f8a1e6fad66c64c7a4ec680)
+
+## presentations
+
+* [EarthEngineMeetup - geemap](https://docs.google.com/presentation/d/18fUnY7ZANmCglhGnAZG03G9jIdLGuAdrWbRFwanJHn4/edit#slide=id.g4ba0eb5868_0_53)
+
+## blog
+
+* [Qiusheng Wu - University of Tennessee](https://wetlands.io/)
