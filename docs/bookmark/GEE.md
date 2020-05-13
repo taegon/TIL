@@ -32,6 +32,8 @@
   * grid 관련 패키지
   * [grid example](https://code.earthengine.google.com/466a9e35725bcabebeb1a82843cbbc7e)
 * [georgeazzari](https://earthengine.googlesource.com/users/georgeazzari/EETools): exporting tools
+* [github.com/kmarkert/cartoee](https://github.com/kmarkert/cartoee): To convert maps in Google Earth Engine to image format like jpg or png.
+  * [associated summary](https://joss.theoj.org/papers/10.21105/joss.01207.pdf)
 
 ## read it later
 
