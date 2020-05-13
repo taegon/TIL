@@ -80,5 +80,6 @@
 
 * [Applying CNN over Titanic Data-set using Keras](https://medium.com/analytics-army/applying-cnn-over-titanic-data-set-using-keras-ee07d70b0222): CNN is not a proper method of solving problems like that of Titanic Data-set, but there is nothing wrong in experimenting.
 * [Self-training with Noisy Student improves ImageNet classification Review](https://hoya012.github.io/blog/Self-training-with-Noisy-Student-improves-ImageNet-classification-Review/?fbclid=IwAR2Z3v3aBDS1Zc-UEG2YCdmrdlqJG3qn4_qubVoLYvJPjXNYZKsLklXTA1s) by Hoya012
+* [Stratified Sampling](https://jehyunlee.github.io/2020/05/11/Python-DS-13-stratified_sampling/): 이제현님 블로그
 
 <vue-disqus/>
