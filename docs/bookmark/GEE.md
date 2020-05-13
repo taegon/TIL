@@ -29,6 +29,8 @@
   * The app: [https://pmisson.users.earthengine.app/view/trends](https://pmisson.users.earthengine.app/view/trends)
   * The code with DOI: [https://zenodo.org/record/3818444#.XrbecfL7Q5k](https://zenodo.org/record/3818444#.XrbecfL7Q5k)
   * The Github: [https://github.com/pmisson/SkyBrightnessTrends/releases/tag/0.9](https://github.com/pmisson/SkyBrightnessTrends/releases/tag/0.9)
+* [GEE exporting](https://developers.google.com/earth-engine/exporting)
+  * [exporting landsat to TIFF](https://code.earthengine.google.com/03943e1408f1d10a4b88197bdc7fd50d) by Vladimir Kapustin (kapooostin@gmail.com)
 
 ## Repository Starring
 
