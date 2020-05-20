@@ -45,6 +45,7 @@
 * [Keras](https://keras.io/)
 * [scikit-learn](http://scikit-learn.org/stable/user_guide.html): 공식 매뉴얼인데, 자료가 좋다.
 * [fastai](https://www.fast.ai/)
+* [Google AI Hub](https://aihub.cloud.google.com/u/0/): 구글에서 자사 솔루션과 템플릿을 한곳에 모아서 제공하고 있다. Kubeflow pipeline, Kaggle, BigQuery, VM 이미지 등의 자료를 찾아볼 수 있다.
 
 ## 튜토리얼
 
