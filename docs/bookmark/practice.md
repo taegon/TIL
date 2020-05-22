@@ -8,3 +8,4 @@
 
 * [Rough.js](https://roughjs.com/posts/release-4.0/): 손으로 스케치한 느낌의 그래프 라이브러리, 4.0 버전이 릴리즈 되었다.
 * [panzoom](https://github.com/anvaka/panzoom): 모바일 환경을 지원하는 Pan & Zoom 라이브러리
+* [chekos/geospatial-public-policy-analysis-with-geopandas](https://github.com/chekos/geospatial-public-policy-analysis-with-geopandas/blob/master/solutions/zExtra_DataViz-US.ipynb): geopandas로 county choropleth map과 그 위에 bubble.
