@@ -32,6 +32,12 @@
 * [GEE exporting](https://developers.google.com/earth-engine/exporting)
   * [exporting landsat to TIFF](https://code.earthengine.google.com/03943e1408f1d10a4b88197bdc7fd50d) by Vladimir Kapustin (kapooostin@gmail.com)
 
+## Tutorials
+
+* [Scale](https://developers.google.com/earth-engine/scale): scale에 대한 설명
+* [GEE: Coding Best Practices](https://developers.google.com/earth-engine/best_practices): memory/computation time issue에는 이글과 아랫 글 참조.
+* [GEE: Debugging guide](https://developers.google.com/earth-engine/debugging#scaling-errors)
+
 ## Repository Starring
 
 * [nclinton](https://earthengine.googlesource.com/users/nclinton/)
