@@ -10,6 +10,7 @@
   * [Academic portfolio](https://vita.had.co.nz/)
   * [hadley.github.io](https://hadley.github.io/)
 * [Climatology Lab](http://www.climatologylab.org/tools.html): University of Idaho의 John Abatzoglou 교수. 주로 기후변화 연구를 수행하고 있으며, 데이터와 툴에 접근가능한 도구들을 제공하고 있다. 위블리로 만들었으며, 디자인 자체는 잘 만들었다고 보기 힘드나, "Products" 메뉴 때문에 잘 만든 홈페이지로 분류하였다.
+* [KAIST Users & Information Lab](http://uilab.kr/members): Alice Oh 교수님의 연구실 홈페이지. 멤버별로 (거의 표준화된) 개별 페이지를 갖고 있는 것과 리서치 메뉴에서 리스트가 4가지 테마로 필터링해서 보여주는 점이 좋다. 나머지 메뉴는 상대적으로 조금 아쉬운데, 디자인 혹은 기획 능력이 있는 사람과의 인연이 없었던 듯 하다.
 
 ## 요정도는 만들자
 
@@ -32,3 +33,12 @@
 ## 학생페이지
 
 * [김병창님 CV](https://bckim92.github.io/): 서울대학교 11. 농기계로 들어와서 컴공으로.
+* [Eunsol Choi](https://www.cs.utexas.edu/~eunsol/): 위 페이지의 오리지널 버전 중 하나. Google AI에서 일하다가 2020년 가을 UT Austin 교수님으로 임용.
+* [academicpages.github.io](https://github.com/academicpages/academicpages.github.io): 상위 메뉴. 다양한 학술 컨텐츠(대외발표, 수업, 포폴, 블로그)가 있을 때 유용해보인다.
+  * [Dongkwan Kim](https://dongkwan-kim.github.io/): 위 페이지를 수정하여 다크 테마로 만들어두었다. KAIST UI 랩.
+* [Yohan Jo (조요한)](http://www.cs.cmu.edu/~yohanj/): 상위 바이오고정, 하단 컨텐츠. 1페이지로 만들기에 다소 분량이 많을 때 이용하기에 괜찮아보인다. 블로깅하기에는 좋은 테마는 아닌 것 같다. 역시 KAIST UI랩 출신.
+* [github.com/jmbyun/jmbyun.github.io](https://github.com/jmbyun/jmbyun.github.io): KAIST UI랩 멤버는 대부분, 이 스타일을 쓰고 있는데, 구글 sheets에서 자료를 읽어와서 업데이트해준다. fork해서 쓰면 되는데, 빌드가 필요해서, 코드를 조금 수정해야 한다. 하지만 어렵지 않게 웹페이지를 올릴 수 있다. 지속적으로 관리하기에 좋은 포맷 같다.
+  * [Jeongmin Byun](jmbyun.github.io): 제작자인 변정민님의 페이지
+  * [Taegon Kim](https://code.taegon.kr/academic-website/): 템플릿을 이용해서 내 정보로 갱신한 페이지
+* [github.com/sharu725/online-cv](https://github.com/sharu725/online-cv): A minimal Jekyll Theme to host your resume (CV). 개발 직군에 최적화된 이력 페이지.
+  * [Taegon Kim](https://code.taegon.kr/online-cv/): 위 테마를 이용하여 적용해본 사례
