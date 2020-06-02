@@ -104,12 +104,7 @@
 
 ## 폰트
 
-* [눈누: 상업용 무료 한글폰트](http://noonnu.cc/){:target="_blank"}
-* [Google Fonts](https://fonts.google.com/){:target="_blank"}
-* [HTML 문자 코드 레퍼런스](https://www.toptal.com/designers/htmlarrows/arrows/)
-* [콰앙체/타앙체](https://dhqj646.blog.me/221283410959): 한글날에 맞추어 배포하려던 프로젝트가 펀딩실패하고, 제작자께서 무료 공개한 폰트
-* [독립서체 안중근](https://gscaltexmediahub.com/campaign/the-energy-of-independence-fighters-ajg/)
-* [독립서체](https://gscaltexmediahub.com/campaign/the-energy-of-independence-fighters-2/): GS칼텍스에서 윤봉길, 윤동주, 백범 김구, 한용운체를 제공하고 있다.
+[폰트 파일](./font.md) 참조
 
 ## 블로그/사이트
 
@@ -130,3 +125,27 @@
 * [Google Arts & Culture - Zoom Views](https://artsandculture.google.com/project/gigapixels): 명화를 초고화질 이미지로 볼 수 있다.
 * [하버드대 와이드너 도서관, 내부를 3D/VR로 공개](https://my.matterport.com/show/?m=fs3gQv7n1QG)
 * [이집트 가상투어 : 파라오 람세스 6세의 무덤과 피라미드들](https://news.hada.io/topic?id=2004)
+
+## color palette
+
+* [Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://nanx.me/ggsci/articles/ggsci.html)
+* [COLORBREWER 2.0](https://colorbrewer2.org)
+* [colors](https://coolors.co/)
+* [Carbon Design System](https://www.carbondesignsystem.com/data-visualization/legends)
+* [Chroma.js Color Palette Helper](https://gka.github.io/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1)
+* [Leonardo Color](https://leonardocolor.io/?colorKeys=%236fa7ff&base=ffffff&ratios=3%2C4.5&mode=CAM02): Adobe의 컨트라스트 기반 컬러 생성기 오픈소스
+* [Adobe Color](https://color.adobe.com/ko/create/color-wheel)
+* [paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [HSLuv](https://www.hsluv.org/)
+* [carto](https://carto.com/carto-colors/): 기존 팔레트가 맵에 바로 적용되어서 비교하기 쉽다.
+* [PALETTE GENERATOR](https://learnui.design/tools/data-color-picker.html)
+* [Happy Hues](https://www.happyhues.co/)
+* [BrandColors](https://brandcolors.net/)
+* [copaso](https://www.colourlovers.com/copaso/ColorPaletteSoftware)
+* [colormind](http://colormind.io/)
+* [Colordot](https://color.hailpixel.com/)
+* [Colourcode](https://colourco.de/)
+* [ColorBox](https://www.colorbox.io/) by Lyft Design
+* [Palettte App](https://palettte.app/)
+* [VIZ PALETTE](https://projects.susielu.com/viz-palette) By: Elijah Meeks & Susie Lu
+* [Color interpolations](https://observablehq.com/@philippkoytek/color-interpolations): Trying out different approaches of interpolation using d3 and chroma.js
