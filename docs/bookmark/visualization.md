@@ -149,3 +149,7 @@
 * [Palettte App](https://palettte.app/)
 * [VIZ PALETTE](https://projects.susielu.com/viz-palette) By: Elijah Meeks & Susie Lu
 * [Color interpolations](https://observablehq.com/@philippkoytek/color-interpolations): Trying out different approaches of interpolation using d3 and chroma.js
+* [Color Tools For Designers 2019](https://medium.muz.li/color-tools-for-designers-2019-6ebd77a94ab)
+* [encycolorpedia](https://encycolorpedia.kr/fee100): 비슷한 색상 찾기
+* [OC: Open Color](https://yeun.github.io/open-color/)
+* [Visualizing Every Pantone Color of the Year](https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year)
