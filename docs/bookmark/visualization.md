@@ -41,6 +41,8 @@
 * [from Data to Viz](https://www.data-to-viz.com/): 데이터 형태별로 그래프 선택법 같은 정보를 잘 정리해두었다. 처음 시작하기에 좋은 홈페이지.
 * [Flourish](https://app.flourish.studio/projects): 2016년 [전세계 해상물류 지도](https://www.shipmap.org/)를 그렸던 그룹 :+1:
 * [ResourceTrade.earth](https://resourcetrade.earth/data): 전세계 무역을 잘 시각화한 사이트
+* [Data Visualization: A practical introduction](https://socviz.co/refineplots.html#refineplots) by Kieran Healy
+* [How to Choose Colors for Data Visualizations](https://chartio.com/learn/charts/how-to-choose-colors-data-visualization/)
 
 ### 공공데이터
 
@@ -85,6 +87,14 @@
 * [Story Map 2. Mapping Incomes](https://storymaps.esri.com/stories/2018/mapping-incomes/index.html){:target="_blank"}
 * [Story Map 3. From Shore to Sea: Vessel Traffic in the Salish Sea](http://tnc.maps.arcgis.com/apps/MapJournal/index.html?appid=48918c38e9454f8794eb0c565c8a9e16){:target="_blank"}
 
+## 지도
+
+* [Creating Leaflet Tiles from Open Data using PostGIS and QGIS](https://www.azavea.com/blog/2018/10/11/creating-leaflet-tiles-from-open-data/)
+* [Create your own map with TileMill and Leaflet](http://blog.davidelner.com/create-map-with-tilemill-and-leaflet/)
+* [github.com/mapbox/mbutil](https://github.com/mapbox/mbutil)
+* [github.com/phawthorne/online-map-demo](https://github.com/phawthorne/online-map-demo)
+  * [demo](phawthorne.github.io/online-map-demo)
+
 ## 좋은 예제
 
 * [Seeing Theory](http://students.brown.edu/seeing-theory/index.html#firstPage){:target="_blank"}
@@ -112,6 +122,10 @@
 * [Irene de la Torre Arenas](https://irenedelatorrearenas.wordpress.com/)
 * [https://haleypark.design/4_032_final_project/](https://haleypark.design/4_032_final_project/)
   * 이준행님이 팔로우하는 2명 중 한명. MIT에서 수업과제로 만든 사이트 같은데, 훌륭하다.
+* [colorspace: A Toolbox for Manipulating and Assessing Colors and Palettes](https://arxiv.org/pdf/1903.06490.pdf)
+  * [Achim Zeileis](https://eeecon.uibk.ac.at/~zeileis/publications/software/)
+* [Diverging Color Maps for Scientific Visualization (Expanded)](https://www.kennethmoreland.com/color-maps/ColorMapsExpanded.pdf)
+  * [Kenneth Moreland](https://www.kennethmoreland.com/color-maps/)
 
 ## 노트북 (연습예제)
 
@@ -153,3 +167,13 @@
 * [encycolorpedia](https://encycolorpedia.kr/fee100): 비슷한 색상 찾기
 * [OC: Open Color](https://yeun.github.io/open-color/)
 * [Visualizing Every Pantone Color of the Year](https://adamfuhrer.com/visualizing-every-pantone-color-of-the-year)
+* [Color Use Guidelines for Mapping and Visualization](https://web.natur.cuni.cz/~langhamr/lectures/vtfg1/mapinfo_2/barvy/colors.html): 2가지 지표를 혼용할 때 사용할 수 있는 색상 매트릭스도 언급
+* [QUALITATIVE COLOUR SCHEMES](https://personal.sron.nl/~pault/)
+* [Bivariate Choropleth Color Generator](https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator): 두가지 지표를 이용해서 지도에 색을 입힐 때 색 선정.
+  * [Benjamin Brooke](https://benjaminbrooke.me/visualizations)
+* [colorcet](https://colorcet.holoviz.org/): Collection of perceptually accurate colormaps
+* [HTML Color Picker](https://a.atmos.washington.edu/~ovens/javascript/colorpicker.html): 흰색/검은색 글자를 두고 배경색을 선택할 때 유용하다.
+* [Material color tool](https://material.io/resources/color/#!/?view.left=0&view.right=0&primary.color=D81B60)
+* [Beautiful colormaps for oceanography: cmocean](https://matplotlib.org/cmocean/)
+* [Lightness of Matplotlib colormaps](https://matplotlib.org/3.2.1/tutorials/colors/colormaps.html#lightness-of-matplotlib-colormaps)
+* 위 링크와 같은 그림을 그려주고, color wheel에서 팔레트를 고를 수 있는 웹사이트가 있었는데, 도저히 찾을 수가 없다. 이틀 밤을 새서 찾았는데, 못 찾았다. 덕분에 이 섹션 리스트가 길어졌다.
