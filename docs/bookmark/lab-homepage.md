@@ -11,6 +11,7 @@
   * [hadley.github.io](https://hadley.github.io/)
 * [Climatology Lab](http://www.climatologylab.org/tools.html): University of Idaho의 John Abatzoglou 교수. 주로 기후변화 연구를 수행하고 있으며, 데이터와 툴에 접근가능한 도구들을 제공하고 있다. 위블리로 만들었으며, 디자인 자체는 잘 만들었다고 보기 힘드나, "Products" 메뉴 때문에 잘 만든 홈페이지로 분류하였다.
 * [KAIST Users & Information Lab](http://uilab.kr/members): Alice Oh 교수님의 연구실 홈페이지. 멤버별로 (거의 표준화된) 개별 페이지를 갖고 있는 것과 리서치 메뉴에서 리스트가 4가지 테마로 필터링해서 보여주는 점이 좋다. 나머지 메뉴는 상대적으로 조금 아쉬운데, 디자인 혹은 기획 능력이 있는 사람과의 인연이 없었던 듯 하다.
+* [서울대 지능형 데이터 시스템 연구실](http://ids.snu.ac.kr/wiki/Jae-won_Lee): 위키로 홈페이지를 만들었다. 내가 이 리스트를 생각한 시초일지도 모르겠다. 거의 2005-2010년 무렵에 찾았던 것 같다. 당시는 내 기술 한계로 엄두도 못 냈었는데, 지금봐도 컨텐츠 관리가 훌륭했다. 지금은 업데이트가 안되는 모양이어서 조금 안타깝다. 역시 사람이 중요하다. 그리고 위키는 손이 많이 간다.
 
 ## 요정도는 만들자
 
