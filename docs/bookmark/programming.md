@@ -20,6 +20,21 @@
 ## Go
 
 * [Do you make these Go coding mistakes?](https://yourbasic.org/golang/gotcha/)
+* [github.com/byounghoonkim/project-layout/tree/translate-ko](https://github.com/byounghoonkim/project-layout/tree/translate-ko): 표준 Go 프로젝트 레이아웃
+* [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
+* [github.com/luckyp71/go-mux-gorm-pg-nginx](https://github.com/luckyp71/go-mux-gorm-pg-nginx): RESTful web service using Golang, Gorilla Mux, Gorm, PostgreSQL, and Nginx
+
+## Rust
+
+Rust는 강력한 타입체킹과 퍼포먼스가 장점인데, 배포과정이 매우 간편하다. 최근 CLI용 프로그램 중 rust로 제작되어 배포되는 경우가 꽤 많이 보이는데, 대부분 명령어 한줄로 설치가 가능하며, OS별로 동일하게 설치가능하다. 그러면서 성능은 네이티브 수준으로 나온다. 다만 타입과 포인터가 있다보니, 파이썬처럼 쉽지는 않다.
+
+* [Scientific computing: a Rust adventure [Part 2 - Array1]](https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/)
+* [Cookin' with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
+* [Rust 기초](https://jiyeonseo.github.io/2020/03/07/start-rust/) by 치즈님
+
+## 파이썬
+
+* [빠르게 시작하는 pytest](https://jiyeonseo.github.io/2020/03/10/pytest/) by 치즈님
 
 ### 성능 이슈
 
