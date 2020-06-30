@@ -62,3 +62,5 @@
 ## blog
 
 * [Qiusheng Wu - University of Tennessee](https://wetlands.io/)
+* [Planet GEE Pipeline CLI](https://samapriya.github.io/projects/planet_gee_pipeline_cli/): Planet의 개발자
+* [FraLab FTP server](http://web.gps.caltech.edu/~cfranken/data.html): Africa TROPOMI dataset
