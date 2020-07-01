@@ -34,6 +34,7 @@
 
 ## Tutorials
 
+* [Earth Engine resources for higher education](https://developers.google.com/earth-engine/edu): GEE 사용법 강의를 모아두었다. 소리 소문 없이 꾸준히 업데이트가 되는 것 같다.
 * [Scale](https://developers.google.com/earth-engine/scale): scale에 대한 설명
 * [GEE: Coding Best Practices](https://developers.google.com/earth-engine/best_practices): memory/computation time issue에는 이글과 아랫 글 참조.
 * [GEE: Debugging guide](https://developers.google.com/earth-engine/debugging#scaling-errors)

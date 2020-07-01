@@ -4,7 +4,7 @@
 
 * 홍콩과기대 김성훈 교수님의 "[모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/)"
 * [모두를 위한 딥러닝 시즌 2](https://deeplearningzerotoall.github.io/season2/)
-* 구글의 [머신러닝 단기코드](https://developers.google.com/machine-learning/crash-course/)
+* 구글의 [머신러닝 단기집중코스](https://developers.google.com/machine-learning/crash-course?hl=ko) :+1: 구글의 자료는 별다른 공지없이 꾸준히 업데이트 되고 있는 것 같다.
   * 구글의 [머신러닝 엔지니어링 실무지침서](https://developers.google.com/machine-learning/rules-of-ml/) :+1:
 * 구글의 [AI 페이지](https://ai.google/education#?modal_active=none)
 * 앤드류 응 교수의 [코세라 머신러닝 강좌](https:/www.coursera.org/learn/machine-learning): 이제는 고전축에 속하는 강좌. 좋은 강좌로 모두가 추천하나 다 들으려면 꽤 노력이 필요하다.
