@@ -23,6 +23,8 @@
 * [github.com/byounghoonkim/project-layout/tree/translate-ko](https://github.com/byounghoonkim/project-layout/tree/translate-ko): 표준 Go 프로젝트 레이아웃
 * [Creating a RESTful API With Golang](https://tutorialedge.net/golang/creating-restful-api-with-golang/)
 * [github.com/luckyp71/go-mux-gorm-pg-nginx](https://github.com/luckyp71/go-mux-gorm-pg-nginx): RESTful web service using Golang, Gorilla Mux, Gorm, PostgreSQL, and Nginx
+* [Golang 패키지 이름(Package Names)](https://byounghoonkim.github.io/posts/golang-package-names/)
+* [How to Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook): 디지털오션 커뮤니티의 Go 튜토리얼 (27P 무료 PDF)
 
 ## Rust
 
