@@ -32,6 +32,7 @@
 * [GEE exporting](https://developers.google.com/earth-engine/exporting)
   * [exporting landsat to TIFF](https://code.earthengine.google.com/03943e1408f1d10a4b88197bdc7fd50d) by Vladimir Kapustin (kapooostin@gmail.com)
 * [Geographical Data Science to Identify the Most Impactful Areas for Solar Installation in Africa](https://medium.com/omdena/geographical-data-science-to-identify-the-most-impactful-areas-for-solar-installation-in-africa-6daadbfc10d3)
+* [github.com/giswqs/earthengine-apps](https://github.com/giswqs/earthengine-apps): [geemap-heroku](https://geemap-demo.herokuapp.com/)
 
 ## Tutorials
 
