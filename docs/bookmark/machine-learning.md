@@ -33,6 +33,7 @@
 * [분류성능평가지표 - Precision(정밀도), Recall(재현율) and Accuracy(정확도)](https://sumniya.tistory.com/26)
 * [쉽게 따라할 수 있는 임베딩 활용](https://drive.google.com/file/d/1cbtrsgaZi3qNRjazWkiAZy9FPc4Ru2Ss/view): DevFest 2019 Seoul - 이기창님
 * [The 2019 AI Index report](https://hai.stanford.edu/ai-index/2019) by HAI at Stanford
+* [Deep Learning Monitor](https://deeplearn.org/)
 
 ## 라이브러리
 
@@ -54,6 +55,8 @@
 * [머신러닝 모델선택 by scikit-learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 * [Stanford CS230 Blog](https://cs230.stanford.edu/blog/)
+* [Deep Learning State of the Art (2020)](https://www.slideshare.net/insideHPC/deep-learning-state-of-the-art-2020)
+  * [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) at YouTube
 
 ## 봇 관련
 
