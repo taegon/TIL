@@ -10,6 +10,10 @@
 * [Jupyterlab impression](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
 * [Jupyter](https://jupyter.org/install)
 
+## Colab
+
+* [Google Colab에서 Google Drive와 연동하기](https://somjang.tistory.com/entry/Google-Colab%EC%97%90%EC%84%9C-Google-Drive%EC%99%80-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+
 ## GUI
 
 * [GUI Applications](https://docs.python-guide.org/scenarios/gui/) by 히치하이커를 위한 파이썬 가이드
