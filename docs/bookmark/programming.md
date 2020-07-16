@@ -33,6 +33,7 @@ Rust는 강력한 타입체킹과 퍼포먼스가 장점인데, 배포과정이 
 * [Scientific computing: a Rust adventure [Part 2 - Array1]](https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/)
 * [Cookin' with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
 * [Rust 기초](https://jiyeonseo.github.io/2020/03/07/start-rust/) by 치즈님
+* [Tour of Rust](https://tourofrust.com/): 단계별로 배우는 Rust 가이드
 
 ## 파이썬
 
