@@ -8,6 +8,13 @@
 netsh winsock reset
 ```
 
+주기적으로 이 문제가 반복되고 있다.
+
+> To lock the folders IDE is starting a server on localhost, it tries to bind on the first available port between 6942 and 6991, this exception is thrown if IDE was not able to bind on any of the ports in this range. All 50 ports are unlikely to be already used on a machine, so it appears to be a networking issue or some security software which doesn't permit the IDE to bind on any port in this range even on the localhost interface.
+
+해당포트가 비어있긴 한데, 오에스에서 재활용하지 않고, 계속 뒷번호를 주는 것 같긴 하다. 어쨌거나 최선의 해결책은 위와 같이 네트워크 설정을 초기화한 후, 리부팅이라고 하니, 여간 귀찮은 게 아니다.
+
 * [Critical Internal Error on Startup of IntelliJ IDEA: "Cannot Lock System Folders"](https://intellij-support.jetbrains.com/hc/en-us/community/posts/360004973960-Critical-Internal-Error-on-Startup-of-IntelliJ-IDEA-Cannot-Lock-System-Folders-)
+* [Start Failed, Internal error: recovering IDE to the working state after the critical startup error](https://intellij-support.jetbrains.com/hc/en-us/articles/360007568559)
 
 <vue-disqus/>
