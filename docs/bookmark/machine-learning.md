@@ -58,6 +58,8 @@
 * [Deep Learning State of the Art (2020)](https://www.slideshare.net/insideHPC/deep-learning-state-of-the-art-2020)
   * [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) at YouTube
 * [Google Codelabs](https://codelabs.developers.google.com/): 다양한 예제를 통해 학습자료를 제공하고 있다.
+* [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+
 
 ## 봇 관련
 
