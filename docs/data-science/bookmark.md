@@ -1,0 +1,18 @@
+# 데이터사이언스 관련 북마크
+
+* [인투더데이터](https://intothedata.com/00.about/): 데이터 사이언스에 관한 개념을 정리해둔 개인 위키. 빠르게 개념을 찾아보고 읽기에 좋아보인다.
+
+## EDA
+
+* [github.com/fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz): 파이썬용 EDA 툴
+* [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
+* [github.com/pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling): 판다스 EDA 툴
+* [Dataprep.eda](https://eda-ai-lab.tistory.com/484): Accelerate your EDA (EDA 자동화 패키지)
+* [DataExplorer](https://blog.revolutionanalytics.com/2018/02/dataexplorer.html): Fast Data Exploration With Minimum Code
+
+## Data visualization
+
+* [Matplotlib Colormap (2)](https://jehyunlee.github.io/2020/03/13/Python-DS-5-matplotlib_colormap2/) by 이제현
+* [Tools - matplotlib](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb): "핸즈온 머신러닝" 저자가 최근 공개한 matplotlib의 기초적인 튜토리얼
+  * [Tools - matplotlib (번역본)](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
+  * [이제현님의 추가본](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/): 블로그 형태여서, 그냥 보기에는 이 쪽이 낫다.
