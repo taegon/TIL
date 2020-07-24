@@ -126,6 +126,8 @@
   * [Achim Zeileis](https://eeecon.uibk.ac.at/~zeileis/publications/software/)
 * [Diverging Color Maps for Scientific Visualization (Expanded)](https://www.kennethmoreland.com/color-maps/ColorMapsExpanded.pdf)
   * [Kenneth Moreland](https://www.kennethmoreland.com/color-maps/)
+* [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
+  * [github.com/clauswilke/dataviz](https://github.com/clauswilke/dataviz)
 
 ## 노트북 (연습예제)
 
