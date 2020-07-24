@@ -43,6 +43,7 @@
 * [ResourceTrade.earth](https://resourcetrade.earth/data): 전세계 무역을 잘 시각화한 사이트
 * [Data Visualization: A practical introduction](https://socviz.co/refineplots.html#refineplots) by Kieran Healy
 * [How to Choose Colors for Data Visualizations](https://chartio.com/learn/charts/how-to-choose-colors-data-visualization/)
+* [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 
 ### 공공데이터
 

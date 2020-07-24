@@ -38,6 +38,7 @@ Rust는 강력한 타입체킹과 퍼포먼스가 장점인데, 배포과정이 
 ## 파이썬
 
 * [빠르게 시작하는 pytest](https://jiyeonseo.github.io/2020/03/10/pytest/) by 치즈님
+* [Data To Fish](https://datatofish.com/): Data To Fish was born in an effort to facilitate the application of data science using various tools such as Python, R, Julia and SQL.
 
 ### 성능 이슈
 
