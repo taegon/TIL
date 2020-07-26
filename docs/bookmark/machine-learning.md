@@ -89,5 +89,7 @@
 * [Stratified Sampling](https://jehyunlee.github.io/2020/05/11/Python-DS-13-stratified_sampling/): 이제현님 블로그
 * [10 TensorFlow Tricks Every ML Practioner Must Know (번역본)](https://jehyunlee.github.io/2020/05/22/Python-DS-14-10_TF_skills/)
 * [머신러닝의 규칙: 머신러닝 엔지니어링 실무지침서](https://developers.google.com/machine-learning/guides/rules-of-ml): 구글 디벨로퍼스
+* [Machine Learning Research at Apple](https://machinelearning.apple.com/)
+* [Amazon Science](https://www.amazon.science/)
 
 <vue-disqus/>
