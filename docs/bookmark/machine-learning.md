@@ -24,6 +24,11 @@
 * [TOP AI & MACHINE LEARNING RESEARCH PAPERS FROM 2019](https://www.topbots.com/top-ml-research-papers-2019/)
 * [[Updated] BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://blog.tensorflow.org/2019/11/updated-bodypix-2.html)
 
+## ML 활용 연구
+
+* [Knowledge Guided Machine Learning](https://sites.google.com/umn.edu/kgml/home?authuser=0)
+  * [KGML Workshop](https://www.youtube.com/channel/UCMYTOjm4uAI3xKWGY7_7xKA)
+
 ## ML 관련 자료
 
 * [Neil Lawrence's Talks](http://inverseprobability.com/talks/): Gaussian Processes 관련 자료가 많다. 블로그나 논문 자료 등도 살펴볼만 하다.
@@ -91,5 +96,7 @@
 * [머신러닝의 규칙: 머신러닝 엔지니어링 실무지침서](https://developers.google.com/machine-learning/guides/rules-of-ml): 구글 디벨로퍼스
 * [Machine Learning Research at Apple](https://machinelearning.apple.com/)
 * [Amazon Science](https://www.amazon.science/)
+* [Understanding mini-batch gradient descent](https://www.coursera.org/lecture/deep-neural-network/understanding-mini-batch-gradient-descent-lBXu8)
+* [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
 
 <vue-disqus/>
