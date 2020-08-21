@@ -67,3 +67,5 @@
 * [Qiusheng Wu - University of Tennessee](https://wetlands.io/)
 * [Planet GEE Pipeline CLI](https://samapriya.github.io/projects/planet_gee_pipeline_cli/): Planet의 개발자
 * [FraLab FTP server](http://web.gps.caltech.edu/~cfranken/data.html): Africa TROPOMI dataset
+* [INTEGRATING EARTH ENGINE WITH TENSORFLOW II - U-NET](https://csaybar.github.io/blog/2019/06/21/eetf2/)
+* [SLC code not filling all Landsat 7 SR gaps](https://stackoverflow.com/questions/55256739/slc-code-not-filling-all-landsat-7-sr-gaps/55271390#55271390)
