@@ -129,6 +129,7 @@
   * [Kenneth Moreland](https://www.kennethmoreland.com/color-maps/)
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/)
   * [github.com/clauswilke/dataviz](https://github.com/clauswilke/dataviz)
+* [Data Visualization Process에서 생기는 여러가지 문제점](https://subinium.github.io/data-changes-everything/)
 
 ## 노트북 (연습예제)
 
