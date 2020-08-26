@@ -2,7 +2,10 @@
 
 ## tl;dr
 
-- [Hyper](https://hyper.is/)가 가장 나은 선택으로 보인다.
+- 2020년 8월 현재, Windows Terminal이 가장 좋은 선택지로 보인다.
+  - [Style your Windows terminal and use WSL and PowerShell like a pro](https://medium.com/@hjgraca/style-your-windows-terminal-and-wsl2-like-a-pro-9a2e1ad4c9d0)를 참조하여 zsh과 powerline를 설치하였다.
+  - [fzf](https://github.com/junegunn/fzf#windows)도 설치하였다. 한국개발자가 개발한 도구인데, 꽤나 유명하고 편리하다.
+- ~~[Hyper](https://hyper.is/)가 가장 나은 선택으로 보인다.~~
 - ConEmu는 oh-my-zsh 설정시 폰트 밀림 현상이 있다.
 - 기본 터미널(cmd) 혹은 powershell은 추가적인 설정(색상 변경, 플러그인 설치 등)가 제한적이다.
 
