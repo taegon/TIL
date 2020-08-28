@@ -9,6 +9,7 @@
 * [github.com/pandas-profiling/pandas-profiling](https://github.com/pandas-profiling/pandas-profiling): 판다스 EDA 툴
 * [Dataprep.eda](https://eda-ai-lab.tistory.com/484): Accelerate your EDA (EDA 자동화 패키지)
 * [DataExplorer](https://blog.revolutionanalytics.com/2018/02/dataexplorer.html): Fast Data Exploration With Minimum Code
+* [autoEDA-resources](https://github.com/mstaniak/autoEDA-resources)
 
 ## Data visualization
 
@@ -16,3 +17,12 @@
 * [Tools - matplotlib](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb): "핸즈온 머신러닝" 저자가 최근 공개한 matplotlib의 기초적인 튜토리얼
   * [Tools - matplotlib (번역본)](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
   * [이제현님의 추가본](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/): 블로그 형태여서, 그냥 보기에는 이 쪽이 낫다.
+
+## blog
+
+* 딥상어동 님
+  * [[파이썬] Pandas EDA 끝판왕: Pandas_profiling](https://m.blog.naver.com/tjdrud1323/221756352200)
+  * [[파이썬] 확률 분포(Probability Distribution) 그래프 그리기](https://m.blog.naver.com/tjdrud1323/221737009928)
+  * [PCA(주성분 분석)_Python(파이썬) 코드 포함](https://m.blog.naver.com/PostView.nhn?blogId=tjdrud1323&logNo=221720259834&targetKeyword=&targetRecommendationCode=1)
+  * [Partial Dependence Plot(PDP)_python code](https://m.blog.naver.com/tjdrud1323/221727220379)
+  * [머신러닝, 딥러닝 수업 기말고사 참고 자료(PCA ,SVM, Clustering, RNN, CNN, DNN, distance metric등)](https://m.blog.naver.com/tjdrud1323/221732907666)
