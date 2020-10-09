@@ -1,5 +1,9 @@
 # 연구에 관련되어 있는 토픽
 
+## 2020년 10월
+
+* [Charleston, South Carolina: City wide GHG reports](https://www.charleston-sc.gov/2311/Greenhouse-Gas-Emissions)
+
 ## 2020년 1월
 
 * [종관기상관측 일자료 API](https://data.kma.go.kr/api/selectApiDetail.do?openApiNo=242): 기상청 웹사이트가 업데이트되면서, 기존 링크가 바뀌었다. 일단 업데이트 상황을 지켜보자.
