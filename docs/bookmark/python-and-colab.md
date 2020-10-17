@@ -44,3 +44,4 @@ plt.show()
 ## 블로그
 
 * [[번역] 파이썬 함수 작성 시 자주 범하는 실수 5가지](https://lazymatlab.tistory.com/m/109)
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
