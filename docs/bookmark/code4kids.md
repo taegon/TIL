@@ -8,6 +8,7 @@
 * [grasshopper](https://grasshopper.app/) by Google: JavaScript를 이용하여 visual quiz를 푸는 방식.
 * [SnappyCode](https://snappycode.org): PyCon 2019 in Cleveland, Ohio 동영상에서 발견. a block-based version of Python the presenter. [원출처: Teaching Python to Elementary School Children: A Block Based Approach](https://pycon-archive.python.org/2019/schedule/presentation/417/)
 * [code.org](https://code.org/): 교육자료가 아주 잘 정리되어 있다. :+1:
+* [mathigon: Surface Area of a Sphere](https://mathigon.org/course/circles/spheres-cones-cylinders#sphere-maps): 프로젝션에 따라 지도표면의 면적이 어떻게 바뀌는지 인터렉티브하게 보여줌. 사이트 전체적으로 훌륭하다. 아이들 교육자료로 매우 훌륭해보인다. 약간 나이가 있어야하지만 (K6-K12). :+1:
 
 ## 관련 블로그
 
