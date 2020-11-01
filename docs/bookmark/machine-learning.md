@@ -52,6 +52,9 @@
 * [scikit-learn](http://scikit-learn.org/stable/user_guide.html): 공식 매뉴얼인데, 자료가 좋다.
 * [fastai](https://www.fast.ai/)
 * [Google AI Hub](https://aihub.cloud.google.com/u/0/): 구글에서 자사 솔루션과 템플릿을 한곳에 모아서 제공하고 있다. Kubeflow pipeline, Kaggle, BigQuery, VM 이미지 등의 자료를 찾아볼 수 있다.
+* [AI Hub](https://www.aihub.or.kr/): 한국정보화진흥원에서 AI 학습용 데이터를 제공하고 있다.
+* [github.com/ko-nlp/Korpora](https://github.com/ko-nlp/Korpora): 한글 말뭉치 데이터셋
+* [github.com/songys/AwesomeKorean_Data](https://github.com/songys/AwesomeKorean_Data): 한글 말뭉치 데이터셋
 
 ## 튜토리얼
 
@@ -74,8 +77,9 @@
 
 * [(밑바닥부터 시작하는) 데이터 과학: 데이터 분석을 위한 파이썬 프로그래밍과 수학, 통계 기초](http://www.yes24.com/Product/Goods/27951467): 데이터 과학 개론서로 좋은 책. 특히 2장의 파이썬 속성강좌도 굉장히 좋다. 25장의 더 공부할 거리도 좋은 길잡이가 된다. 개인적으로 저자와 역자 모두 팬인데, 최근 저자가 2판 개정판을 준비하고 있다는 소식을 전했다.
 * [딥러닝의 정석: 텐서플로와 최신 기법으로 배우는 딥러닝 알고리즘 설계](http://www.yes24.com/Product/Goods/58707156): 임백준 작가님이 추천해준 책.
-* [핸즈온 머신러닝: 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무](http://www.yes24.com/Product/Goods/59878826): 역자인 박해선님 블로그에도 좋은 자료가 많다.
+* [핸즈온 머신러닝: 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무 (2판)](http://www.yes24.com/Product/Goods/89959711?OzSrank=1): 역자인 박해선님 블로그에도 좋은 자료가 많다.
   * [텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/): 박해선님 개인 블로그.
+* [패턴 인식과 머신러닝](https://jpub.tistory.com/835)
 
 ## 관련 도구
 
@@ -98,5 +102,10 @@
 * [Amazon Science](https://www.amazon.science/)
 * [Understanding mini-batch gradient descent](https://www.coursera.org/lecture/deep-neural-network/understanding-mini-batch-gradient-descent-lBXu8)
 * [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
+* [안수빈님 캐글 노트북](https://www.kaggle.com/subinium/notebooks)
+
+## 논문
+
+* [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732)
 
 <vue-disqus/>

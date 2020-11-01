@@ -6,6 +6,7 @@
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Udacity: A/B Testing](https://classroom.udacity.com/courses/ud257) by Google
 * [COUNT BAYESIE](https://www.countbayesie.com/blog/2020/8/16/why-bayesian-stats-need-monte-carlo-methods): 베이시안 관련 블로그
+* [Open ET](https://github.com/Open-ET/openet-refet-gee): GEE를 이용한 기준 증발산량 산정프로그램
 
 ## 2020년 1월
 
