@@ -1,6 +1,7 @@
 # 데이터사이언스 관련 북마크
 
 * [인투더데이터](https://intothedata.com/00.about/): 데이터 사이언스에 관한 개념을 정리해둔 개인 위키. 빠르게 개념을 찾아보고 읽기에 좋아보인다.
+* [데이터사이언스스쿨](https://datascienceschool.net/intro.html): 파이썬, 수학, 머신러닝으로 파트를 나누어서 관련한 내용을 전반적으로 다루고 있다.
 
 ## EDA
 
@@ -26,3 +27,6 @@
   * [PCA(주성분 분석)_Python(파이썬) 코드 포함](https://m.blog.naver.com/PostView.nhn?blogId=tjdrud1323&logNo=221720259834&targetKeyword=&targetRecommendationCode=1)
   * [Partial Dependence Plot(PDP)_python code](https://m.blog.naver.com/tjdrud1323/221727220379)
   * [머신러닝, 딥러닝 수업 기말고사 참고 자료(PCA ,SVM, Clustering, RNN, CNN, DNN, distance metric등)](https://m.blog.naver.com/tjdrud1323/221732907666)
+* [Bayes Rule / Bayes’ theoremd이란?](https://beomi.github.io/2020/07/01/Review-the-Interview/#more): 이준범님 블로그
+  * [트위터에서 많은 팔로워를 크롤링하는 방법 [3]: 1초에 5천개 데이터 가져오기](https://beomi.github.io/2019/12/22/Crawling_Twitter_Following_3/#more)
+  * [로컬 개발서버를 HTTPS로 세상에 띄우기(like ngork)](https://beomi.github.io/2017/08/26/SSH-Reverse-Proxy-like-ngrok/)

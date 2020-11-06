@@ -181,3 +181,7 @@
 * [Beautiful colormaps for oceanography: cmocean](https://matplotlib.org/cmocean/)
 * [Lightness of Matplotlib colormaps](https://matplotlib.org/3.2.1/tutorials/colors/colormaps.html#lightness-of-matplotlib-colormaps)
 * 위 링크와 같은 그림을 그려주고, color wheel에서 팔레트를 고를 수 있는 웹사이트가 있었는데, 도저히 찾을 수가 없다. 이틀 밤을 새서 찾았는데, 못 찾았다. 덕분에 이 섹션 리스트가 길어졌다.
+
+## Observable
+
+* [Graph layout and rendering with Dagre-D3](https://observablehq.com/@olange/layouted-graph-visualization): 데이터를 자신의 다른 노트북을 임포트해서 쓰는 것이 인상적이다.
