@@ -30,3 +30,4 @@
 * [Bayes Rule / Bayes’ theoremd이란?](https://beomi.github.io/2020/07/01/Review-the-Interview/#more): 이준범님 블로그
   * [트위터에서 많은 팔로워를 크롤링하는 방법 [3]: 1초에 5천개 데이터 가져오기](https://beomi.github.io/2019/12/22/Crawling_Twitter_Following_3/#more)
   * [로컬 개발서버를 HTTPS로 세상에 띄우기(like ngork)](https://beomi.github.io/2017/08/26/SSH-Reverse-Proxy-like-ngrok/)
+* [Allen Downey](https://allendowney.github.io/Portfolio/narrative20.html): ThinkStat, ThinkBayes 같은 책을 무료 ebook으로 제공하고 있는 다우니 교수. 연간성과보고서도 인상적이다.
