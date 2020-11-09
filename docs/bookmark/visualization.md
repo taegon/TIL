@@ -117,6 +117,43 @@
 
 [폰트 파일](./font.md) 참조
 
+* [비선형 계획 문제의 쌍대정리 예제](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/svm/duality_example.ipynb): 노트북의 폰트를 잘 써서, 책처럼 잘 정리가 된 예. 특히 붉은 색으로 헤드를 쓴, "예제 1", "참고문헌" 등은 매우 인상적이다.
+
+```html
+%%html
+<link href='https://fonts.googleapis.com/earlyaccess/notosanskr.css' rel='stylesheet' type='text/css'>
+<!--https://github.com/kattergil/NotoSerifKR-Web/stargazers-->
+<link href='https://cdn.rawgit.com/kattergil/NotoSerifKR-Web/5e08423b/stylesheet/NotoSerif-Web.css' rel='stylesheet' type='text/css'>
+<!--https://github.com/Joungkyun/font-d2coding-->
+<link href="http://cdn.jsdelivr.net/gh/joungkyun/font-d2coding/d2coding.css" rel="stylesheet" type="text/css">
+<style>
+    h1 { font-family: 'Noto Sans KR' !important; color:#348ABD !important;   }
+    h2 { font-family: 'Noto Sans KR' !important; color:#467821 !important;   }
+    h3 { font-family: 'Noto Sans KR' !important; color:#A60628 !important;   }
+    h4 { font-family: 'Noto Sans KR' !important; color:#7A68A6 !important;   }        
+            
+    p:not(.navbar-text) { font-family: 'Noto Serif KR', 'Nanum Myeongjo'; font-size: 12pt; line-height: 200%;  text-indent: 10px; }
+    li:not(.dropdown):not(.p-TabBar-tab):not(.p-MenuBar-item):not(.jp-DirListing-item):not(.p-CommandPalette-header):not(.p-CommandPalette-item):not(.jp-RunningSessions-item):not(.p-Menu-item)   
+            { font-family: 'Noto Serif KR', 'Nanum Myeongjo'; font-size: 12pt; line-height: 200%; }
+    table  { font-family: 'Noto Sans KR' !important;  font-size: 11pt !important; }           
+    li > p  { text-indent: 0px; }
+    li > ul { margin-top: 0px !important; }       
+    sup { font-family: 'Noto Sans KR'; font-size: 9pt; } 
+    code, pre  { font-family: D2Coding, 'D2 coding' !important; font-size: 12pt !important; line-height: 130% !important;}
+    .code-body { font-family: D2Coding, 'D2 coding' !important; font-size: 12pt !important;}
+    .ns        { font-family: 'Noto Sans KR'; font-size: 15pt;}
+    .summary   {
+                   font-family: 'Georgia'; font-size: 12pt; line-height: 200%; 
+                   border-left:3px solid #D55E00; 
+                   padding-left:20px; 
+                   margin-top:10px;
+                   margin-left:15px;
+               }
+    .green { color:#467821 !important; }
+    .comment { font-family: 'Noto Sans KR'; font-size: 10pt; }
+</style>
+```
+
 ## 블로그/사이트
 
 * [MIT 4.032 / 4.033 Design Studio: Information and Visualization Projects](https://irenedelatorre.github.io/MIT-Design-Studio-Information-and-Visualization/)
