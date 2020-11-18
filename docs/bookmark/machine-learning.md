@@ -103,7 +103,11 @@
 * [Understanding mini-batch gradient descent](https://www.coursera.org/lecture/deep-neural-network/understanding-mini-batch-gradient-descent-lBXu8)
 * [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
 * [안수빈님 캐글 노트북](https://www.kaggle.com/subinium/notebooks)
-
+* [김영준님 개인 블로그](https://ezobear.github.io/iou/2020/01/02/IOU-post.html): ML 관련 공부한 내용을 블로그로 정리하고 있다.
+* [테디노트](https://teddylee777.github.io/): ML 관련 블로그를 짧은 시간동안 많이 올려두었는데, 노트북코드처럼 데이터를 가지고 실습하면서 결과를 설명하고 있어서, 쭉 훑어보기에 좋은 블로그이다.
+* [GitHub, youtube-dl 저장소 복원](https://news.hada.io/topic?id=3213)
+* [푸리에 변환을 반응형으로 소개합니다](http://www.jezzamon.com/fourier/ko.html): 시각화를 통해 아주 잘 설명된 글이다.
+  
 ## 논문
 
 * [A Unifying Review of Deep and Shallow Anomaly Detection](https://arxiv.org/abs/2009.11732)
