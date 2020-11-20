@@ -86,6 +86,7 @@
 * [Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/LeNet.html)
 * [Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
 * [Netron](https://github.com/lutzroeder/netron): Netron is a viewer for neural network, deep learning and machine learning models.
+* [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 
 ## 모델 구현 예제
 
