@@ -168,6 +168,7 @@
   * [github.com/clauswilke/dataviz](https://github.com/clauswilke/dataviz)
 * [Data Visualization Process에서 생기는 여러가지 문제점](https://subinium.github.io/data-changes-everything/)
 * [Awesome Visualization with Titanic Dataset](https://www.kaggle.com/subinium/awesome-visualization-with-titanic-dataset)
+* [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
 
 ## 노트북 (연습예제)
 
