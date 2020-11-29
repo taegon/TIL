@@ -55,6 +55,7 @@
 * [AI Hub](https://www.aihub.or.kr/): 한국정보화진흥원에서 AI 학습용 데이터를 제공하고 있다.
 * [github.com/ko-nlp/Korpora](https://github.com/ko-nlp/Korpora): 한글 말뭉치 데이터셋
 * [github.com/songys/AwesomeKorean_Data](https://github.com/songys/AwesomeKorean_Data): 한글 말뭉치 데이터셋
+* [MS의 연구동향 페이지](https://www.microsoft.com/en-us/research/)
 
 ## 튜토리얼
 
