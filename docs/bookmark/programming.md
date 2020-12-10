@@ -42,6 +42,7 @@ Rust는 강력한 타입체킹과 퍼포먼스가 장점인데, 배포과정이 
 * [Data To Fish](https://datatofish.com/): Data To Fish was born in an effort to facilitate the application of data science using various tools such as Python, R, Julia and SQL.
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/Coroutines.pdf)
+* [note.nkmk.me](https://note.nkmk.me/en/): 개인블로그인데, 파이썬 관련한 코드들이 깔끔하게 잘 정리되어 있다.
 
 ### 성능 이슈
 
