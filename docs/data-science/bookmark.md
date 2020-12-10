@@ -2,6 +2,7 @@
 
 * [인투더데이터](https://intothedata.com/00.about/): 데이터 사이언스에 관한 개념을 정리해둔 개인 위키. 빠르게 개념을 찾아보고 읽기에 좋아보인다.
 * [데이터사이언스스쿨](https://datascienceschool.net/intro.html): 파이썬, 수학, 머신러닝으로 파트를 나누어서 관련한 내용을 전반적으로 다루고 있다.
+* [Practical Data Science](https://www.datasciencecourse.org/lectures/) from CMU
 
 ## EDA
 
