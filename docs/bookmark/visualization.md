@@ -171,6 +171,7 @@
 * [Data Visualization Process에서 생기는 여러가지 문제점](https://subinium.github.io/data-changes-everything/)
 * [Awesome Visualization with Titanic Dataset](https://www.kaggle.com/subinium/awesome-visualization-with-titanic-dataset)
 * [The Ultimate Python Seaborn Tutorial: Gotta Catch ‘Em All](https://elitedatascience.com/python-seaborn-tutorial)
+* [Jason Davies](https://www.jasondavies.com/): 개인 블로그. d3로 시각화 예제를 모아두었다.
 
 ## 노트북 (연습예제)
 
