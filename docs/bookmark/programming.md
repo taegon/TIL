@@ -35,6 +35,7 @@ Rust는 강력한 타입체킹과 퍼포먼스가 장점인데, 배포과정이 
 * [Rust 기초](https://jiyeonseo.github.io/2020/03/07/start-rust/) by 치즈님
 * [Tour of Rust](https://tourofrust.com/): 단계별로 배우는 Rust 가이드
 * [Python을 Rust로 변환하며 Rust배우기](https://news.hada.io/topic?id=2563)
+* [Design patterns in Rust](https://rust-unofficial.github.io/patterns/)
 
 ## 파이썬
 
