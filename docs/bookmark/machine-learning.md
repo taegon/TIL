@@ -109,6 +109,7 @@
 * [테디노트](https://teddylee777.github.io/): ML 관련 블로그를 짧은 시간동안 많이 올려두었는데, 노트북코드처럼 데이터를 가지고 실습하면서 결과를 설명하고 있어서, 쭉 훑어보기에 좋은 블로그이다.
 * [[slow paper] Glow: Generative Flow with Invertible 1x1 Convolutions](https://medium.com/@sunwoopark/slow-paper-glow-generative-flow-with-invertible-1x1-convolutions-837710116939)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6): 70:20:10를 잘 정리해두었다.
+* [Why XGBoost can’t solve all your problems.](https://towardsdatascience.com/why-xgboost-cant-solve-all-your-problems-b5003a62d12a)
 
 ## 논문
 
