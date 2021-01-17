@@ -47,7 +47,7 @@ Rust는 강력한 타입체킹과 퍼포먼스가 장점인데, 배포과정이 
 
 ## Swift
 
-* [](https://www.hackingwithswift.com/)
+* [Hacking with Swift](https://www.hackingwithswift.com/)
 
 ### 성능 이슈
 
