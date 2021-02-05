@@ -2,6 +2,14 @@
 
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 * [Front End Interview Handbook](https://yangshun.github.io/front-end-interview-handbook/kr/html-questions/)
+* [How I got into FAANG](https://www.davidseek.com/faang/)
+* [이직에 성공했습니다](https://www.milemoa.com/bbs/board/8277648) by doomoo
+* [마모: 실리콘밸리 회사별 인터뷰 경향](https://www.milemoa.com/bbs/board/8286458) by doomoo
+* [Industry research scientist 인터뷰 경험](https://www.milemoa.com/bbs/board/8288395) by 연습생 (제약 관련 연구직)
+* [두서 없이 적는 CS 박사의 인더스트리 취업 경험기 (1): 개요편](https://www.milemoa.com/bbs/board/6570606)  by bn
+* [두서 없이 적는 CS 박사의 인더스트리 취업 경험기 (2) : 인터뷰 & 후기 [07/11 업데이트]](https://www.milemoa.com/bbs/board/6582742) by bn
+* [두서 없이 적는 CS 박사의 인더스트리 취업 경험기 (3) : 네고편](https://www.milemoa.com/bbs/board/7001920)
+ by bn
 
 ## AWS
 
