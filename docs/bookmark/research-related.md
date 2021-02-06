@@ -1,5 +1,9 @@
 # 연구에 관련되어 있는 토픽
 
+## 2021년 2월
+
+* [CSDMS](https://csdms.colorado.edu/wiki/Model:FwDET): community surface dynamics modeling system. 지표수 모형들을 목록을 만들고 관련 논문들을 모아두었다. geemap를 만드는 Qiusheng Wu교수가 스타를 해서 살펴보았다.
+
 ## 2020년 10월
 
 * [Charleston, South Carolina: City wide GHG reports](https://www.charleston-sc.gov/2311/Greenhouse-Gas-Emissions)
