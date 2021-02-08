@@ -110,6 +110,7 @@
 * [[slow paper] Glow: Generative Flow with Invertible 1x1 Convolutions](https://medium.com/@sunwoopark/slow-paper-glow-generative-flow-with-invertible-1x1-convolutions-837710116939)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6): 70:20:10를 잘 정리해두었다.
 * [Why XGBoost can’t solve all your problems.](https://towardsdatascience.com/why-xgboost-cant-solve-all-your-problems-b5003a62d12a)
+* [7 Tips To Maximize PyTorch Performance](https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259)
 
 ## 논문
 
