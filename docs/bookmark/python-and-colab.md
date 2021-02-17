@@ -47,3 +47,8 @@ plt.show()
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 * [파이썬 PIP Install 패키지 만들어보기](https://onlytojay.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-pip-install-%ED%8C%A8%ED%82%A4%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-42ea68f4fabd)
 * [나만의 파이썬 패키지를 작성하는 법](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076)
+
+## CLI
+
+* [Rich](https://news.hada.io/topic?id=2025): 터미널을 화려하게 포매팅하는 파이썬 라이브러리
+* click
