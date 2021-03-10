@@ -111,6 +111,7 @@
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6): 70:20:10를 잘 정리해두었다.
 * [Why XGBoost can’t solve all your problems.](https://towardsdatascience.com/why-xgboost-cant-solve-all-your-problems-b5003a62d12a)
 * [7 Tips To Maximize PyTorch Performance](https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259)
+* [When to NOT use XGBoost?](https://www.kaggle.com/discussion/196542): 샘플 수가 적거나, feature가 너무 많을 때, 시계열, 시그널, Computer vision, NLP 등에는 사용하지 않는 것이 좋다는 의견.
 
 ## 논문
 
