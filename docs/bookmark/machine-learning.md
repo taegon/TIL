@@ -68,6 +68,7 @@
   * [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) at YouTube
 * [Google Codelabs](https://codelabs.developers.google.com/): 다양한 예제를 통해 학습자료를 제공하고 있다.
 * [Full Stack Deep Learning](https://course.fullstackdeeplearning.com/)
+* [인공지능팩토리의 강좌모음](http://aifactory.space/kld): 캐글 코리아의 김태영님이 운영하시는 사이트인 것 같다. 좋은 발표자료가 많다.
 
 ## 봇 관련
 
