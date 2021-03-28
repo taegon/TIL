@@ -187,6 +187,7 @@
 * [Google Arts & Culture - Zoom Views](https://artsandculture.google.com/project/gigapixels): 명화를 초고화질 이미지로 볼 수 있다.
 * [하버드대 와이드너 도서관, 내부를 3D/VR로 공개](https://my.matterport.com/show/?m=fs3gQv7n1QG)
 * [이집트 가상투어 : 파라오 람세스 6세의 무덤과 피라미드들](https://news.hada.io/topic?id=2004)
+* [루브르 박물관, 소장작품 48만개를 온라인으로 공개](https://news.hada.io/topic?id=3969)
 
 ## color palette
 
