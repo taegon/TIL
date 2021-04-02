@@ -1,9 +1,11 @@
 {
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.7.1",
-    "@vuepress/plugin-google-analytics": "^1.7.1",
-    "@vuepress/plugin-last-updated": "^1.7.1",
-    "vuepress": "^1.7.1",
+    "@vuepress/plugin-back-to-top": "^1.8.2",
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "@vuepress/plugin-last-updated": "^1.8.2",
+    "is-svg": ">=4.2.2",
+    "ssri": ">=8.0.1",
+    "vuepress": "^1.8.2",
     "vuepress-plugin-disqus-comment": "^0.2.3"
   },
   "scripts": {
