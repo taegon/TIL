@@ -230,3 +230,9 @@
 ## Observable
 
 * [Graph layout and rendering with Dagre-D3](https://observablehq.com/@olange/layouted-graph-visualization): 데이터를 자신의 다른 노트북을 임포트해서 쓰는 것이 인상적이다.
+* [All the passes ⚽️](https://observablehq.com/@karimdouieb/all-the-passes): interactive example.
+
+## Examples
+
+* [River runner](https://river-runner.samlearner.com/)
+* [Mesmerizing Commute Maps Reveal We All Live in Mega-Regions, Not Cities](https://www.wired.com/2016/12/mesmerizing-commute-maps-reveal-live-mega-regions-not-cities/)
