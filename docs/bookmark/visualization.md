@@ -95,6 +95,7 @@
 * [github.com/mapbox/mbutil](https://github.com/mapbox/mbutil)
 * [github.com/phawthorne/online-map-demo](https://github.com/phawthorne/online-map-demo)
   * [demo](phawthorne.github.io/online-map-demo)
+* [모두의 지도](https://modoomap.com/map?id=k88a199611ac2b85bd3f76e8ee7e55650): 확대 축소시 POI 갯수를 효과적으로 보여준다.
 
 ## 좋은 예제
 
