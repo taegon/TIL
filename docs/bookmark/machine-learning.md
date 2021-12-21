@@ -83,6 +83,7 @@
 * [핸즈온 머신러닝: 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무 (2판)](http://www.yes24.com/Product/Goods/89959711?OzSrank=1): 역자인 박해선님 블로그에도 좋은 자료가 많다.
   * [텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/): 박해선님 개인 블로그.
 * [패턴 인식과 머신러닝](https://jpub.tistory.com/835)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## 관련 도구
 
