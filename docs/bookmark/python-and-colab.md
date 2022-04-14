@@ -52,3 +52,8 @@ plt.show()
 
 * [Rich](https://news.hada.io/topic?id=2025): 터미널을 화려하게 포매팅하는 파이썬 라이브러리
 * click
+
+## 강의자료
+
+* [공학자를 위한 Python](https://wikidocs.net/15214)
+* [mindscale Pandas 기초](https://mindscale.kr/course/pandas-basic/stat/)
