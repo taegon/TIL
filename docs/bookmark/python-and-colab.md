@@ -58,5 +58,7 @@ plt.show()
 
 * [공학자를 위한 Python](https://wikidocs.net/15214)
 * [mindscale Pandas 기초](https://mindscale.kr/course/pandas-basic/stat/)
+* [선형회귀 (한글자료)](https://justkode.kr/machine-learning/linear_model)
+* [데이터 사이언스 스쿨 - 넘파이 배열](https://datascienceschool.net/01%20python/03.01%20%EB%84%98%ED%8C%8C%EC%9D%B4%20%EB%B0%B0%EC%97%B4.html)
 * [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
 * [동국대 김진석 교수님 강의자료](http://bigdata.dongguk.ac.kr/lectures/datascience/_book/index.html)

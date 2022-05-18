@@ -40,6 +40,11 @@
 * [The 2019 AI Index report](https://hai.stanford.edu/ai-index/2019) by HAI at Stanford
 * [Deep Learning Monitor](https://deeplearn.org/)
 
+## 군집분석
+
+* [Hierarchical Clustering in Python using Dendrogram and Cophenetic Correlation](https://towardsdatascience.com/hierarchical-clustering-in-python-using-dendrogram-and-cophenetic-correlation-8d41a08f7eab)
+* [군집분석 slide](http://contents2.kocw.or.kr/KOCW/document/2016/kunsan/jungkangmo/12.pdf)
+
 ## 라이브러리
 
 * [TensorFlow](https://www.tensorflow.org/)

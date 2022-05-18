@@ -115,6 +115,7 @@
 * [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/): 간단한 ABM로 사회적 거리두기 혹은 자가격리의 효과를 시각화하여 보여주고 있다.
 * [economist: reimaginethegame](https://reimaginethegame.economist.com/en/dashboard/): 축구경기과정에서 관중함성을 시각화한 예시
   * [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/): 위 웹사이트의 제작자.
+* [GISTEMP Climate Spiral](https://svs.gsfc.nasa.gov/4975): 기온을 나선형으로 시각화. 팀프로젝트용으로 사용할 수 있겠다.
 
 ## 폰트
 
