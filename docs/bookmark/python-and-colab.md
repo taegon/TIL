@@ -33,6 +33,8 @@ plt.title("한글테스트")
 plt.show()
 ```
 
+* [구글 Colab에서 한글 문제 대응하기](https://pinkwink.kr/1255)
+
 ## GUI
 
 * [GUI Applications](https://docs.python-guide.org/scenarios/gui/) by 히치하이커를 위한 파이썬 가이드

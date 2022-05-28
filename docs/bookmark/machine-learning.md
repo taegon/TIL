@@ -120,6 +120,7 @@
 * [Why XGBoost can’t solve all your problems.](https://towardsdatascience.com/why-xgboost-cant-solve-all-your-problems-b5003a62d12a)
 * [7 Tips To Maximize PyTorch Performance](https://towardsdatascience.com/7-tips-for-squeezing-maximum-performance-from-pytorch-ca4a40951259)
 * [When to NOT use XGBoost?](https://www.kaggle.com/discussion/196542): 샘플 수가 적거나, feature가 너무 많을 때, 시계열, 시그널, Computer vision, NLP 등에는 사용하지 않는 것이 좋다는 의견.
+* [Deep Q-learning으로 뱀 게임 인공지능 만들기](https://www.secmem.org/blog/2020/02/08/snake-dqn/)
 
 ## 논문
 
