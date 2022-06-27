@@ -48,3 +48,7 @@
 * [Brian K. Blaylock](http://home.chpc.utah.edu/~u0553130/Brian_Blaylock/home.html): 분류하기가 조금 애매한데, 잘 만들어진 편이고, 컨텐츠가 무척좋다. 석사, 박사 과정동안 작업했던 내용들을 정리해서 올려두었다. 다소 과한 느낌이 없지 않지만, 대학원 과정을 거치면서 이정도로 컨텐츠를 정리해두기가 거의 불가능하기 때문에 굉장히 좋은 케이스라고 생각된다.
   * [Python@kbkb](https://kbkb-wx-python.blogspot.com/): 파이썬에서 지도를 그리는 코드를 찾다가 이 블로그를 찾고, Gist를 보다가 결국 북마크까지 한 케이스.
   * [gist.github.com/blaylockbk](https://gist.github.com/blaylockbk): Gist를 활용하는 방식이 훌륭하다. 예제 코드를 올려두고, 댓글로 결과를 함께 올려두었다. 이렇게 하면, 나중에 코드를 찾아보기 수월하기 때문에 잘 정리해 둔 것 같다.
+
+## 개발자 홈페이지
+
+* [이것저것 기록 by anweh](https://anweh.tistory.com/): 공부시작한지 2-3년 된 것 같은데, 꾸준히 자료를 잘 정리하고 있는 것 같다.
